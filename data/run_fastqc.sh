@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#$ -q sandbox@compute-0-1
+#$ -q sandbox
 #$ -S /bin/bash
 
 # Print some informative error meassages
