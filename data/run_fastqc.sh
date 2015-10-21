@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#$ -q sandbox@compute-0-1
+#$ -S /bin/bash
+
 # Print some informative error meassages
 err() {
     echo "$1 exited unexpectedly";
@@ -16,11 +19,11 @@ if [ "$1" == "0" ]; then
 		fi
 		}
 
-for dir in /nobackup/data6/sylvie/Resequenced_Strains_Godhe_15_01/*
+for dir in /nobackup/data11/Pseudomonas_putida_transcriptome_project/data/*
 do
 	cd $dir/*
 	echo $PWD
-#    	fastqc *.fastq.gz
+    	fastqc *.fastq.gz
 	fastqc *.fastq.gz
 	ckeckExit $? $PWD
         echo "Done"
