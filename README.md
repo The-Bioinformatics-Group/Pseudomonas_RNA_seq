@@ -1,0 +1,38 @@
+# Introduction
+Pseudomonas putida transcriptome
+
+# Data
+Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of the data ramains on UPPMAX in /proj/b2014338/INBOX/T.Backhaus_15_01
+
+`rsync -hav matst@milou.uppmax.uu.se:/proj/b2014338/INBOX/T.Backhaus_15_01/* .`
+
+```bash
+[matst@milou2 T.Backhaus_15_01]$ du -hs *
+929M	P2201_101
+726M	P2201_102
+762M	P2201_103
+805M	P2201_104
+699M	P2201_105
+788M	P2201_106
+883M	P2201_107
+745M	P2201_108
+640M	P2201_109
+781M	P2201_110
+726M	P2201_111
+822M	P2201_112
+697M	P2201_113
+747M	P2201_114
+786M	P2201_115
+1.1G	P2201_116
+685M	P2201_117
+634M	P2201_118
+836M	P2201_119
+877M	P2201_120
+820M	P2201_121
+730M	P2201_122
+895M	P2201_123
+790M	P2201_124
+704K	T.Backhaus_15_01_150702_AC6U4VANXX_sample_summary.pdf
+64K	T.Backhaus_15_01_project_summary.pdf
+```
+
