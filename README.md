@@ -1,5 +1,4 @@
 # Introduction
-==============
 Pseudomonas putida transcriptome
 
 ## Data
@@ -38,19 +37,18 @@ Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of th
 ```
 
 # What has been done
-====================
 
 # Data preparation
 
 ## Fastqc analysis
 Running fastqc on all samples using the script:
-/Scripts/Data_preparation/fastqc.sge
+* /Scripts/Data_preparation/fastqc.sge
 
 ### Initial fastqc analysis
-The files are located in the following directory and named like this:
-/Initial_quality/Fastqc_ZIP/8_150702_AC6U4VANXX_P2201_101_1_fastqc.zip
-Read length: 126
-%GC: 55-57%
+The files are located in the following directory and are named like this:
+* /Initial_quality/Fastqc_ZIP/8_150702_AC6U4VANXX_P2201_101_1_fastqc.zip
+* Read length: 126
+* %GC: 55-57%
 The report from all samples was similar. There were small differences between forward and reverse reads.
 The per base sequence quality for the forwards reads was very bad for the first 5 and last approximately 30 bases.
 The reverse reads had a better per base sequence quality and only about 10 bad bases in	the end.
@@ -60,27 +58,27 @@ Another problem was a high k-mer content. This might be related to the generatio
 
 ### Quality trimming
 fastx trimmer and fastq quality trimmer were used for quality trimming
-/Scripts/Data_preparation/fastx_trimmer.sge
+* /Scripts/Data_preparation/fastx_trimmer.sge
 The flag Q33 was used for both trimmers (what does it do?)
 ???
 
 ### Final fastqc analysis
 The files are located in the following directory and named like this:
-/Initial_quality/Fastqc_ZIP/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2_fastqc.zip
+* /Initial_quality/Fastqc_ZIP/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2_fastqc.zip
 There are more intermediate files in this directory!
-Read length: about 112
-%GC: 55-57%
+* Read length: about 112
+* %GC: 55-57%
 Per base sequence quality and per base GC content was fixed for all samples. Per base sequence content was still reported as a minor problem, but further trimming wouldn't have solved this problem.
 Overpresented sequences and high sequence duplication levels are still reported as a problem. Unclear if this is due to differential expression or adapter contamination/cDNA primer. This might cause problems for de-novo assembly?
 
 ## Script - Paired data still paired?
-/Scripts/Data_preparation/paired_reads.sge 
+* /Scripts/Data_preparation/paired_reads.sge 
 This script was used to check if all reads still have their respective mate on the other strand. 
 Uses the pairSeq.py script located on Albiorix
 Outputs two files (paired reads and singles) for each forward and reverse file. 
 The location of one of this files:
-/data/P2201_1*/*/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2.Pair.fastq
-/data/P2201_1*/*/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2.Singles.fastq
+* /data/P2201_1*/*/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2.Pair.fastq
+* /data/P2201_1*/*/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2.Singles.fastq
 The files for Singles are rather small and contain about 1MB of sequences. 
 
 ## Copying files to high_mem server for assembly???
