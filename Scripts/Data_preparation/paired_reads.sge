@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#$ -S /bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 2
+
+F=11
+T=20
+
+for dir in /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_*
+do
+	cd $dir/*
+	
+     	file1=$PWD/$(ls *_1.t-20.FQT.2.fastq)
+        file2=$PWD/$(ls *_2.t-20.FQT.2.fastq)
+	echo ${file1}
+	echo ${file2}
+	python /usr/local/git/ngs/pairSeq.py ${file1} ${file2}
+
+done

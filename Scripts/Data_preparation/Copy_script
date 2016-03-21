@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#$ -cwd
+#$ -S /bin/bash
+#$ -q high_mem
+#$ -pe mpich 20
+
+cp  /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_*/*/*.FQT.2.Pair.fastq /state/partition2/Alexheinz
+
+
+
+
