@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#$ -cwd
+#$ -S /bin/bash
+#$ -q high_mem
+#$ -pe mpich 20
+
+for DIR in /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_*/*/
+do
+	cd $DIR
+	rsync -hav *.FQT.2.Pair.fastq /state/partition2/Alexheinz
+	wait
+	rsync -hav *.FQT.2.Singles.fastq /state/partition2/Alexheinz
+
+done
+
+

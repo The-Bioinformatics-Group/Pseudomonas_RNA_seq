@@ -1,0 +1,14 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 25
+#$ -o /state/partition2/Alexheinz/stdout_trinity.txt
+#$ -e /state/partition2/Alexheinz/stderr_trinity.txt
+#$ -S /bin/bash
+#$ -l mem_free=200G
+
+wait
+/usr/local/bin/trinityrnaseq_r20140717/Trinity --seqType fq --JM 200G --CPU 25 --left /state/partition2/Alexheinz/pair1.fastq,/state/partition2/Alexheinz/singles.fastq --right /state/partition2/Alexheinz/pair2.fastq --output /state/partition2/Alexheinz
+wait
+echo "Done with Trinity assembly"
+date

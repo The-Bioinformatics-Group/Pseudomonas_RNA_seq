@@ -1,0 +1,10 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 25
+
+wait
+SINGLE=/state/partition2/Alexheinz/
+PAIR=/state/partition2/Alexheinz/
+wait
+/usr/local/bin/trinityrnaseq_r20140717/Trinity --seqType fq --max_memory 150G --left ${PAIR}/ 

@@ -49,6 +49,7 @@ The files are located in the following directory and are named like this:
 * /Initial_quality/Fastqc_ZIP/8_150702_AC6U4VANXX_P2201_101_1_fastqc.zip
 * Read length: 126
 * %GC: 55-57%
+
 The report from all samples was similar. There were small differences between forward and reverse reads.
 The per base sequence quality for the forwards reads was very bad for the first 5 and last approximately 30 bases.
 The reverse reads had a better per base sequence quality and only about 10 bad bases in	the end.
@@ -59,6 +60,7 @@ Another problem was a high k-mer content. This might be related to the generatio
 ### Quality trimming
 fastx trimmer and fastq quality trimmer were used for quality trimming
 * /Scripts/Data_preparation/fastx_trimmer.sge
+
 The flag Q33 was used for both trimmers (what does it do?)
 ???
 
