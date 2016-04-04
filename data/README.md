@@ -1,5 +1,6 @@
-# Data preparations
+Contains:
 
-## Initial quality check and trimming
+* raw fastq files
+* quality trimmed fastq files 
+* paired and singlets files (used for Trinity)
 
-## 
