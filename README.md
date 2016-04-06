@@ -1,5 +1,5 @@
 # Introduction
-Pseudomonas putida transcriptome
+Pseudomonas putida transcriptome assembly
 
 ## Data
 Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of the data ramains on UPPMAX in /proj/b2014338/INBOX/T.Backhaus_15_01
@@ -35,8 +35,6 @@ Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of th
 704K	T.Backhaus_15_01_150702_AC6U4VANXX_sample_summary.pdf
 64K	T.Backhaus_15_01_project_summary.pdf
 ```
-
-# What has been done
 
 # Data preparation
 
@@ -98,3 +96,17 @@ Trinity (/home/local/bin/trinityrnaseq_r20140717) was run using the following Sc
 * /Scripts/Trinity_Bash/De_novo.sge
 
 I didn't use the newest Trinity version. (Why again???)
+
+### Trinity evaluation
+
+* Read content
+
+Count the number of paired-end reads that properly map to the transcriptome assembly.
+Some transcripts may be fragmented or short and only one fragment read of a pair may align.
+Using bowtie to	align each fragment to the transcriptome.
+Use alignment statistics to count all reads mapping back to the assembly.
+
+
+
+
+*     

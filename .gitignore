@@ -1,2 +1,5 @@
 data/*
 *~
+Analysis/Find_reference/data/*
+Analysis/Initital_quality/Fastqc_Zip
+

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#$ -cwd
+#$ -S /bin/bash
+#$ -q high_mem
+#$ -pe mpich 20
+
+
+rsync -hav /state/partition2/Alexheinz/pair*.fastq /nobackup/data9/Pseudomonas_putida_transcriptome_project/data
+wait
+rsync -hav /state/partition2/Alexheinz/singles.fastq /nobackup/data9/Pseudomonas_putida_transcriptome_project/data
+done
+
