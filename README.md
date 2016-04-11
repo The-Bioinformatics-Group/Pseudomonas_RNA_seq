@@ -1,5 +1,5 @@
 # Introduction
-Pseudomonas putida transcriptome assembly
+Pseudomonas putida transcriptome assembly - Strain Berlin 33/2
 
 ## Data
 Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of the data ramains on UPPMAX in /proj/b2014338/INBOX/T.Backhaus_15_01
@@ -52,8 +52,10 @@ The report from all samples was similar. There were small differences between fo
 The per base sequence quality for the forwards reads was very bad for the first 5 and last approximately 30 bases.
 The reverse reads had a better per base sequence quality and only about 10 bad bases in	the end.
 All samples had a bad per base sequence	content	and GC content for the first 10 bases.
-A high amount of overrepresented sequences and sequence duplication levels was also reported as a problem. This was expected (diff expression) and therefore didn't need quality trimming.
-Another problem was a high k-mer content. This might be related to the generation of cDNA during library preparation (read more).
+A high amount of overrepresented sequences and sequence duplication levels was also reported as a problem.
+This was expected (diff expression) and therefore didn't need quality trimming.
+Another problem was a high k-mer content.
+This might be related to the generation of cDNA during library preparation (read more).
 
 ### Quality trimming
 fastx trimmer and fastq quality trimmer were used for quality trimming
@@ -69,8 +71,11 @@ There are more intermediate files in this directory!
 * Read length: about 112
 * %GC: 55-57%
 
-Per base sequence quality and per base GC content was fixed for all samples. Per base sequence content was still reported as a minor problem, but further trimming wouldn't have solved this problem.
-Overpresented sequences and high sequence duplication levels are still reported as a problem. Unclear if this is due to differential expression or adapter contamination/cDNA primer. This might cause problems for de-novo assembly?
+Per base sequence quality and per base GC content was fixed for all samples.
+Per base sequence content was still reported as a minor problem, but further trimming wouldn't have solved this problem.
+Overpresented sequences and high sequence duplication levels are still reported as a problem.
+Unclear if this is due to differential expression or adapter contamination/cDNA primer.
+This might cause problems for de-novo assembly?
 
 ### Script - Paired data still paired?
 * /Scripts/Data_preparation/paired_reads.sge 
@@ -86,18 +91,19 @@ The location of one of this files:
 The files for Singles are rather small and contain about 1MB of sequences. 
 
 ### Copying files to high_mem server for assembly
-For faster Trinity analysis the files (Pairs and Singles) were copied to the high_mem node (state/partition2/Alexheinz). Afterwards left, right and single reads were merged into one file, respectively (pair1.fastq, pair2.fastq, singles.fastq)
+For faster Trinity analysis the files (Pairs and Singles) were copied to the high_mem node (state/partition2/Alexheinz).
+Afterwards left, right and single reads were merged into one file, respectively (pair1.fastq, pair2.fastq, singles.fastq)
 * /Scripts/Data_preparation/Copy_Script.sge
 
-# De novo Assebmly using Trinity
+# De novo Assebmly using Trinity (4.04.2016)
 
-### First analysis (4.04.2016)
+### Assembly
 Trinity (/home/local/bin/trinityrnaseq_r20140717) was run using the following Script:
 * /Scripts/Trinity_Bash/De_novo.sge
 
 I didn't use the newest Trinity version. (Why again???)
 
-### Trinity evaluation
+### Assembly evaluation
 
 * Read content
 
@@ -106,7 +112,14 @@ Some transcripts may be fragmented or short and only one fragment read of a pair
 Using bowtie to	align each fragment to the transcriptome.
 Use alignment statistics to count all reads mapping back to the assembly.
 
+# Reference based Assembly using Trinity (11.04.2016)
 
+### Finding the best reference genome
+Unfortunatly there was no infomation about closly related strains to Berlin 33/2. 
+To find the strain with the highest alignment rate all paired reads were mapped to all avalibable PP genomes on NCBI (54).
+The hightest alignment rate (85.16%) had strain 791_PRUT (GCA_001066335.1, http://www.ncbi.nlm.nih.gov/assembly/GCF_001066335.1).
+This strain was used for the reference based assembly.
 
+### Assembly
 
-*     
+     

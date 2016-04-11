@@ -1,0 +1,19 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 24
+#$ -l mem_free=100G
+#$ -S /bin/bash
+
+wait
+for i in PP*.fna
+do
+/nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Find_reference/data/adjust.sh -n "{$i}_Mapping" -d "$i" -1 /state/partition2/Alexheinz/pair1.fastq -2 /state/partition2/Alexheinz/pair2.fastq -t 24
+done
+
+
+
+
+
+
+
