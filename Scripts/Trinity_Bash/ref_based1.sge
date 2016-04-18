@@ -1,0 +1,14 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 26
+#$ -o /state/partition2/Alexheinz/ref_based1/stdout_trinity.txt
+#$ -e /state/partition2/Alexheinz/ref_based1/stderr_trinity.txt
+#$ -S /bin/bash
+#$ -l mem_free=150G
+
+wait
+/usr/local/bin/trinityrnaseq_r20140717/Trinity --genome_guided_bam /state/partition2/Alexheinz/ -- genome_guided_max_intron 10000 --SS_lib_type FR --JM 150G --CPU 26 --output /state/partition2/Alexheinz/ref_based1
+wait
+echo "Done with Reference based Trinity assembly"
+date
