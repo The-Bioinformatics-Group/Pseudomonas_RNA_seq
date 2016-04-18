@@ -103,29 +103,19 @@ Trinity (/home/local/bin/trinityrnaseq_r20140717) was run using the following Sc
 
 I didn't use the newest Trinity version. (Why again???)
 
-### Assembly evaluation
-
-* Read content
-
-Count the number of paired-end reads that properly map to the transcriptome assembly.
-Some transcripts may be fragmented or short and only one fragment read of a pair may align.
-Using bowtie to	align each fragment to the transcriptome.
-Use alignment statistics to count all reads mapping back to the assembly.
-
 # De novo Assembly 2 (11.04.2016)
 
 I forgot to specify the flag for strand specific data (FR).
 Repeat the first de_novo assembly (4.04.2016).
 Except the SS_lib_type flag, same settings.
 Keeping the first assembly to compare them.
-
 Strand specificy was achieved by Illumina TrueSeq Library preperation. 
 dTTP is replaced by dUTP in the Second Strand Marking Mix (SMM).
 Incorporation of dUTP in the second strain quenches the 2. strain during amplificiation (polymerase can't incorporate past this nucleotide).
 Using this protocol means that the strand orientation is RF (reverse forward).
 This option was used for the SS_lib_type flag.
 
-# Reference based Assembly using Trinity (11.04.2016)
+# Reference based Assembly using Trinity (18.04.2016)
 
 ### Finding the best reference genome
 Unfortunatly there was no infomation about closly related strains to Berlin 33/2. 
@@ -135,12 +125,55 @@ This strain was used for the reference based assembly.
 
 ### Bowtie2 Reference Mapping
 
-Reference based assembly needs samtools sorted bam (sam) files as input.
-Reference alignment was created by bowtie2 mapping. 
+Reference based assembly needs samtools sorted bam files as input.
+Reference alignment was created by bowtie2 mapping (alvars script).
+
 First run: Forgot the flag to keep the intermediary SAM files, which I want. 
 Second run: Flag -k to keep intermediary SAM files.
 
+Convert SAM file in sorted BAM file by using samtools -bS view and samtools sort.
+
+Moving the BAM file to high_mem node for faster assembly.
+
 ### Assembly
 
+Mostly standard settings (https://github.com/trinityrnaseq/trinityrnaseq/wiki/Genome-Guided-Trinity-Transcriptome-Assembly)
 
+Max intron length:
+
+Using SS_lib_type flag.
+
+# Assembly evaluation
+
+### Read content
+
+* Description
+
+Count the number of paired-end reads that properly map to the transcriptome assembly.
+Some transcripts may be fragmented or short and only one fragment read of a pair may align.
+Using bowtie to align each fragment to the transcriptome.
+Use alignment statistics to count all reads mapping back to the assembly.
      
+* Results
+
+
+
+### BUSCO
+
+* Description
+
+* Results
+
+### Contif Nx and ExNy Statistics
+
+* Description
+
+* Results
+
+
+
+
+# Remapping of raw reads to get read counts
+
+
+# Differential expression or other analysis
