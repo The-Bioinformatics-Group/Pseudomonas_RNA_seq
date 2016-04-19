@@ -1,0 +1,397 @@
+# TBLASTN 2.2.28+
+# Query: COG0012
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+COG0012	c35607_g28_i1	60.66	366	141	2	1	363	175	1272	2e-99	 304
+COG0012	c34497_g1_i1	38.00	100	46	2	5	104	2503	2252	1e-14	73.6
+COG0012	c35244_g1_i1	31.09	119	53	4	5	116	3882	3592	2e-07	51.6
+COG0012	c35491_g6_i1	75.00	20	5	0	5	24	1487	1428	0.015	35.4
+COG0012	c35491_g6_i1	58.33	24	10	0	3	26	923	852	0.26	31.6
+COG0012	c35637_g1_i1	66.67	18	6	0	5	22	908	855	0.66	30.0
+COG0012	c35615_g1_i1	50.00	22	11	0	3	24	265	330	2.0	28.1
+# TBLASTN 2.2.28+
+# Query: COG0016
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+COG0016	c35195_g1_i1	51.03	292	109	5	122	404	1441	641	5e-78	 264
+COG0016	c31480_g1_i1	27.50	80	56	1	257	334	911	672	0.026	34.7
+# TBLASTN 2.2.28+
+# Query: COG0018
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0018	c20792_g1_i1	39.58	331	185	6	259	575	1029	2018	1e-41	 162
+COG0018	c20792_g1_i1	45.14	144	79	0	618	761	420	851	2e-35	 143
+COG0018	c20792_g1_i1	47.26	146	75	2	56	200	432	866	8e-22	99.8
+COG0018	c35010_g1_i1	30.00	90	47	2	688	775	4341	4114	0.007	38.1
+COG0018	c35010_g1_i1	40.00	30	18	0	149	178	4254	4165	1.5	30.4
+COG0018	c35979_g1_i1	39.39	33	20	0	713	745	2850	2752	2.7	29.3
+# TBLASTN 2.2.28+
+# Query: COG0048
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+COG0048	c35635_g22_i1	74.75	99	25	0	37	135	12331	12627	4e-42	 150
+COG0048	c34405_g1_i1	78.08	73	16	0	63	135	1	219	8e-34	 115
+COG0048	c35518_g1_i1	30.95	42	25	1	66	107	213	326	2.0	26.6
+COG0048	c35518_g1_i2	30.95	42	25	1	66	107	321	434	2.0	26.6
+COG0048	c34878_g1_i2	43.75	32	14	1	51	82	856	939	3.2	25.8
+COG0048	c34878_g1_i1	43.75	32	14	1	51	82	1706	1789	3.4	25.8
+COG0048	c35020_g1_i1	46.43	28	15	0	72	99	1404	1321	7.8	24.6
+# TBLASTN 2.2.28+
+# Query: COG0049
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0049	c35635_g22_i1	61.78	157	59	1	10	166	12737	13204	4e-48	 168
+COG0049	c35486_g1_i3	26.14	88	51	3	66	139	328	65	3.6	26.2
+COG0049	c35486_g1_i4	26.14	88	51	3	66	139	286	23	3.8	25.8
+COG0049	c35486_g1_i5	26.37	91	53	3	63	139	604	332	6.1	25.4
+COG0049	c34728_g1_i2	88.89	9	1	0	158	166	20	46	7.2	24.6
+# TBLASTN 2.2.28+
+# Query: COG0052
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0052	c35499_g3_i1	54.82	228	103	0	4	231	132	815	5e-60	 206
+COG0052	c35499_g3_i2	54.82	228	103	0	4	231	140	823	5e-60	 206
+COG0052	c36721_g1_i1	59.74	77	31	0	154	230	2	232	2e-24	93.6
+COG0052	c35399_g4_i2	29.73	37	26	0	178	214	9397	9287	3.1	27.3
+COG0052	c35399_g4_i1	29.73	37	26	0	178	214	9445	9335	3.1	27.3
+COG0052	c954_g1_i1	40.82	49	21	3	172	215	2579	2716	9.8	25.4
+# TBLASTN 2.2.28+
+# Query: COG0080
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0080	c34773_g2_i2	65.65	131	44	1	11	140	14	406	5e-43	 144
+COG0080	c35635_g22_i1	65.49	142	48	1	1	141	1222	1647	9e-43	 152
+COG0080	c34773_g2_i3	60.42	96	37	1	32	126	13	300	2e-23	88.6
+COG0080	c34982_g1_i1	34.29	35	23	0	48	82	348	244	5.9	25.0
+# TBLASTN 2.2.28+
+# Query: COG0081
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0081	c35635_g22_i1	60.56	213	84	0	13	225	1695	2333	5e-58	 199
+COG0081	c34773_g2_i1	65.57	122	42	0	13	134	110	475	1e-36	 127
+COG0081	c34773_g2_i2	65.57	122	42	0	13	134	458	823	2e-35	 127
+COG0081	c34773_g1_i1	66.67	60	20	0	164	223	291	112	5e-10	53.5
+COG0081	c11404_g1_i1	30.88	68	36	2	101	168	402	232	6.0	25.4
+# TBLASTN 2.2.28+
+# Query: COG0085
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0085	c35635_g22_i1	67.34	594	181	5	414	997	4766	6538	0.0	 772
+COG0085	c35635_g22_i1	62.96	297	62	1	998	1246	6872	7762	4e-95	 339
+COG0085	c35635_g22_i1	55.50	218	79	3	195	395	3710	4360	4e-60	 226
+COG0085	c35635_g22_i1	40.54	74	44	0	29	102	6902	7123	1e-09	60.8
+COG0085	c32539_g1_i1	30.26	76	47	3	971	1045	3850	4062	0.96	31.6
+# TBLASTN 2.2.28+
+# Query: COG0087
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0087	c35635_g22_i1	48.37	215	103	4	26	240	17102	17722	1e-45	 166
+COG0087	c10310_g2_i1	48.52	169	82	3	41	209	494	3	6e-33	 120
+COG0087	c35404_g1_i1	26.60	94	64	2	90	179	760	482	2.4	27.7
+# TBLASTN 2.2.28+
+# Query: COG0088
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0088	c35635_g22_i1	43.94	198	105	3	19	216	17816	18391	1e-24	 103
+COG0088	c34771_g1_i1	45.58	147	74	3	68	214	15	437	6e-15	71.2
+COG0088	c8411_g2_i1	41.18	34	18	1	32	65	2198	2103	1.6	28.5
+COG0088	c35618_g3_i1	40.54	37	22	0	45	81	215	325	2.0	28.1
+COG0088	c35183_g1_i1	31.17	77	36	3	2	61	854	1084	6.4	26.6
+COG0088	c35183_g1_i2	31.17	77	36	3	2	61	2325	2555	6.5	26.6
+# TBLASTN 2.2.28+
+# Query: COG0090
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+COG0090	c35635_g22_i1	63.14	274	99	2	1	273	18699	19517	5e-87	 285
+COG0090	c34771_g2_i1	70.00	120	36	0	62	181	62	421	2e-55	 176
+COG0090	c34771_g2_i2	70.00	120	36	0	62	181	48	407	3e-55	 176
+COG0090	c34771_g1_i1	58.82	34	14	0	1	34	757	858	8e-04	38.1
+COG0090	c35089_g2_i1	35.85	53	28	4	175	225	905	1051	2.0	28.1
+COG0090	c35135_g1_i1	33.33	33	22	0	228	260	2480	2382	3.2	27.3
+COG0090	c35275_g2_i1	45.83	24	13	0	183	206	2381	2452	4.7	26.9
+COG0090	c35234_g3_i1	57.89	19	8	0	206	224	1402	1458	5.4	26.6
+COG0090	c35388_g7_i1	33.33	45	30	0	210	254	320	454	7.3	26.2
+# TBLASTN 2.2.28+
+# Query: COG0091
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0091	c34678_g1_i1	67.01	97	32	0	20	116	151	441	3e-29	 105
+COG0091	c34678_g1_i2	67.01	97	32	0	20	116	220	510	5e-29	 105
+COG0091	c35635_g22_i1	62.77	94	35	0	23	116	19857	20138	6e-24	97.1
+# TBLASTN 2.2.28+
+# Query: COG0092
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0092	c35635_g22_i1	63.94	208	74	1	1	207	20173	20796	4e-58	 200
+COG0092	c37310_g1_i1	51.19	84	41	0	26	109	12	263	5e-11	55.8
+COG0092	c34678_g1_i1	70.00	20	6	0	1	20	480	539	0.013	33.5
+COG0092	c34678_g1_i2	70.00	20	6	0	1	20	549	608	0.014	33.5
+# TBLASTN 2.2.28+
+# Query: COG0093
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+COG0093	c35635_g22_i1	69.67	122	37	0	1	122	21769	22134	2e-33	 124
+COG0093	c35136_g1_i2	74.51	51	12	1	73	122	288	136	1e-19	78.6
+COG0093	c35136_g1_i3	74.51	51	12	1	73	122	495	343	4e-19	78.6
+COG0093	c35136_g1_i1	74.51	51	12	1	73	122	918	766	1e-18	78.6
+COG0093	c35136_g2_i1	67.57	37	12	0	1	37	156	46	3e-11	54.7
+COG0093	c34643_g1_i1	36.84	38	24	0	81	118	4164	4051	0.48	28.1
+COG0093	c35133_g2_i1	36.36	33	21	0	5	37	4899	4997	3.3	25.4
+# TBLASTN 2.2.28+
+# Query: COG0094
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0094	c35635_g22_i1	68.79	157	49	0	1	157	22490	22960	7e-64	 214
+COG0094	c35136_g1_i1	66.91	139	46	0	1	139	417	1	3e-60	 191
+COG0094	c35368_g5_i1	50.00	22	11	0	82	103	3031	3096	1.7	27.3
+# TBLASTN 2.2.28+
+# Query: COG0096
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0096	c15097_g1_i1	53.85	130	58	1	1	130	328	711	2e-26	99.0
+COG0096	c35635_g22_i1	51.52	132	62	1	1	132	23552	23941	8e-23	94.0
+COG0096	c15097_g1_i2	61.02	59	23	0	72	130	63	239	7e-21	80.9
+# TBLASTN 2.2.28+
+# Query: COG0097
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0097	c34776_g1_i1	53.66	123	57	0	55	177	681	313	4e-42	 142
+COG0097	c34776_g1_i2	52.94	119	56	0	55	173	379	23	7e-42	 138
+COG0097	c35635_g22_i1	46.43	140	75	0	1	140	23957	24376	9e-27	 107
+COG0097	c8409_g2_i1	68.09	47	15	0	131	177	1	141	5e-14	68.6
+COG0097	c37042_g1_i1	28.85	52	37	0	125	176	191	36	6.5	23.9
+# TBLASTN 2.2.28+
+# Query: COG0098
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0098	c8409_g2_i1	57.33	150	63	1	43	192	560	1006	2e-49	 173
+COG0098	c34776_g2_i1	56.67	90	38	1	44	133	267	1	6e-27	 100
+COG0098	c35205_g1_i1	68.18	66	21	0	129	194	418	221	7e-24	92.4
+COG0098	c35205_g1_i2	68.18	66	21	0	129	194	579	382	2e-23	92.4
+COG0098	c35362_g1_i2	35.42	48	23	1	62	109	1012	1131	3.4	26.6
+COG0098	c35316_g1_i1	33.33	33	22	0	113	145	5290	5388	8.1	25.4
+# TBLASTN 2.2.28+
+# Query: COG0099
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+COG0099	c34698_g1_i1	44.60	139	49	3	4	139	468	127	2e-25	99.8
+COG0099	c8409_g2_i1	42.34	137	55	3	4	139	3235	3576	5e-20	85.5
+# TBLASTN 2.2.28+
+# Query: COG0100
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+COG0100	c8409_g2_i1	69.17	120	37	0	1	120	3637	3996	9e-39	 139
+COG0100	c35531_g1_i9	75.00	76	19	0	45	120	713	486	2e-19	79.7
+COG0100	c35531_g1_i7	75.00	76	19	0	45	120	800	573	2e-19	79.7
+COG0100	c35531_g1_i4	75.00	76	19	0	45	120	1547	1320	1e-18	79.7
+COG0100	c35531_g1_i5	75.00	76	19	0	45	120	2030	1803	2e-18	79.7
+COG0100	c35531_g1_i6	75.00	76	19	0	45	120	2352	2125	2e-18	79.7
+COG0100	c35531_g1_i1	70.97	62	18	0	45	106	201	16	2e-09	49.7
+COG0100	c34698_g1_i1	68.18	22	7	0	1	22	68	3	0.003	34.3
+COG0100	c35491_g5_i1	39.39	33	20	0	85	117	8757	8855	6.9	24.6
+# TBLASTN 2.2.28+
+# Query: COG0102
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0102	c36589_g1_i1	53.24	139	56	2	1	131	191	604	1e-30	 113
+COG0102	c34877_g1_i1	51.43	140	59	2	1	132	1	417	2e-29	 107
+COG0102	c34877_g1_i2	55.00	20	9	0	112	131	20	79	0.29	28.1
+# TBLASTN 2.2.28+
+# Query: COG0103
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0103	c36589_g1_i1	57.25	131	56	0	7	137	631	1023	9e-25	95.9
+COG0103	c34877_g1_i2	50.00	30	15	0	9	38	113	202	1e-04	37.0
+COG0103	c34877_g1_i1	50.00	30	15	0	9	38	448	537	3e-04	37.0
+COG0103	c35134_g1_i1	60.00	20	8	0	4	23	1506	1447	5.3	25.0
+# TBLASTN 2.2.28+
+# Query: COG0124
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0124	c35491_g6_i1	38.64	427	229	8	12	420	4723	3488	2e-57	 209
+COG0124	c35244_g1_i1	29.01	162	109	4	17	175	705	229	1e-05	46.2
+COG0124	c35244_g3_i1	45.83	48	23	2	270	317	1847	1713	0.003	38.5
+COG0124	c35627_g8_i2	28.17	71	48	1	97	164	4917	5129	2.6	28.9
+COG0124	c35627_g8_i1	28.17	71	48	1	97	164	5337	5549	2.6	28.9
+# TBLASTN 2.2.28+
+# Query: COG0172
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0172	c1913_g1_i1	67.08	322	103	2	110	428	5535	6500	1e-130	 416
+COG0172	c35195_g1_i1	23.42	158	111	6	141	296	4172	3723	1e-04	42.4
+COG0172	c35607_g16_i1	33.33	63	38	2	149	211	4961	5137	0.18	32.3
+COG0172	c35607_g16_i2	33.33	63	38	2	149	211	5188	5364	0.18	32.3
+COG0172	c15356_g1_i1	46.15	26	12	1	176	201	453	382	5.2	26.9
+COG0172	c35430_g1_i1	30.77	52	31	1	188	234	1645	1800	6.4	27.3
+# TBLASTN 2.2.28+
+# Query: COG0184
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+COG0184	c35492_g4_i1	35.59	59	15	1	61	119	1624	1517	0.020	32.7
+# TBLASTN 2.2.28+
+# Query: COG0185
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0185	c35635_g22_i1	64.71	51	18	0	61	111	19636	19788	6e-15	70.5
+COG0185	c34678_g1_i2	63.04	46	17	0	66	111	17	154	4e-14	64.3
+COG0185	c34678_g1_i1	63.64	22	8	0	90	111	20	85	0.006	33.1
+COG0185	c34674_g1_i1	29.03	62	37	2	65	126	2848	2684	2.8	25.8
+# TBLASTN 2.2.28+
+# Query: COG0186
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+COG0186	c35635_g22_i1	66.18	68	23	0	41	108	21503	21706	5e-12	61.6
+COG0186	c37287_g1_i1	60.29	68	27	0	41	108	164	367	7e-12	57.4
+# TBLASTN 2.2.28+
+# Query: COG0197
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+COG0197	c35635_g22_i1	35.87	92	45	2	45	136	20962	21195	1e-08	51.6
+# TBLASTN 2.2.28+
+# Query: COG0200
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0200	c8409_g2_i1	41.84	98	54	2	48	145	1336	1620	1e-08	51.2
+COG0200	c35205_g1_i2	93.33	15	1	0	48	62	48	4	0.002	35.4
+COG0200	c35205_g2_i1	34.48	87	54	1	59	145	3	254	0.003	34.7
+# TBLASTN 2.2.28+
+# Query: COG0201
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+COG0201	c8409_g2_i1	46.42	433	205	8	26	446	1675	2928	5e-66	 231
+COG0201	c34698_g1_i1	41.25	303	159	5	152	446	1653	778	4e-37	 141
+COG0201	c35205_g2_i1	50.82	61	27	1	26	83	319	501	2e-11	60.8
+COG0201	c34698_g1_i2	55.56	54	24	0	152	205	165	4	1e-05	42.4
+COG0201	c35205_g2_i2	53.33	30	14	0	26	55	144	233	3e-04	38.1
+COG0201	c33852_g1_i1	42.31	26	15	0	35	60	113	190	5.1	26.9
+# TBLASTN 2.2.28+
+# Query: COG0202
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+COG0202	c8409_g2_i1	51.58	285	117	5	25	297	4727	5554	5e-48	 174
+COG0202	c35531_g1_i5	49.83	287	122	6	24	297	1054	221	3e-46	 165
+COG0202	c35531_g1_i6	49.83	287	122	6	24	297	1376	543	6e-46	 165
+COG0202	c35531_g1_i4	47.42	194	83	5	24	207	571	17	9e-36	 134
+COG0202	c35531_g1_i8	74.36	39	10	0	24	62	133	17	1e-11	59.3
+# TBLASTN 2.2.28+
+# Query: COG0215
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0215	c35618_g7_i1	54.74	369	152	3	26	393	1423	359	3e-110	 360
+COG0215	c35618_g7_i1	65.22	23	7	1	474	496	130	65	0.16	32.7
+COG0215	c35010_g1_i1	33.33	45	28	1	40	82	4299	4165	0.53	31.2
+COG0215	c35010_g1_i1	36.59	41	23	1	286	326	2508	2395	2.3	29.3
+# TBLASTN 2.2.28+
+# Query: COG0256
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+COG0256	c8409_g2_i1	45.95	111	50	4	43	149	230	544	1e-10	58.9
+COG0256	c34776_g1_i1	46.15	78	40	1	43	120	228	1	0.002	36.2
+COG0256	c36592_g1_i1	39.53	43	24	1	17	59	2975	2853	1.3	28.1
+# TBLASTN 2.2.28+
+# Query: COG0495
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+COG0495	c35010_g1_i1	49.11	839	355	12	44	818	4281	1789	0.0	 672
+COG0495	c35979_g1_i1	27.38	336	154	10	49	365	2862	2068	4e-24	 107
+COG0495	c35979_g1_i1	22.06	399	202	15	424	749	1719	631	7e-10	60.8
+COG0495	c35005_g1_i1	25.54	325	201	9	51	363	3345	4232	2e-15	79.0
+COG0495	c35005_g1_i1	30.00	190	108	7	426	610	4563	5072	3e-10	62.0
+COG0495	c35294_g1_i1	25.99	177	109	4	46	206	1310	1822	3e-06	49.3
+COG0495	c35618_g7_i1	32.47	77	51	1	562	638	709	482	0.003	38.9
+COG0495	c35618_g7_i1	25.69	109	60	6	51	159	3010	2747	8.3	28.1
+COG0495	c20792_g1_i1	45.45	33	18	0	51	83	705	803	0.054	35.0
+# TBLASTN 2.2.28+
+# Query: COG0522
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+COG0522	c35531_g1_i4	63.16	209	66	3	1	201	1283	666	4e-61	 199
+COG0522	c35531_g1_i5	63.16	209	66	3	1	201	1766	1149	4e-60	 199
+COG0522	c35531_g1_i6	63.16	209	66	3	1	201	2088	1471	7e-60	 199
+COG0522	c8409_g2_i1	56.94	209	79	3	1	201	4015	4632	1e-53	 185
+COG0522	c35531_g1_i7	59.55	178	61	3	1	170	536	12	2e-47	 157
+COG0522	c35531_g1_i9	60.14	148	51	2	1	143	449	15	6e-37	 129
+COG0522	c35531_g1_i8	73.33	30	8	0	172	201	317	228	4e-08	47.8
+COG0522	c34627_g1_i1	32.61	46	31	0	151	196	3374	3237	1.9	27.3
+COG0522	c35549_g6_i3	38.18	55	26	3	103	157	3068	3208	2.3	26.9
+COG0522	c35549_g6_i1	38.18	55	26	3	103	157	3068	3208	2.3	26.9
+COG0522	c34498_g1_i1	44.83	29	16	0	127	155	2197	2111	3.8	26.6
+COG0522	c35217_g2_i1	60.00	20	8	0	164	183	1426	1367	3.9	26.6
+# TBLASTN 2.2.28+
+# Query: COG0525
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+COG0525	c35979_g1_i1	54.73	835	300	13	160	922	2961	475	0.0	 802
+COG0525	c35979_g1_i1	50.67	150	64	2	1054	1203	2958	2539	3e-43	 169
+COG0525	c35005_g1_i1	26.20	790	488	14	159	865	3219	5552	8e-58	 218
+COG0525	c35005_g1_i1	28.69	122	76	3	1083	1203	3303	3638	1e-04	44.3
+COG0525	c35010_g1_i1	27.06	425	187	12	160	480	4377	3160	6e-27	 117
+COG0525	c35010_g1_i1	20.73	381	208	9	552	856	3120	2032	9e-08	54.7
+COG0525	c35010_g1_i1	24.68	154	92	2	1051	1204	4383	3994	9e-08	54.7
+COG0525	c35294_g1_i1	38.64	44	27	0	198	241	1325	1456	6e-04	42.4
+COG0525	c35294_g1_i1	32.69	52	35	0	1099	1150	1325	1480	0.086	35.0
+COG0525	c35514_g1_i2	45.95	37	17	2	1076	1111	127	23	0.52	30.0
+COG0525	c35514_g1_i3	45.95	37	17	2	1076	1111	1282	1178	2.5	30.0
+COG0525	c35634_g2_i1	41.38	29	17	0	1048	1076	398	312	5.5	28.9
+# TBLASTN 2.2.28+
+# Query: COG0533
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+COG0533	c34982_g1_i1	53.40	309	137	2	7	308	2634	1708	2e-73	 249
+# TBLASTN 2.2.28+
+# Query: COG0541
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0541	c35635_g8_i1	58.30	283	116	2	59	339	240	1088	4e-59	 199
+COG0541	c34407_g1_i1	44.98	209	109	1	96	298	549	1175	5e-25	 106
+COG0541	c35635_g17_i1	54.90	51	23	0	377	427	21	173	3e-11	63.2
+COG0541	c34923_g1_i1	29.30	157	104	3	137	292	2149	1697	0.004	37.4
+# TBLASTN 2.2.28+
+# Query: COG0552
+# Database: de_novo_1_evaluation
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+COG0552	c34407_g1_i1	61.13	265	101	1	273	537	381	1169	1e-64	 228
+COG0552	c35635_g8_i1	41.53	183	100	2	354	535	420	950	7e-31	 122
+COG0552	c34923_g1_i1	31.14	167	102	4	356	521	2200	1736	3e-07	51.6
+COG0552	c35149_g1_i1	50.00	28	13	1	373	399	294	377	6.5	27.3
+# BLAST processed 40 queries

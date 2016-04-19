@@ -1,0 +1,58 @@
+#BUSCO_group	Status	Transcript	Bitscore	Length
+COG0049	Duplicated	c40528_g1_i7	231.4	157
+COG0552	Duplicated	c39777_g1_i2	510.5	323
+COG0522	Duplicated	c40115_g1_i6	283.0	201
+COG0215	Duplicated	c36156_g1_i1	649.6	528
+COG0081	Duplicated	c40465_g1_i1	296.9	224
+COG0103	Duplicated	c38871_g1_i2	180.7	131
+COG0016	Duplicated	c37473_g1_i1	429.1	371
+COG0525	Complete	c40553_g1_i1	1371.3	890
+COG0091	Duplicated	c38268_g1_i2	170.3	120
+COG0049	Duplicated	c40528_g1_i2	230.8	157
+COG0522	Duplicated	c40115_g1_i3	282.2	201
+COG0016	Duplicated	c38604_g1_i1	429.7	384
+COG0533	Complete	c24010_g1_i1	439.9	335
+COG0018	Duplicated	c39672_g2_i5	607.0	576
+COG0172	Complete	c13764_g1_i1	614.8	426
+COG0124	Duplicated	c40012_g3_i1	498.0	433
+COG0052	Duplicated	c38929_g1_i1	335.8	230
+COG0552	Duplicated	c39777_g1_i1	510.5	323
+COG0099	Duplicated	c38042_g1_i3	133.4	136
+COG0081	Duplicated	c40465_g1_i3	296.6	224
+COG0215	Duplicated	c36156_g1_i2	541.4	356
+COG0052	Duplicated	c35566_g2_i1	336.8	267
+COG0124	Duplicated	c40012_g3_i2	498.3	433
+COG0049	Duplicated	c40528_g1_i5	231.4	157
+COG0081	Duplicated	c40465_g1_i2	296.9	224
+COG0103	Duplicated	c40541_g1_i1	182.6	131
+COG0099	Duplicated	c38042_g1_i2	133.4	136
+COG0018	Duplicated	c36940_g1_i1	604.9	576
+COG0522	Duplicated	c40115_g1_i8	282.7	201
+COG0091	Duplicated	c38268_g1_i1	170.0	120
+COG0080	Duplicated	c37128_g1_i1	203.6	131
+COG0541	Complete	c36988_g5_i1	599.1	427
+COG0012	Complete	c37639_g2_i1	527.6	363
+COG0096	Fragmented	c36938_g1_i2	175.2	153
+COG0495	Complete	c37440_g1_i1	1132.8	817
+COG0256	Complete	c37938_g5_i2	122.4	123
+COG0080	Duplicated	c40465_g1_i2	209.2	141
+COG0103	Duplicated	c38871_g1_i1	182.6	131
+COG0048	Missing
+COG0102	Missing
+COG0100	Missing
+COG0202	Missing
+COG0098	Missing
+COG0197	Missing
+COG0094	Missing
+COG0097	Missing
+COG0090	Missing
+COG0093	Missing
+COG0092	Missing
+COG0200	Missing
+COG0201	Missing
+COG0088	Missing
+COG0186	Missing
+COG0185	Missing
+COG0184	Missing
+COG0087	Missing
+COG0085	Missing

@@ -1,0 +1,65 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1/bacteria/hmms/COG0012.hmm
+# target sequence database:        ./run_de_novo_1_evaluation//translated_proteins/c35607_g28_i1_ts.fas
+# output directed to file:         temp
+# per-dom hits tabular output:     ./run_de_novo_1_evaluation/hmmer_output/COG0012.out.1
+# sequence search space set to:    107114
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       COG0012  [M=363]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------        -----------
+   9.8e-159  530.9   0.1   1.1e-158  530.7   0.1    1.0  1  c35607_g28_i1_1  
+
+
+Domain annotation for each sequence (and alignments):
+>> c35607_g28_i1_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  530.7   0.1  1.1e-163  1.1e-158       1     363 []      59     424 ..      59     424 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 530.7 bits;  conditional E-value: 1.1e-163
+          COG0012   1 mslkiGivGlPnvGKSTlFnalTkaeveaanypfctiepnvgvvkvpderldklaeivkpkkvvpatvelvDiAGLvkgAskGeGLGnkFLdni 94 
+                      m++++GivGlPnvGKSTlFnalTk++++a+n+pfctiepn g+v++pd+rl +laeivkp++++p+t+e+vDiAGLv+gAskGeGLGnkFL+ni
+  c35607_g28_i1_1  59 MGFNCGIVGLPNVGKSTLFNALTKSGIAAENFPFCTIEPNSGIVPMPDARLAALAEIVKPNRILPTTMEFVDIAGLVAGASKGEGLGNKFLANI 152
+                      6899****************************************************************************************** PP
+
+          COG0012  95 revdaiihVvrafedeeithvegsvdpvrDieiieeELiladleivekrleklekkaksgdkeakaelellekllevleegkpvrkl..eltee 186
+                      re+dai+hVvr+fede+++hv++svdp rDieii+ ELi+adl+++ek+l+k++++ak gdkea a+ ++lekl  ++ egkp+r+l  ++ ++
+  c35607_g28_i1_1 153 RETDAIAHVVRCFEDENVIHVSNSVDPKRDIEIIDLELIFADLDSCEKQLQKVTRNAKGGDKEALAQKAILEKLIPHFTEGKPARSLmkNMADD 246
+                      **********************************************************99**************************7679999* PP
+
+          COG0012 187 elevlkelllltaKPvlyvaNvaekdlkknenleklkelakeegaevvplsaklEaelael.eeeekaeflkelgleesglekiiravyelLgl 279
+                      e++v++ ++llt+KPv+y+aNvae+ +++n++l+ +k++a+eega vvp++ k+Eae+ael + eek+ fl+ lglee+gl+++ira+yelL+l
+  c35607_g28_i1_1 247 EKAVIRGFHLLTSKPVMYIANVAEDGFDNNPHLDVVKAIAEEEGAVVVPVCNKIEAEIAELdDGEEKDMFLEALGLEEPGLNRVIRAGYELLNL 340
+                      **************************99*********************************5577888************************** PP
+
+          COG0012 280 itfftvgekevrawtikkgstapdaAgvIHtDlekgFirAevikyddlielgseaaakekgkvrlegkdyvvedgdvikfkfnv 363
+                      +t+ft+g +evrawt++ g+tap+aAgvIHtD+ekgFirAev++ydd+i++++e++ake+gk+rlegkdy+v+dgdv++f+fnv
+  c35607_g28_i1_1 341 QTYFTAGVQEVRAWTVRIGATAPQAAGVIHTDFEKGFIRAEVVAYDDFIQFKGESGAKEAGKWRLEGKDYIVKDGDVMHFRFNV 424
+                      **********************************************************************************96 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (363 nodes)
+Target sequences:                            6  (2751 residues searched)
+Passed MSV filter:                         1  (0.166667); expected 0.1 (0.02)
+Passed bias filter:                        1  (0.166667); expected 0.1 (0.02)
+Passed Vit filter:                         1  (0.166667); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.166667); expected 0.0 (1e-05)
+Initial search space (Z):             107114  [as set by --Z on cmdline]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
+# Mc/sec: 49.93
+//
+[ok]

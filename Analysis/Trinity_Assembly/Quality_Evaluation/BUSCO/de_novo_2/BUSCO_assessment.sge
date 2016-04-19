@@ -1,0 +1,11 @@
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 4
+#$ -l mem_free=150G
+
+
+/usr/local/opt/python/bin/python3 /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1/BUSCO_v1.1b1.py -o de_novo_2_evaluation -in /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/de_novo_2/Trinity.fasta -l /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1/bacteria -m trans
+wait
+echo "de_novo_2 Quality evaluation done"
+
+

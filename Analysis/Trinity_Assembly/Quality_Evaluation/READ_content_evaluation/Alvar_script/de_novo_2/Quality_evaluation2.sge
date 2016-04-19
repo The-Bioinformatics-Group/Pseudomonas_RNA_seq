@@ -1,0 +1,18 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 24
+#$ -l mem_free=100G
+#$ -S /bin/bash
+
+wait
+
+/nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/Quality_Evaluation/READ_content_evaluation/Alvar_script/de_novo_2/adjust.sh -n "De_novo_2_Read_content" -d Trinity.fasta -1 /state/partition2/Alexheinz/pair1.fastq -2 /state/partition2/Alexheinz/pair2.fastq -t 24
+done
+
+
+
+
+
+
+
