@@ -2,4 +2,5 @@ data/*
 *~
 Analysis/Find_reference/data/*
 Analysis/Initital_quality/Fastqc_Zip
-
+Analysis/Trinity_Assembly/ref_1
+Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1
