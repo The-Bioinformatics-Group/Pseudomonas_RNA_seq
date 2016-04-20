@@ -135,11 +135,13 @@ Convert SAM file in sorted BAM file by using samtools -bS view and samtools sort
 
 Moving the BAM file to high_mem node for faster assembly.
 
+Had to use some different commands compared to the Trinity homepage instructions because I'm not using the latest Trinity version!
+
 ### Assembly
 
 Mostly standard settings (https://github.com/trinityrnaseq/trinityrnaseq/wiki/Genome-Guided-Trinity-Transcriptome-Assembly)
 
-Max intron length:
+Max intron length: 0 (makes sense)
 
 Using SS_lib_type flag.
 
@@ -173,7 +175,7 @@ Use alignment statistics to count all reads mapping back to the assembly.
 
 
 
-# Remapping of raw reads to get read counts
+# Abundance estimation: Remapping of raw reads to get read counts
 
 
 # Differential expression or other analysis

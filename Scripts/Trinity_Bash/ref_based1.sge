@@ -7,8 +7,8 @@
 #$ -S /bin/bash
 #$ -l mem_free=150G
 
-wait
-/usr/local/bin/trinityrnaseq_r20140717/Trinity --genome_guided_bam /state/partition2/Alexheinz/ref_1.sorted.bam --genome_guided_max_intron 0 --SS_lib_type FR --JM 150G --CPU 20 --output /state/partition2/Alexheinz/ref_1
-wait
+
+/usr/local/bin/trinityrnaseq_r20140717/Trinity --genome_guided_use_bam /state/partition2/Alexheinz/ref_1.coordSorted.bam --seqType fq --genome_guided_max_intron 0 --left /state/partition2/Alexheinz/pair1.fastq --right /state/partition2/Alexheinz/pair2.fastq --SS_lib_type FR --JM 150G --genome_guided_CPU 20 --output /state/partition2/Alexheinz/ref_1
+
 echo "Done with Reference based Trinity assembly"
 date

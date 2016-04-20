@@ -1,0 +1,67 @@
+* 2 Conditions = Ag+/AgNP and concentration
+
+* 12 Samples for Ag+/AgNP
+
+* 3 Samples for each concentration
+
+
+------------------
+
+
+101 - 0.001 (A) Ag+
+
+105 - 0.001 (B) Ag+
+
+109 - 0.001 (C) Ag+
+
+
+102 - 0.01 (A) Ag+
+
+106 - 0.01 (B) Ag√+
+
+110 - 0.01 (C) Ag+
+
+
+103 - 0.04 (A) Ag√+
+
+107 - 0.04 (B) Ag+
+
+111 - 0.04 (C) Ag+
+
+
+104 - Ctrl (B) Ag+
+
+108 - Ctrl (D) Ag+
+
+112 - Ctrl (C) Ag+
+
+
+------------------
+
+
+113 - 0.004 (A) AgNP
+
+117 - 0.004 (B) AgNP
+
+121 - 0.004 (C) AgNP
+
+
+114 - 0.04 (A) AgNP
+
+118 - 0.04 (B) AgNP
+
+122 - 0.04 (C) AgNP
+
+  
+115 - 0.12 (A) AgNP
+
+119 - 0.12 (B) AgNP
+
+123 - 0.12 (C) AgNP
+
+
+116 - Ctrl (A) AgNP
+
+120 - Ctrl (E) AgNP
+
+124 - Ctrl (F) AgNP

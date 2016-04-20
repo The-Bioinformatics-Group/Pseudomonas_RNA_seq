@@ -1,17 +1,10 @@
 #$ -cwd
 #$ -q high_mem
-#$ -pe mpich 20
+#$ -pe mpich 10
 #$ -S /bin/bash
 #$ -l mem_free=150G
 
-#alias perl=/usr/local/opt/perl/bin/perl
-#alias which=/usr/bin/which
-
-/usr/local/bin/trinityrnaseq_r20140717/util/bowtie_PE_separate_then_join.pl --seqType fq --left /state/partition2/Alexheinz/pair1.fastq --right /state/partition2/Alexheinz/pair2.fastq --target /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/de_novo_2/Trinity.fasta --aligner bowtie -- -p4 --all --best --strata -m 300 --JM 50G --CPU 10 
-
-wait
-
-/usr/local/bin/trinityrnaseq_r20140717/util/SAM_nameSorted_to_uniq_count_stats.pl bowtie_out/bowtie_out.nameSorted.bam
+/usr/local/bin/trinityrnaseq_r20140717/util/bowtie_PE_separate_then_join.pl --seqType fq --left /state/partition2/Alexheinz/pair1.fastq --right /state/partition2/Alexheinz/pair2.fastq --target /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/de_novo_2/Trinity.fasta --aligner bowtie -- -p4 --all --best --SS_lib_type FR --strata -m 300 --JM 50G --CPU 10 
 
 echo "done with de_novo_2 content evaluation"
 
