@@ -1,0 +1,24 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+
+Building a new DB, current time: 04/28/2016 21:27:22
+New DB name:   ref1_evaluation
+New DB title:  /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/ref_1/Trinity.fasta
+Sequence type: Nucleotide
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 16732 sequences in 1.2886 seconds.
+bacteria
+*** Running tBlastN ***
+*** Getting coordinates for candidate transcripts! ***
+*** Extracting candidate transcripts! ***
+Translating candidate transcripts !
+*** Running HMMER to confirm transcript orthology ***
+Total complete BUSCOs found in assembly (<2 sigma) :  10	(12 duplicated).
+Total BUSCOs partially recovered (>2 sigma) :  1
+Total groups searched: 40
+Total BUSCOs not found:  17
+Total running time:   12.991547107696533 seconds
+ref_1 Quality evaluation done

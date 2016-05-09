@@ -1,0 +1,70 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1/bacteria/hmms/COG0016.hmm
+# target sequence database:        ./run_ref1_evaluation//translated_proteins/c37302_g2_i1_ts.fas
+# output directed to file:         temp
+# per-dom hits tabular output:     ./run_ref1_evaluation/hmmer_output/COG0016.out.2
+# sequence search space set to:    107114
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       COG0016  [M=405]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   8.3e-128  429.7   0.0   1.1e-127  429.2   0.0    1.1  1  c37302_g2_i1_6  
+
+
+Domain annotation for each sequence (and alignments):
+>> c37302_g2_i1_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  429.2   0.0  1.1e-132  1.1e-127      20     403 ..    1137    1476 ..    1130    1478 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 429.2 bits;  conditional E-value: 1.1e-132
+         COG0016   20 leeleelvksalksleakelieveeeeleklrltelGkkileeggpetkllkelkkklkkeekkalgkainekllkealeealkkrklveeke 112 
+                      +e+l++lv++al+++e++    ++ ++le++r+++lGkk     g++t+++k+l+ +l++ee++++g++in   +ke+++  l++rk      
+  c37302_g2_i1_6 1137 MENLDALVSQALEAVERA----EDINALEQIRVNYLGKK-----GELTQVMKTLG-NLPAEERPKVGALIND--AKERVTVVLNARK------ 1211
+                      77889999**********....7889*************.....**********8.99**************..*************...... PP
+
+         COG0016  113 kkevsvekgetalteealksglwkeaefkkydvtlpgrkieaGklHpltkvleeireifvemGFeeaegpevesdfwnfdaLfipqdHPARdm 205 
+                                +a++e++l+++l++e     +dvtlpgr +++G lHp+t++le+i+++f+++G+ +aegpeve+d++nf+aL+ip +HPAR+m
+  c37302_g2_i1_6 1212 ----------AAFEEAELSARLAAE----CIDVTLPGRGQATGGLHPITRTLERIEQFFTHIGYGIAEGPEVEDDYHNFEALNIPGHHPARAM 1290
+                      ..........**************9....9*************************************************************** PP
+
+         COG0016  206 qDtFylkeevkevheegyrykwkeeeakklvLRThTtavqirtlekekppirvfsigrVfRndtlDatHlpeFhQvEGlvvdknvtladLkgt 298 
+                      +DtFy++                    ++++LRThT++vq+rt+e+++ppir++++grV+R+d+ D tH+p+FhQvEGl++d+++++adLkgt
+  c37302_g2_i1_6 1291 HDTFYFN--------------------ANMLLRTHTSPVQVRTMESTQPPIRIVCPGRVYRCDS-DITHSPMFHQVEGLLIDRDINFADLKGT 1362
+                      *******....................679**********************************.**************************** PP
+
+         COG0016  299 leeflkklfgae.kvrfrpsYfPfTePSaEvdvyhe.vggkg.......gWlEvggsGmvrpevleplGidpeevsvfAfGlGleRlamlkyg 382 
+                      +eefl+ +f++e  vrfrps+fPfTePSaEvd+++  + g+g       gWlEv+g+Gmv+p vl++ Gidpee+++fAfG+G eRlaml+yg
+  c37302_g2_i1_6 1363 IEEFLRVFFEKElAVRFRPSFFPFTEPSAEVDIQCVmCSGNGcrvckqtGWLEVMGCGMVHPSVLRMSGIDPEEFQGFAFGMGAERLAMLRYG 1455
+                      ************************************9******************************************************** PP
+
+         COG0016  383 isdiRelfendlrflrqfkva 403 
+                      ++d+R +f+ndlrfl qf+ a
+  c37302_g2_i1_6 1456 VNDLRLFFDNDLRFLAQFRXA 1476
+                      *****************9865 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (405 nodes)
+Target sequences:                            6  (15366 residues searched)
+Passed MSV filter:                         1  (0.166667); expected 0.1 (0.02)
+Passed bias filter:                        1  (0.166667); expected 0.1 (0.02)
+Passed Vit filter:                         1  (0.166667); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.166667); expected 0.0 (1e-05)
+Initial search space (Z):             107114  [as set by --Z on cmdline]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.02u 0.01s 00:00:00.03 Elapsed: 00:00:00.03
+# Mc/sec: 207.44
+//
+[ok]

@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/ref_1/Trinity.fasta
+#BUSCO was run in mode: trans
+
+Summarized benchmarks in BUSCO notation:
+	C:55%[D:30%],F:2.5%,M:42%,n:40
+
+Representing:
+	10	Complete Single-copy BUSCOs
+	12	Complete Duplicated BUSCOs
+	1	Fragmented BUSCOs
+	17	Missing BUSCOs
+	40	Total BUSCO groups searched
