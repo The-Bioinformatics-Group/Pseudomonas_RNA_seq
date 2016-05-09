@@ -27,3 +27,14 @@ It also presents the stats based on only the longest isoform per Gene, because s
 
 But not really reliable indicator for transcriptome quality.
 
+ExN50 statistics: More appropraite approach for transcriptome assembly. Here n50 statistics are limited to the top most expressed transcripts (x% of total normalized expression data).
+This requires a transcript abundance estimation. 
+E90N50 (90% contigs, n50 value) should be better and substantially greater than normal n50, because all lowly expressed transcripts get discarded. 
+E90 number of transcripts is just a fraction of total number of transcripts (for which n50 statistic was based).
+
+Profile/graph of Ex vs N50 can be a useful indicator for overall assembly quality. A high E90N50 peak is an indicator for a sufficient number of reads and therefore are good assembly. 
+= Mesurement of read depth!
+
+--> First estimate abundance! 
+
+
