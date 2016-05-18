@@ -24,7 +24,7 @@ Data was transfered from UPPMAX on Wed Oct 21 13:53:33 CEST 2015. A backup of th
 747M	P2201_114
 786M	P2201_115
 1.1G	P2201_116
-685M	P2201_117
+785M	P2201_117
 634M	P2201_118
 836M	P2201_119
 877M	P2201_120
@@ -158,22 +158,45 @@ Use alignment statistics to count all reads mapping back to the assembly.
      
 * Results
 
+18,99% (de_novo_2) and 19,10 (ref_1) didn't align. 
+This is quite much but not a big problem overall.
 
+5,37% (de_novo_2) and 6,3% (ref_1) aligned 1 time. 
+This is very low. Would have expected about 80-90%.
+
+75,64% (de_novo_2) and 74,60% (ref_1) aligned more than 1 time. 
+This is very high and not possible. One possible reason might be that there are a lot of fragments that are interpreted as genes. 
+There also might be regions with low read coverage so that one gene gets split by Trinity into two genes. 
+This also explaines the high number of genes and isoforms.
 
 ### BUSCO
 
 * Description
 
+See /Quality_evaluation
+
 * Results
+
+Read more about how BUSCO works for the written thesis. 
+The groups of genes, which are choosen by BUSCO because they are present in at least 90% of all bacterial species are mainly reported as missing or duplicated by Busco. How does BUSCO decides if a gene is reported as duplicated? If there are fragments, they shouldn't map over the entire gene and therefore not be reported as duplicates but maybe this is the case? Why are there so many genes missing? This could be explained by regions of low coverage that genes get splited into several genes.
 
 ### Contif Nx and ExNy Statistics
 
 * Description
 
+See /Quality_evaluation
+
 * Results
 
+N50 doesn't say much about the quality of a transcriptome assembly because of the high number of transcripts which may be lowly expressed. Ex90N50, which is limited to the top mostly highly expressed transcripts that represent 90% of the total normalized expression data is a better indicator for a good transcriptome! assembly. Need to finish abundance estimation for this before.
 
+### Result of the quality check of the first assembly. 
 
+First do the reference based assembly again but use the gene models instead the contig models or the genome models. This should solve the problem of low coverage regions (which might be caused by lowly expressed genes). Question: But one gene should be expressed at one level so it is kind of unlikely that there a low coverage regions inside a gene? But I'm not sure.
+
+Than compare the new assembly to the two old ones. Does it solve some problems?
+
+Then use Uclust to cluster the assemblies and compare the results.
 
 # Abundance estimation: Remapping of raw reads to get read counts
 
