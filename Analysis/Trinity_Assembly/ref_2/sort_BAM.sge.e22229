@@ -1,0 +1,3 @@
+[bam_sort_core] merging from 229 files...
+/opt/gridengine/default/spool/compute-0-8/job_scripts/22229: line 8: syntax error near unexpected token `done'
+/opt/gridengine/default/spool/compute-0-8/job_scripts/22229: line 8: `done'

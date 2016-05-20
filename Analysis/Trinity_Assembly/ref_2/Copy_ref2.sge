@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#$ -cwd
+#$ -S /bin/bash
+#$ -q high_mem
+#$ -pe mpich 20
+
+rsync -hav ref_2.bam /state/partition2/Alexheinz/
+
+done
+
+

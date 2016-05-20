@@ -1,0 +1,15 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 24
+#$ -l mem_free=200G
+
+/usr/local/bin/samtools view -bS /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/ref_2/Mapping1_2016_05_10/Mapping1_full_2016_05_10.sam  > ref_2.bam
+
+wait
+
+/usr/local/bin/samtools sort ref_2.bam
+
+done
+
+

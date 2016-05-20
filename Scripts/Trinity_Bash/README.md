@@ -14,7 +14,7 @@ Forward and reverse paired reads were used as input files.
 Reference genomes were downloaded from NCBI. 
 Use of adjust.sh script for mapping and statistics.
 
-### 791_PRUT_mapping.sge
+### Create Bam + Create Sam
 Using Alvars /usr/local/bin/mapping_filtering.sh script to map and sort all paired end reads to 791_PRUT reference genome.
 Keeping the final bam file as input for Trinity.
 

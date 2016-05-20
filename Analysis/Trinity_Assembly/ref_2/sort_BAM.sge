@@ -1,0 +1,8 @@
+#!/bin/bash
+#$ -cwd
+#$ -q high_mem
+#$ -pe mpich 20
+#$ -S /bin/bash
+
+samtools sort -o /state/partition2/Alexheinz/ref_2.coordSorted.bam /state/partition2/Alexheinz/ref_2.bam
+done
