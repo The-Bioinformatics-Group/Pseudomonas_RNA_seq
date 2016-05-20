@@ -37,4 +37,7 @@ Profile/graph of Ex vs N50 can be a useful indicator for overall assembly qualit
 
 --> First estimate abundance! 
 
+### Intermediate result
 
+First assemblies are not good (too much reads don't align or align more than once). Putative reasons described in the basic README.
+Doing ref_2 now with gene models, after this Cluster analysis. 

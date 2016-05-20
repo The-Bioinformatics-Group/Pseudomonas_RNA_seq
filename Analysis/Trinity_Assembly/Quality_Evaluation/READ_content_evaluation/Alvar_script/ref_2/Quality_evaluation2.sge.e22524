@@ -1,0 +1,8 @@
+-n (name) was input as Ref_2_Read_content
+-d (database) was input as Trinity.fasta
+-1 (forward) was input as /state/partition2/Alexheinz/pair1.fastq
+-2 (reverse) was input as /state/partition2/Alexheinz/pair2.fastq
+-t number of cores was input as 14
+Building a SMALL index
+/opt/gridengine/default/spool/compute-0-8/job_scripts/22524: line 11: syntax error near unexpected token `done'
+/opt/gridengine/default/spool/compute-0-8/job_scripts/22524: line 11: `done'

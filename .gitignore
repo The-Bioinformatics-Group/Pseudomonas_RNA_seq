@@ -7,4 +7,4 @@ Analysis/Trinity_Assembly/ref_1/Mapping2_2016_04_18
 Analysis/Trinity_Assembly/Quality_Evaluation/BUSCO/BUSCO_v1.1b1
 Analysis/Trinity_Assembly/ref_2/Mapping1_2016_05_10
 Analysis/Trinity_Assembly/ref_2/ref_2.bam
-
+Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis/bowtie.bam

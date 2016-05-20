@@ -1,0 +1,6 @@
+CMD: /home/local/bin/trinityrnaseq_r20140717/util/support_scripts/get_Trinity_gene_to_trans_map.pl Trinity.fasta > Trinity.fasta.gene_trans_map
+CMD: touch Trinity.fasta.bowtie.started
+CMD: bowtie-build Trinity.fasta Trinity.fasta.bowtie
+CMD: touch /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/Trinity.fasta.RSEM.rsem.prepped.started
+CMD: rsem-prepare-reference --no-polyA  --transcript-to-gene-map Trinity.fasta.gene_trans_map Trinity.fasta /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/Trinity.fasta.RSEM
+Only prepping reference. Stopping now.

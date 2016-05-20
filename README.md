@@ -101,7 +101,7 @@ Afterwards left, right and single reads were merged into one file, respectively 
 Trinity (/home/local/bin/trinityrnaseq_r20140717) was run using the following Script:
 * /Scripts/Trinity_Bash/De_novo.sge
 
-I didn't use the newest Trinity version. (Why again???)
+I didn't use the newest Trinity version. 
 
 # De novo Assembly 2 (11.04.2016)
 
@@ -145,6 +145,11 @@ Max intron length: 0 (makes sense)
 
 Using SS_lib_type flag.
 
+# Reference based Assembly 2 (10.05.2016)
+
+Used NBRC14164 genome instead of 791_Prut, because gene	models are avaliable for this strain.
+Same settings used.
+
 # Assembly evaluation
 
 ### Read content
@@ -158,13 +163,14 @@ Use alignment statistics to count all reads mapping back to the assembly.
      
 * Results
 
-18,99% (de_novo_2) and 19,10 (ref_1) didn't align. 
+18,99% (de_novo_2) and 19,10% (ref_1) and 19,08% (ref_2) didn't align. 
 This is quite much but not a big problem overall.
 
-5,37% (de_novo_2) and 6,3% (ref_1) aligned 1 time. 
+5,37% (de_novo_2) and 6,3% (ref_1) and 6,05% (ref_2) aligned 1 time. 
 This is very low. Would have expected about 80-90%.
 
-75,64% (de_novo_2) and 74,60% (ref_1) aligned more than 1 time. 
+75,64% (de_novo_2) and 74,60% (ref_1) and 74,87% (ref_2) aligned more than 1 time.
+ 
 This is very high and not possible. One possible reason might be that there are a lot of fragments that are interpreted as genes. 
 There also might be regions with low read coverage so that one gene gets split by Trinity into two genes. 
 This also explaines the high number of genes and isoforms.
@@ -180,6 +186,20 @@ See /Quality_evaluation
 Read more about how BUSCO works for the written thesis. 
 The groups of genes, which are choosen by BUSCO because they are present in at least 90% of all bacterial species are mainly reported as missing or duplicated by Busco. How does BUSCO decides if a gene is reported as duplicated? If there are fragments, they shouldn't map over the entire gene and therefore not be reported as duplicates but maybe this is the case? Why are there so many genes missing? This could be explained by regions of low coverage that genes get splited into several genes.
 
+A lot of BUSCO groups are reported as duplicated (maybe the same genes have been assembled more than once) or missing.
+
+Ref_1 has this output: It is similar to all other assemlies.
+
+10 Complete
+
+12 Duplicated
+
+1 Fragmented
+
+17 Missing
+
+40 Total
+
 ### Contif Nx and ExNy Statistics
 
 * Description
@@ -190,13 +210,35 @@ See /Quality_evaluation
 
 N50 doesn't say much about the quality of a transcriptome assembly because of the high number of transcripts which may be lowly expressed. Ex90N50, which is limited to the top mostly highly expressed transcripts that represent 90% of the total normalized expression data is a better indicator for a good transcriptome! assembly. Need to finish abundance estimation for this before.
 
-### Result of the quality check of the first assembly. 
+De_novo2: 8931 genes, 16695 transcripts, N50 = 1949
 
-First do the reference based assembly again but use the gene models instead the contig models or the genome models. This should solve the problem of low coverage regions (which might be caused by lowly expressed genes). Question: But one gene should be expressed at one level so it is kind of unlikely that there a low coverage regions inside a gene? But I'm not sure.
+Ref_1: 8966 genes, 16732 transcripts, n50 = 1921
+
+Ref_2: 8963 genes, 16736 transcripts, n50 = 1921
+
+Dependent on the strain, only 4000-5000 genes should be assembled. 
+
+In addition there shouldn't be so many transcripts, because no alternative splicing in bacteria. 
+
+### Result of the quality check of the first assemblies. 
+
+First do the reference based assembly again but use the gene models instead the contig models or the genome models.
+
+This should solve the problem of low coverage regions (which might be caused by lowly expressed genes).
+
+This low coverage regions could cause genes to be splitted into two genes. 
+
+Question: But one gene should be expressed at one level so it is kind of unlikely that there a low coverage regions inside a gene? But I'm not sure.
 
 Than compare the new assembly to the two old ones. Does it solve some problems?
 
 Then use Uclust to cluster the assemblies and compare the results.
+
+### New assembly
+
+Nearly same amount of Trinity genes and transcripts! 
+
+Will use Uclust now.
 
 # Abundance estimation: Remapping of raw reads to get read counts
 

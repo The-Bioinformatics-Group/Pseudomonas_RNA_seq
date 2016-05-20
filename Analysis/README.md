@@ -10,4 +10,9 @@ Included the .fasta assembly output files and assembly evaluation analysis.
 
 * Some intermediary files and backup copies are still on high_mem node /state/partition2/Alexheinz
 
+### Downstream_analysis
+
+Abundance estimation using RSEM to get the read counts.
+
+EDGE_R differential expression analysis.
 

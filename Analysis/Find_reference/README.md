@@ -33,7 +33,18 @@ It will just keep one text file containing the information we need.
 The file "Results.md" included the overall alignment rate for all 54 genomes. 
 These genomes have the highest alignment rate (above 80%):
 
+### Changes to the best assembly
 
+Because I need gene_models for ref_2 the best reference which has a full genome assembly and not just contigs, like PRUT, will be used.
+
+The following one is the best:
+
+NBRC 14164
+
+
+
+
+### Old "best" genomes
 
 PP_791_PRUT.fna 
 

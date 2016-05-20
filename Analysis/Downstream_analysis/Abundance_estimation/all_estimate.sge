@@ -1,24 +1,27 @@
-#!/usr/bin/perl
 #$ -cwd
 #$ -q high_mem
-#$ -pe mpich 20
+#$ -pe mpich 10
 #$ -l mem_free=150G
+#$ -S /bin/bash
 
-REF=/nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Trinity_Assembly/???
- 
+export REF=/nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/Trinity.fasta
+echo $REF
+date 
 #101
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_101/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_101_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_101/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_101_2.t-20.FQT.2.fastq   
 
 wait
+echo "first sample finished"
+date
 #102
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_102/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_102_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_102/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_102_2.t-20.FQT.2.fastq
@@ -27,7 +30,7 @@ wait
 #103
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_103/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_103_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_103/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_103_2.t-20.FQT.2.fastq
@@ -36,7 +39,7 @@ wait
 #104
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_104/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_104_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_104/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_104_2.t-20.FQT.2.fastq
@@ -45,7 +48,7 @@ wait
 #105
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_105/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_105_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_105/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_105_1.t-20.FQT.2.fastq
@@ -54,16 +57,18 @@ wait
 #106
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_106/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_106_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_106/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_106_2.t-20.FQT.2.fastq
 
 wait
+echo "25% finished"
+date
 #107
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_107/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_107_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_107/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_107_2.t-20.FQT.2.fastq
@@ -72,7 +77,7 @@ wait
 #108
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_108/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_108_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_108/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_108_2.t-20.FQT.2.fastq
@@ -81,7 +86,7 @@ wait
 #109
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_109/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_109_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_109/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_109_2.t-20.FQT.2.fastq
@@ -90,7 +95,7 @@ wait
 #110
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_110/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_110_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_110/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_110_2.t-20.FQT.2.fastq
@@ -99,7 +104,7 @@ wait
 #111
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_111/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_111_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_111/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_111_2.t-20.FQT.2.fastq
@@ -108,16 +113,18 @@ wait
 #112
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_112/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_112_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_112/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_112_2.t-20.FQT.2.fastq
 
 wait
+echo "50% finished"
+date
 #113
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_113/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_113_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_113/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_113_2.t-20.FQT.2.fastq
@@ -126,7 +133,7 @@ wait
 #114
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_114/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_114_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_114/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_114_2.t-20.FQT.2.fastq
@@ -135,7 +142,7 @@ wait
 #115
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_115/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_115_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_115/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_115_2.t-20.FQT.2.fastq
@@ -144,7 +151,7 @@ wait
 #116
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_116/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_116_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_116/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_116_2.t-20.FQT.2.fastq
@@ -153,7 +160,7 @@ wait
 #117
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_117/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_117_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_117/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_117_2.t-20.FQT.2.fastq
@@ -162,16 +169,18 @@ wait
 #118
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_118/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_118_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_118/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_118_2.t-20.FQT.2.fastq
 
 wait
+echo "75% finished"
+date
 #119
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_119/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_119_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_119/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_119_2.t-20.FQT.2.fastq
@@ -180,7 +189,7 @@ wait
 #120
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_120/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_120_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_120/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_120_2.t-20.FQT.2.fastq
@@ -189,7 +198,7 @@ wait
 #121
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_121/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_121_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_121/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_121_2.t-20.FQT.2.fastq
@@ -198,7 +207,7 @@ wait
 #122
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_122/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_122_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_122/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_122_2.t-20.FQT.2.fastq
@@ -207,7 +216,7 @@ wait
 #123
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_123/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_123_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_123/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_123_2.t-20.FQT.2.fastq
@@ -216,11 +225,12 @@ wait
 #124
 /usr/local/bin/trinityrnaseq_r20140717/util/align_and_estimate_abundance.pl --seqType fq --est_method alignment_based \
 --output_dir /nobackup/data9/Pseudomonas_putida_transcriptome_project/Analysis/Downstream_analysis/Abundance_estimation/RSEM/Analysis \
---est_method RSEM --aln_method bowtie2 -SS_lib_type FR --thread_count 20 --trinity-mode \
+--est_method RSEM --aln_method bowtie --SS_lib_type 'FR' --thread_count 10 --trinity_mode \
 --transcripts $REF \
 --left /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_124/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_124_1.t-20.FQT.2.fastq \
 --right /nobackup/data9/Pseudomonas_putida_transcriptome_project/data/P2201_124/150702_AC6U4VANXX/8_150702_AC6U4VANXX_P2201_124_2.t-20.FQT.2.fastq
 
-wait
-echo "done with abundance estimation"
+
+echo "100% finished"
 date
+echo "done"

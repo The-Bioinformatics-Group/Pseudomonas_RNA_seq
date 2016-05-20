@@ -8,25 +8,25 @@ PP_ATH-43.fna - 60.23% overall alignment rate
 
 PP_B001.fna - 68.61% overall alignment rate         
 
-PP_BIRD-1.fna - 71.21% overall alignment rate
+x PP_BIRD-1.fna - 71.21% overall alignment rate
 
 PP_BW11M1.fna - 53.21% overall alignment rate
 
 PP_CBB5.fna - 22.37% overall alignment rate
 
-PP_DLL-E4.fna - 65.25% overall alignment rate
+x PP_DLL-E4.fna - 65.25% overall alignment rate
 
 PP_DOT-T1E.fna - 69.45% overall alignment rate
 
-PP_F1.fna - 73.35% overall alignment rate
+x PP_F1.fna - 73.35% overall alignment rate
 
 PP_FDAARGOS_121.fna - 10.23% overall alignment rate
 
-PP_GB-1.fna - 71.74% overall alignment rate
+x PP_GB-1.fna - 71.74% overall alignment rate
 
 PP_H.fna - 69.35% overall alignment rate
 
-PP_H8234.fna - 75.31% overall alignment rate
+x PP_H8234.fna - 75.31% overall alignment rate
 
 PP_HB13667.fna - 65.92% overall alignment rate
 
@@ -48,7 +48,7 @@ PP_KF703.fna - 84.06% overall alignment rate
 
 PP_KG-4.fna - 63.65% overall alignment rate
 
-PP_KT2440.fna - 69.95% overall alignment rate
+x PP_KT2440.fna - 69.95% overall alignment rate
 
 PP_LF54.fna - 71.12% overall alignment rate
 
@@ -60,9 +60,9 @@ PP_MR3.fna - 42.12% overall alignment rate
 
 PP_MTCC5279.fna - 50.36% overall alignment rate
 
-PP_NBRC_14164.fna - 82.98% overall alignment rate
+x PP_NBRC_14164.fna - 82.98% overall alignment rate
 
-PP_ND6.fna - 72.38% overall alignment rate
+x PP_ND6.fna - 72.38% overall alignment rate
 
 PP_OUS82.fna - 75.00% overall alignment rate
 
@@ -76,11 +76,11 @@ PP_S11.fna - 62.94% overall alignment rate
 
 PP_S12(2)-5725genes.fna - couldn't open
 
-PP_S12.fna - 72.90% overall alignment rate
+x PP_S12.fna - 72.90% overall alignment rate
 
-PP_S13.1.2.fna - 75.91% overall alignment rate
+x PP_S13.1.2.fna - 75.91% overall alignment rate
 
-PP_S16.fna - 65.28% overall alignment rate
+x PP_S16.fna - 65.28% overall alignment rate
 
 PP_S610.fna - 53.16% overall alignment rate
 
@@ -102,7 +102,7 @@ PP_UASWS0946.fna - 40.89% overall alignment rate
 
 PP_W15Oct28.fna - 75.93% overall alignment rate
 
-PP_W619.fna - 61.43% overall alignment rate
+x PP_W619.fna - 61.43% overall alignment rate
 
 PP_YKD221.fna - 72.93% overall alignment rate
 
