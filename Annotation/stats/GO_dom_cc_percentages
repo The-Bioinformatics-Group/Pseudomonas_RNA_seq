@@ -1,0 +1,37 @@
+rowind	go_id	occurrences	tot_count	description
+0	GO:0016020	49.2354740061162	483	membrane
+1	GO:0016021	42.6095820591233	418	integral to membrane
+2	GO:0005737	3.5677879714577	35	cytoplasm
+3	GO:0005840	2.75229357798165	27	ribosome
+4	GO:0005622	2.34454638124363	23	intracellular
+5	GO:0005886	1.8348623853211	18	plasma membrane
+6	GO:0019867	1.52905198776758	15	outer membrane
+7	GO:0030288	0.815494393476045	8	outer membrane-bounded periplasmic space
+8	GO:0016592	0.509683995922528	5	mediator complex
+9	GO:0043190	0.509683995922528	5	ATP-binding cassette (ABC) transporter complex
+10	GO:0009279	0.509683995922528	5	cell outer membrane
+11	GO:0005615	0.509683995922528	5	extracellular space
+12	GO:0005887	0.407747196738022	4	integral to plasma membrane
+13	GO:0042597	0.407747196738022	4	periplasmic space
+14	GO:0009288	0.407747196738022	4	bacterial-type flagellum
+15	GO:0009289	0.407747196738022	4	pilus
+16	GO:0045261	0.407747196738022	4	proton-transporting ATP synthase complex, catalyti
+17	GO:0019008	0.305810397553517	3	molybdopterin synthase complex
+18	GO:0045095	0.305810397553517	3	keratin filament
+19	GO:0019028	0.305810397553517	3	viral capsid
+20	GO:0009428	0.203873598369011	2	bacterial-type flagellum basal body, distal rod, P
+21	GO:0009425	0.203873598369011	2	bacterial-type flagellum basal body
+22	GO:0019031	0.101936799184506	1	viral envelope
+23	GO:0009360	0.101936799184506	1	DNA polymerase III complex
+24	GO:0009318	0.101936799184506	1	exodeoxyribonuclease VII complex
+25	GO:0033178	0.101936799184506	1	proton-transporting two-sector ATPase complex, cat
+26	GO:0015934	0.101936799184506	1	large ribosomal subunit
+27	GO:0009317	0.101936799184506	1	acetyl-CoA carboxylase complex
+28	GO:0005694	0.101936799184506	1	chromosome
+29	GO:0048500	0.101936799184506	1	signal recognition particle
+30	GO:0009424	0.101936799184506	1	bacterial-type flagellum hook
+31	GO:0015627	0.101936799184506	1	type II protein secretion system complex
+32	GO:0009427	0.101936799184506	1	bacterial-type flagellum basal body, distal rod, L
+33	GO:0009295	0.101936799184506	1	nucleoid
+34	GO:0005839	0.101936799184506	1	proteasome core complex
+35	GO:0033573	0.101936799184506	1	high affinity iron permease complex

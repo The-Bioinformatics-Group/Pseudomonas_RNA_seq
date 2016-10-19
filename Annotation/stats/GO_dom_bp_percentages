@@ -1,0 +1,271 @@
+rowind	go_id	occurrences	tot_count	description
+0	GO:0055114	18.5695246557086	418	oxidation-reduction process
+1	GO:0006810	16.037316748112	361	transport
+2	GO:0055085	15.0599733451799	339	transmembrane transport
+3	GO:0006355	13.0608618391826	294	regulation of transcription, DNA-dependent
+4	GO:0008152	10.9729009329187	247	metabolic process
+5	GO:0000160	3.68725011106175	83	two-component signal transduction system (phosphor
+6	GO:0009058	2.84318080852954	64	biosynthetic process
+7	GO:0007165	2.44335850733008	55	signal transduction
+8	GO:0006508	1.91026210573079	43	proteolysis
+9	GO:0003333	1.64371390493114	37	amino acid transmembrane transport
+10	GO:0005975	1.24389160373167	28	carbohydrate metabolic process
+11	GO:0006352	1.24389160373167	28	transcription initiation, DNA-dependent
+12	GO:0006412	1.1994669035984	27	translation
+13	GO:0006310	1.15504220346513	26	DNA recombination
+14	GO:0006313	1.15504220346513	26	transposition, DNA-mediated
+15	GO:0006812	1.06619280319858	24	cation transport
+16	GO:0006807	1.0217681030653	23	nitrogen compound metabolic process
+17	GO:0015074	0.888494002665482	20	DNA integration
+18	GO:0009306	0.799644602398934	18	protein secretion
+19	GO:0006281	0.75521990226566	17	DNA repair
+20	GO:0016567	0.710795202132386	16	protein ubiquitination
+21	GO:0006935	0.710795202132386	16	chemotaxis
+22	GO:0006260	0.710795202132386	16	DNA replication
+23	GO:0006865	0.621945801865837	14	amino acid transport
+24	GO:0006520	0.533096401599289	12	cellular amino acid metabolic process
+25	GO:0006813	0.533096401599289	12	potassium ion transport
+26	GO:0006457	0.488671701466015	11	protein folding
+27	GO:0006418	0.488671701466015	11	tRNA aminoacylation for protein translation
+28	GO:0006814	0.444247001332741	10	sodium ion transport
+29	GO:0006950	0.444247001332741	10	response to stress
+30	GO:0006631	0.399822301199467	9	fatty acid metabolic process
+31	GO:0006364	0.399822301199467	9	rRNA processing
+32	GO:0006633	0.399822301199467	9	fatty acid biosynthetic process
+33	GO:0006099	0.399822301199467	9	tricarboxylic acid cycle
+34	GO:0006396	0.399822301199467	9	RNA processing
+35	GO:0006725	0.399822301199467	9	cellular aromatic compound metabolic process
+36	GO:0071973	0.355397601066193	8	bacterial-type flagellar cell motility
+37	GO:0019439	0.355397601066193	8	aromatic compound catabolic process
+38	GO:0015031	0.355397601066193	8	protein transport
+39	GO:0008272	0.355397601066193	8	sulfate transport
+40	GO:0006094	0.355397601066193	8	gluconeogenesis
+41	GO:0009060	0.355397601066193	8	aerobic respiration
+42	GO:0017004	0.310972900932919	7	cytochrome complex assembly
+43	GO:0006541	0.310972900932919	7	glutamine metabolic process
+44	GO:0006284	0.310972900932919	7	base-excision repair
+45	GO:0045454	0.310972900932919	7	cell redox homeostasis
+46	GO:0009231	0.310972900932919	7	riboflavin biosynthetic process
+47	GO:0017000	0.310972900932919	7	antibiotic biosynthetic process
+48	GO:0006265	0.310972900932919	7	DNA topological change
+49	GO:0006006	0.310972900932919	7	glucose metabolic process
+50	GO:0009236	0.310972900932919	7	cobalamin biosynthetic process
+51	GO:0009245	0.266548200799645	6	lipid A biosynthetic process
+52	GO:0006629	0.266548200799645	6	lipid metabolic process
+53	GO:0030001	0.266548200799645	6	metal ion transport
+54	GO:0009116	0.266548200799645	6	nucleoside metabolic process
+55	GO:0006546	0.266548200799645	6	glycine catabolic process
+56	GO:0006096	0.266548200799645	6	glycolysis
+57	GO:0006537	0.22212350066637	5	glutamate biosynthetic process
+58	GO:0015703	0.22212350066637	5	chromate transport
+59	GO:0015696	0.22212350066637	5	ammonium transport
+60	GO:0006777	0.22212350066637	5	Mo-molybdopterin cofactor biosynthetic process
+61	GO:0015986	0.22212350066637	5	ATP synthesis coupled proton transport
+62	GO:0045892	0.22212350066637	5	negative regulation of transcription, DNA-dependen
+63	GO:0009405	0.22212350066637	5	pathogenesis
+64	GO:0009451	0.22212350066637	5	RNA modification
+65	GO:0006979	0.22212350066637	5	response to oxidative stress
+66	GO:0008033	0.22212350066637	5	tRNA processing
+67	GO:0009446	0.22212350066637	5	putrescine biosynthetic process
+68	GO:0006357	0.22212350066637	5	regulation of transcription from RNA polymerase II
+69	GO:0042919	0.22212350066637	5	benzoate transport
+70	GO:0001522	0.22212350066637	5	pseudouridine synthesis
+71	GO:0009401	0.22212350066637	5	phosphoenolpyruvate-dependent sugar phosphotransfe
+72	GO:0006694	0.22212350066637	5	steroid biosynthetic process
+73	GO:0016310	0.177698800533096	4	phosphorylation
+74	GO:0000105	0.177698800533096	4	histidine biosynthetic process
+75	GO:0009228	0.177698800533096	4	thiamine biosynthetic process
+76	GO:0009253	0.177698800533096	4	peptidoglycan catabolic process
+77	GO:0006400	0.177698800533096	4	tRNA modification
+78	GO:0007155	0.177698800533096	4	cell adhesion
+79	GO:0006879	0.177698800533096	4	cellular iron ion homeostasis
+80	GO:0006097	0.177698800533096	4	glyoxylate cycle
+81	GO:0009073	0.177698800533096	4	aromatic amino acid family biosynthetic process
+82	GO:0006779	0.177698800533096	4	porphyrin-containing compound biosynthetic process
+83	GO:0043039	0.177698800533096	4	tRNA aminoacylation
+84	GO:0046854	0.177698800533096	4	phosphatidylinositol phosphorylation
+85	GO:0006750	0.177698800533096	4	glutathione biosynthetic process
+86	GO:0019752	0.177698800533096	4	carboxylic acid metabolic process
+87	GO:0010124	0.177698800533096	4	phenylacetate catabolic process
+88	GO:0006139	0.177698800533096	4	nucleobase-containing compound metabolic process
+89	GO:0008652	0.177698800533096	4	cellular amino acid biosynthetic process
+90	GO:0016114	0.177698800533096	4	terpenoid biosynthetic process
+91	GO:0032328	0.177698800533096	4	alanine transport
+92	GO:0008654	0.177698800533096	4	phospholipid biosynthetic process
+93	GO:0033014	0.177698800533096	4	tetrapyrrole biosynthetic process
+94	GO:0006306	0.133274100399822	3	DNA methylation
+95	GO:0015940	0.133274100399822	3	pantothenate biosynthetic process
+96	GO:0006402	0.133274100399822	3	mRNA catabolic process
+97	GO:0008616	0.133274100399822	3	queuosine biosynthetic process
+98	GO:0031388	0.133274100399822	3	organic acid phosphorylation
+99	GO:0006885	0.133274100399822	3	regulation of pH
+100	GO:0006526	0.133274100399822	3	arginine biosynthetic process
+101	GO:0032784	0.133274100399822	3	regulation of transcription elongation, DNA-depend
+102	GO:0009254	0.133274100399822	3	peptidoglycan turnover
+103	GO:0006426	0.133274100399822	3	glycyl-tRNA aminoacylation
+104	GO:0006493	0.133274100399822	3	protein O-linked glycosylation
+105	GO:0006164	0.133274100399822	3	purine nucleotide biosynthetic process
+106	GO:0009712	0.133274100399822	3	catechol-containing compound metabolic process
+107	GO:0006817	0.133274100399822	3	phosphate ion transport
+108	GO:0006109	0.133274100399822	3	regulation of carbohydrate metabolic process
+109	GO:0051301	0.133274100399822	3	cell division
+110	GO:0009396	0.133274100399822	3	folic acid-containing compound biosynthetic proces
+111	GO:0006351	0.133274100399822	3	transcription, DNA-dependent
+112	GO:0006568	0.133274100399822	3	tryptophan metabolic process
+113	GO:0018193	0.133274100399822	3	peptidyl-amino acid modification
+114	GO:0010468	0.133274100399822	3	regulation of gene expression
+115	GO:0006744	0.0888494002665482	2	ubiquinone biosynthetic process
+116	GO:0006529	0.0888494002665482	2	asparagine biosynthetic process
+117	GO:0016051	0.0888494002665482	2	carbohydrate biosynthetic process
+118	GO:0000902	0.0888494002665482	2	cell morphogenesis
+119	GO:0046718	0.0888494002665482	2	viral entry into host cell
+120	GO:0009086	0.0888494002665482	2	methionine biosynthetic process
+121	GO:0018298	0.0888494002665482	2	protein-chromophore linkage
+122	GO:0042619	0.0888494002665482	2	poly-hydroxybutyrate biosynthetic process
+123	GO:0006415	0.0888494002665482	2	translational termination
+124	GO:0030244	0.0888494002665482	2	cellulose biosynthetic process
+125	GO:0006614	0.0888494002665482	2	SRP-dependent cotranslational protein targeting to
+126	GO:0000271	0.0888494002665482	2	polysaccharide biosynthetic process
+127	GO:0042398	0.0888494002665482	2	cellular modified amino acid biosynthetic process
+128	GO:0006413	0.0888494002665482	2	translational initiation
+129	GO:0046653	0.0888494002665482	2	tetrahydrofolate metabolic process
+130	GO:0071805	0.0888494002665482	2	potassium ion transmembrane transport
+131	GO:0044341	0.0888494002665482	2	sodium-dependent phosphate transport
+132	GO:0006040	0.0888494002665482	2	amino sugar metabolic process
+133	GO:0009165	0.0888494002665482	2	nucleotide biosynthetic process
+134	GO:0006545	0.0888494002665482	2	glycine biosynthetic process
+135	GO:0051262	0.0888494002665482	2	protein tetramerization
+136	GO:0006749	0.0888494002665482	2	glutathione metabolic process
+137	GO:0009584	0.0888494002665482	2	detection of visible light
+138	GO:0006189	0.0888494002665482	2	'de novo' IMP biosynthetic process
+139	GO:0042158	0.0888494002665482	2	lipoprotein biosynthetic process
+140	GO:0006464	0.0888494002665482	2	cellular protein modification process
+141	GO:0006282	0.0888494002665482	2	regulation of DNA repair
+142	GO:0008615	0.0888494002665482	2	pyridoxine biosynthetic process
+143	GO:0006788	0.0888494002665482	2	heme oxidation
+144	GO:0015886	0.0888494002665482	2	heme transport
+145	GO:0051205	0.0888494002665482	2	protein insertion into membrane
+146	GO:0015813	0.0888494002665482	2	L-glutamate transport
+147	GO:0006741	0.0888494002665482	2	NADP biosynthetic process
+148	GO:0000413	0.0888494002665482	2	protein peptidyl-prolyl isomerization
+149	GO:0008299	0.0888494002665482	2	isoprenoid biosynthetic process
+150	GO:0006855	0.0888494002665482	2	drug transmembrane transport
+151	GO:0006420	0.0888494002665482	2	arginyl-tRNA aminoacylation
+152	GO:0006878	0.0888494002665482	2	cellular copper ion homeostasis
+153	GO:0071555	0.0888494002665482	2	cell wall organization
+154	GO:0007049	0.0888494002665482	2	cell cycle
+155	GO:0019475	0.0888494002665482	2	L-lysine catabolic process to acetate
+156	GO:0001558	0.0888494002665482	2	regulation of cell growth
+157	GO:0009435	0.0888494002665482	2	NAD biosynthetic process
+158	GO:0002143	0.0888494002665482	2	tRNA wobble position uridine thiolation
+159	GO:0006188	0.0888494002665482	2	IMP biosynthetic process
+160	GO:0009249	0.0888494002665482	2	protein lipoylation
+161	GO:0006555	0.0888494002665482	2	methionine metabolic process
+162	GO:0010033	0.0444247001332741	1	response to organic substance
+163	GO:0006171	0.0444247001332741	1	cAMP biosynthetic process
+164	GO:0009098	0.0444247001332741	1	leucine biosynthetic process
+165	GO:0001514	0.0444247001332741	1	selenocysteine incorporation
+166	GO:0006177	0.0444247001332741	1	GMP biosynthetic process
+167	GO:0070475	0.0444247001332741	1	rRNA base methylation
+168	GO:0006304	0.0444247001332741	1	DNA modification
+169	GO:0006468	0.0444247001332741	1	protein phosphorylation
+170	GO:0006783	0.0444247001332741	1	heme biosynthetic process
+171	GO:0042128	0.0444247001332741	1	nitrate assimilation
+172	GO:0015774	0.0444247001332741	1	polysaccharide transport
+173	GO:0018189	0.0444247001332741	1	pyrroloquinoline quinone biosynthetic process
+174	GO:0016226	0.0444247001332741	1	iron-sulfur cluster assembly
+175	GO:0046903	0.0444247001332741	1	secretion
+176	GO:0006811	0.0444247001332741	1	ion transport
+177	GO:0032472	0.0444247001332741	1	Golgi calcium ion transport
+178	GO:0009186	0.0444247001332741	1	deoxyribonucleoside diphosphate metabolic process
+179	GO:0017038	0.0444247001332741	1	protein import
+180	GO:0006011	0.0444247001332741	1	UDP-glucose metabolic process
+181	GO:0015992	0.0444247001332741	1	proton transport
+182	GO:0006730	0.0444247001332741	1	one-carbon metabolic process
+183	GO:0044237	0.0444247001332741	1	cellular metabolic process
+184	GO:0006542	0.0444247001332741	1	glutamine biosynthetic process
+185	GO:0006827	0.0444247001332741	1	high-affinity iron ion transport
+186	GO:0006007	0.0444247001332741	1	glucose catabolic process
+187	GO:0035429	0.0444247001332741	1	gluconate transmembrane transport
+188	GO:0005976	0.0444247001332741	1	polysaccharide metabolic process
+189	GO:0006928	0.0444247001332741	1	cellular component movement
+190	GO:0046168	0.0444247001332741	1	glycerol-3-phosphate catabolic process
+191	GO:0015672	0.0444247001332741	1	monovalent inorganic cation transport
+192	GO:0009072	0.0444247001332741	1	aromatic amino acid family metabolic process
+193	GO:0019538	0.0444247001332741	1	protein metabolic process
+194	GO:0030163	0.0444247001332741	1	protein catabolic process
+195	GO:0000041	0.0444247001332741	1	transition metal ion transport
+196	GO:0009847	0.0444247001332741	1	spore germination
+197	GO:0043043	0.0444247001332741	1	peptide biosynthetic process
+198	GO:0051302	0.0444247001332741	1	regulation of cell division
+199	GO:0006729	0.0444247001332741	1	tetrahydrobiopterin biosynthetic process
+200	GO:0051304	0.0444247001332741	1	chromosome separation
+201	GO:0061024	0.0444247001332741	1	membrane organization
+202	GO:0006559	0.0444247001332741	1	L-phenylalanine catabolic process
+203	GO:0017003	0.0444247001332741	1	protein-heme linkage
+204	GO:0017013	0.0444247001332741	1	protein flavinylation
+205	GO:0009877	0.0444247001332741	1	nodulation
+206	GO:0006401	0.0444247001332741	1	RNA catabolic process
+207	GO:0033539	0.0444247001332741	1	fatty acid beta-oxidation using acyl-CoA dehydroge
+208	GO:0016598	0.0444247001332741	1	protein arginylation
+209	GO:0006450	0.0444247001332741	1	regulation of translational fidelity
+210	GO:0006570	0.0444247001332741	1	tyrosine metabolic process
+211	GO:0006605	0.0444247001332741	1	protein targeting
+212	GO:0044238	0.0444247001332741	1	primary metabolic process
+213	GO:0006298	0.0444247001332741	1	mismatch repair
+214	GO:0006084	0.0444247001332741	1	acetyl-CoA metabolic process
+215	GO:0019058	0.0444247001332741	1	viral infectious cycle
+216	GO:0015727	0.0444247001332741	1	lactate transport
+217	GO:0015628	0.0444247001332741	1	protein secretion by the type II secretion system
+218	GO:0006302	0.0444247001332741	1	double-strand break repair
+219	GO:0015977	0.0444247001332741	1	carbon fixation
+220	GO:0050920	0.0444247001332741	1	regulation of chemotaxis
+221	GO:0015969	0.0444247001332741	1	guanosine tetraphosphate metabolic process
+222	GO:0006784	0.0444247001332741	1	heme a biosynthetic process
+223	GO:0019288	0.0444247001332741	1	isopentenyl diphosphate biosynthetic process, meva
+224	GO:0006419	0.0444247001332741	1	alanyl-tRNA aminoacylation
+225	GO:0006556	0.0444247001332741	1	S-adenosylmethionine biosynthetic process
+226	GO:0042254	0.0444247001332741	1	ribosome biogenesis
+227	GO:0051156	0.0444247001332741	1	glucose 6-phosphate metabolic process
+228	GO:0031167	0.0444247001332741	1	rRNA methylation
+229	GO:0051276	0.0444247001332741	1	chromosome organization
+230	GO:0015991	0.0444247001332741	1	ATP hydrolysis coupled proton transport
+231	GO:0009089	0.0444247001332741	1	lysine biosynthetic process via diaminopimelate
+232	GO:0009052	0.0444247001332741	1	pentose-phosphate shunt, non-oxidative branch
+233	GO:0071918	0.0444247001332741	1	urea transmembrane transport
+234	GO:0032259	0.0444247001332741	1	methylation
+235	GO:0006303	0.0444247001332741	1	double-strand break repair via nonhomologous end j
+236	GO:0006414	0.0444247001332741	1	translational elongation
+237	GO:0015937	0.0444247001332741	1	coenzyme A biosynthetic process
+238	GO:0006207	0.0444247001332741	1	'de novo' pyrimidine base biosynthetic process
+239	GO:0051603	0.0444247001332741	1	proteolysis involved in cellular protein catabolic
+240	GO:0034220	0.0444247001332741	1	ion transmembrane transport
+241	GO:0007276	0.0444247001332741	1	gamete generation
+242	GO:0006801	0.0444247001332741	1	superoxide metabolic process
+243	GO:0051188	0.0444247001332741	1	cofactor biosynthetic process
+244	GO:0006289	0.0444247001332741	1	nucleotide-excision repair
+245	GO:0034258	0.0444247001332741	1	nicotinamide riboside transport
+246	GO:0006808	0.0444247001332741	1	regulation of nitrogen utilization
+247	GO:0006525	0.0444247001332741	1	arginine metabolic process
+248	GO:0009267	0.0444247001332741	1	cellular response to starvation
+249	GO:0009294	0.0444247001332741	1	DNA mediated transformation
+250	GO:0019354	0.0444247001332741	1	siroheme biosynthetic process
+251	GO:0030259	0.0444247001332741	1	lipid glycosylation
+252	GO:0019551	0.0444247001332741	1	glutamate catabolic process to 2-oxoglutarate
+253	GO:0006323	0.0444247001332741	1	DNA packaging
+254	GO:0009117	0.0444247001332741	1	nucleotide metabolic process
+255	GO:0000256	0.0444247001332741	1	allantoin catabolic process
+256	GO:0050992	0.0444247001332741	1	dimethylallyl diphosphate biosynthetic process
+257	GO:0016998	0.0444247001332741	1	cell wall macromolecule catabolic process
+258	GO:0016311	0.0444247001332741	1	dephosphorylation
+259	GO:0019478	0.0444247001332741	1	D-amino acid catabolic process
+260	GO:0046417	0.0444247001332741	1	chorismate metabolic process
+261	GO:0006308	0.0444247001332741	1	DNA catabolic process
+262	GO:0042558	0.0444247001332741	1	pteridine-containing compound metabolic process
+263	GO:0015700	0.0444247001332741	1	arsenite transport
+264	GO:0006221	0.0444247001332741	1	pyrimidine nucleotide biosynthetic process
+265	GO:0009312	0.0444247001332741	1	oligosaccharide biosynthetic process
+266	GO:0032324	0.0444247001332741	1	molybdopterin cofactor biosynthetic process
+267	GO:0006796	0.0444247001332741	1	phosphate-containing compound metabolic process
+268	GO:0006231	0.0444247001332741	1	dTMP biosynthetic process
+269	GO:0019048	0.0444247001332741	1	virus-host interaction

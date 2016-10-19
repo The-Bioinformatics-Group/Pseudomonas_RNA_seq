@@ -1,0 +1,95 @@
+rowind	go_id	occurrences	tot_count	description
+0	GO:0016021	59.6374045801527	1250	integral to membrane
+1	GO:0005886	14.6946564885496	308	plasma membrane
+2	GO:0005737	13.7404580152672	288	cytoplasm
+3	GO:0005622	10.0190839694656	210	intracellular
+4	GO:0009279	7.06106870229008	148	cell outer membrane
+5	GO:0016020	4.05534351145038	85	membrane
+6	GO:0042597	2.00381679389313	42	periplasmic space
+7	GO:0043190	1.95610687022901	41	ATP-binding cassette (ABC) transporter complex
+8	GO:0005887	1.86068702290076	39	integral to plasma membrane
+9	GO:0019867	1.43129770992366	30	outer membrane
+10	GO:0005829	1.33587786259542	28	cytosol
+11	GO:0005840	1.14503816793893	24	ribosome
+12	GO:0030288	1.00190839694656	21	outer membrane-bounded periplasmic space
+13	GO:0005623	0.572519083969466	12	cell
+14	GO:0015627	0.477099236641221	10	type II protein secretion system complex
+15	GO:0046930	0.429389312977099	9	pore complex
+16	GO:0005576	0.429389312977099	9	extracellular region
+17	GO:0009295	0.381679389312977	8	nucleoid
+18	GO:0005694	0.333969465648855	7	chromosome
+19	GO:0032153	0.286259541984733	6	cell division site
+20	GO:0009425	0.286259541984733	6	bacterial-type flagellum basal body
+21	GO:0009424	0.238549618320611	5	bacterial-type flagellum hook
+22	GO:0019028	0.238549618320611	5	viral capsid
+23	GO:0009898	0.238549618320611	5	internal side of plasma membrane
+24	GO:0005739	0.238549618320611	5	mitochondrion
+25	GO:0070469	0.190839694656489	4	respiratory chain
+26	GO:0009330	0.190839694656489	4	DNA topoisomerase complex (ATP-hydrolyzing)
+27	GO:0045239	0.190839694656489	4	tricarboxylic acid cycle enzyme complex
+28	GO:0022627	0.190839694656489	4	cytosolic small ribosomal subunit
+29	GO:0045278	0.190839694656489	4	plasma membrane respiratory chain complex IV
+30	GO:0030257	0.143129770992366	3	type III protein secretion system complex
+31	GO:0045261	0.143129770992366	3	proton-transporting ATP synthase complex, catalyti
+32	GO:0009289	0.143129770992366	3	pilus
+33	GO:0033281	0.143129770992366	3	TAT protein transport complex
+34	GO:0009288	0.143129770992366	3	bacterial-type flagellum
+35	GO:0005759	0.143129770992366	3	mitochondrial matrix
+36	GO:0009340	0.143129770992366	3	DNA topoisomerase IV complex
+37	GO:0009317	0.143129770992366	3	acetyl-CoA carboxylase complex
+38	GO:0005835	0.143129770992366	3	fatty acid synthase complex
+39	GO:0019008	0.143129770992366	3	molybdopterin synthase complex
+40	GO:0009341	0.0954198473282443	2	beta-galactosidase complex
+41	GO:0000178	0.0954198473282443	2	exosome (RNase complex)
+42	GO:0009339	0.0954198473282443	2	glycolate oxidase complex
+43	GO:0070069	0.0954198473282443	2	cytochrome complex
+44	GO:0070470	0.0954198473282443	2	plasma membrane respiratory chain
+45	GO:0045263	0.0954198473282443	2	proton-transporting ATP synthase complex, coupling
+46	GO:0005727	0.0954198473282443	2	extrachromosomal circular DNA
+47	GO:0005777	0.0954198473282443	2	peroxisome
+48	GO:0019897	0.0954198473282443	2	extrinsic to plasma membrane
+49	GO:0009276	0.0954198473282443	2	Gram-negative-bacterium-type cell wall
+50	GO:0009376	0.0954198473282443	2	HslUV protease complex
+51	GO:0015935	0.0954198473282443	2	small ribosomal subunit
+52	GO:0009360	0.0954198473282443	2	DNA polymerase III complex
+53	GO:0043231	0.0954198473282443	2	intracellular membrane-bounded organelle
+54	GO:0005960	0.0954198473282443	2	glycine cleavage complex
+55	GO:0030256	0.0954198473282443	2	type I protein secretion system complex
+56	GO:0009428	0.0954198473282443	2	bacterial-type flagellum basal body, distal rod, P
+57	GO:0060187	0.0954198473282443	2	cell pole
+58	GO:0009380	0.0954198473282443	2	excinuclease repair complex
+59	GO:0009338	0.0954198473282443	2	exodeoxyribonuclease V complex
+60	GO:0009507	0.0954198473282443	2	chloroplast
+61	GO:0009318	0.0954198473282443	2	exodeoxyribonuclease VII complex
+62	GO:0033573	0.0477099236641221	1	high affinity iron permease complex
+63	GO:0009326	0.0477099236641221	1	formate dehydrogenase complex
+64	GO:0005615	0.0477099236641221	1	extracellular space
+65	GO:0005971	0.0477099236641221	1	ribonucleoside-diphosphate reductase complex
+66	GO:0009431	0.0477099236641221	1	bacterial-type flagellum basal body, MS ring
+67	GO:0009358	0.0477099236641221	1	polyphosphate kinase complex
+68	GO:0022625	0.0477099236641221	1	cytosolic large ribosomal subunit
+69	GO:0017117	0.0477099236641221	1	single-stranded DNA-dependent ATP-dependent DNA he
+70	GO:0009570	0.0477099236641221	1	chloroplast stroma
+71	GO:0015934	0.0477099236641221	1	large ribosomal subunit
+72	GO:0043590	0.0477099236641221	1	bacterial nucleoid
+73	GO:0009331	0.0477099236641221	1	glycerol-3-phosphate dehydrogenase complex
+74	GO:0005839	0.0477099236641221	1	proteasome core complex
+75	GO:0000502	0.0477099236641221	1	proteasome complex
+76	GO:0031362	0.0477099236641221	1	anchored to external side of plasma membrane
+77	GO:0036125	0.0477099236641221	1	fatty acid beta-oxidation multienzyme complex
+78	GO:0045275	0.0477099236641221	1	respiratory chain complex III
+79	GO:0031966	0.0477099236641221	1	mitochondrial membrane
+80	GO:0009366	0.0477099236641221	1	enterobactin synthetase complex
+81	GO:0031226	0.0477099236641221	1	intrinsic to plasma membrane
+82	GO:0009536	0.0477099236641221	1	plastid
+83	GO:0070062	0.0477099236641221	1	extracellular vesicular exosome
+84	GO:0005654	0.0477099236641221	1	nucleoplasm
+85	GO:0005743	0.0477099236641221	1	mitochondrial inner membrane
+86	GO:0048500	0.0477099236641221	1	signal recognition particle
+87	GO:0009274	0.0477099236641221	1	peptidoglycan-based cell wall
+88	GO:0009420	0.0477099236641221	1	bacterial-type flagellum filament
+89	GO:0030529	0.0477099236641221	1	ribonucleoprotein complex
+90	GO:0045254	0.0477099236641221	1	pyruvate dehydrogenase complex
+91	GO:0008076	0.0477099236641221	1	voltage-gated potassium channel complex
+92	GO:0019013	0.0477099236641221	1	viral nucleocapsid
+93	GO:0030894	0.0477099236641221	1	replisome

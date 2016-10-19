@@ -1,0 +1,232 @@
+rowind	pw_id	occurrences	tot_count	description
+0	 putrescine degradation	3.48692403486924	28	 putrescine degradation
+1	 fatty acid biosynthesis	3.36239103362391	27	 fatty acid biosynthesis
+2	 phenylacetate degradation	3.11332503113325	25	 phenylacetate degradation
+3	 peptidoglycan biosynthesis	2.4906600249066	20	 peptidoglycan biosynthesis
+4	 adenosylcobalamin biosynthesis	2.4906600249066	20	 adenosylcobalamin biosynthesis
+5	 alginate biosynthesis	2.36612702366127	19	 alginate biosynthesis
+6	 beta-ketoadipate pathway	1.99252801992528	16	 beta-ketoadipate pathway
+7	 fatty acid beta-oxidation	1.74346201743462	14	 fatty acid beta-oxidation
+8	 L-arginine biosynthesis	1.74346201743462	14	 L-arginine biosynthesis
+9	 tricarboxylic acid cycle	1.74346201743462	14	 tricarboxylic acid cycle
+10	 chorismate biosynthesis	1.61892901618929	13	 chorismate biosynthesis
+11	 gluconeogenesis	1.49439601494396	12	 gluconeogenesis
+12	 3',5'-cyclic di-GMP biosynthesis	1.49439601494396	12	 3',5'-cyclic di-GMP biosynthesis
+13	 IMP biosynthesis via de novo pathway	1.36986301369863	11	 IMP biosynthesis via de novo pathway
+14	 L-lysine biosynthesis via DAP pathway	1.36986301369863	11	 L-lysine biosynthesis via DAP pathway
+15	 4-aminobutanoate degradation	1.36986301369863	11	 4-aminobutanoate degradation
+16	 nicotinate degradation	1.2453300124533	10	 nicotinate degradation
+17	 propanoate degradation	1.2453300124533	10	 propanoate degradation
+18	 L-isoleucine biosynthesis	1.2453300124533	10	 L-isoleucine biosynthesis
+19	 L-methionine biosynthesis via de novo pathway	1.12079701120797	9	 L-methionine biosynthesis via de novo pathway
+20	 LPS O-antigen biosynthesis	1.12079701120797	9	 LPS O-antigen biosynthesis
+21	 NAD(+) biosynthesis	1.12079701120797	9	 NAD(+) biosynthesis
+22	 molybdopterin biosynthesis	1.12079701120797	9	 molybdopterin biosynthesis
+23	 riboflavin biosynthesis	0.99626400996264	8	 riboflavin biosynthesis
+24	 pentose phosphate pathway	0.99626400996264	8	 pentose phosphate pathway
+25	 steroid biosynthesis	0.99626400996264	8	 steroid biosynthesis
+26	 oxidative phosphorylation	0.99626400996264	8	 oxidative phosphorylation
+27	 lipopolysaccharide biosynthesis	0.87173100871731	7	 lipopolysaccharide biosynthesis
+28	 glycolysis	0.87173100871731	7	 glycolysis
+29	 L-phenylalanine degradation	0.87173100871731	7	 L-phenylalanine degradation
+30	 protoporphyrin-IX biosynthesis	0.87173100871731	7	 protoporphyrin-IX biosynthesis
+31	 pyrroloquinoline quinone biosynthesis	0.87173100871731	7	 pyrroloquinoline quinone biosynthesis
+32	 L-leucine degradation	0.87173100871731	7	 L-leucine degradation
+33	 betaine biosynthesis via choline pathway	0.87173100871731	7	 betaine biosynthesis via choline pathway
+34	 galactarate degradation	0.74719800747198	6	 galactarate degradation
+35	 (R)-pantothenate biosynthesis	0.74719800747198	6	 (R)-pantothenate biosynthesis
+36	 glycogen biosynthesis	0.74719800747198	6	 glycogen biosynthesis
+37	 glyoxylate cycle	0.74719800747198	6	 glyoxylate cycle
+38	 4-hydroxyphenylacetate degradation	0.74719800747198	6	 4-hydroxyphenylacetate degradation
+39	 ubiquinone biosynthesis	0.74719800747198	6	 ubiquinone biosynthesis
+40	 (R)-mandelate degradation	0.74719800747198	6	 (R)-mandelate degradation
+41	 putrescine biosynthesis via agmatine pathway	0.74719800747198	6	 putrescine biosynthesis via agmatine pathway
+42	 D-glucarate degradation	0.74719800747198	6	 D-glucarate degradation
+43	 UMP biosynthesis via de novo pathway	0.74719800747198	6	 UMP biosynthesis via de novo pathway
+44	 tetrahydrofolate interconversion	0.74719800747198	6	 tetrahydrofolate interconversion
+45	 L-valine biosynthesis	0.74719800747198	6	 L-valine biosynthesis
+46	 biotin biosynthesis	0.62266500622665	5	 biotin biosynthesis
+47	 acetoin degradation	0.62266500622665	5	 acetoin degradation
+48	 L-arginine degradation [regulation]	0.62266500622665	5	 L-arginine degradation [regulation]
+49	 tRNA-queuosine biosynthesis	0.62266500622665	5	 tRNA-queuosine biosynthesis
+50	 3,4-dihydroxybenzoate biosynthesis	0.62266500622665	5	 3,4-dihydroxybenzoate biosynthesis
+51	 L-leucine biosynthesis	0.62266500622665	5	 L-leucine biosynthesis
+52	 CDP-diacylglycerol biosynthesis	0.62266500622665	5	 CDP-diacylglycerol biosynthesis
+53	 L-histidine biosynthesis	0.62266500622665	5	 L-histidine biosynthesis
+54	 benzoate degradation via hydroxylation	0.62266500622665	5	 benzoate degradation via hydroxylation
+55	 carnitine metabolism	0.49813200498132	4	 carnitine metabolism
+56	 L-threonine biosynthesis	0.49813200498132	4	 L-threonine biosynthesis
+57	 dibenzothiophene degradation	0.49813200498132	4	 dibenzothiophene degradation
+58	 ethanol degradation	0.49813200498132	4	 ethanol degradation
+59	 LPS core biosynthesis	0.49813200498132	4	 LPS core biosynthesis
+60	 pyridoxal 5'-phosphate salvage	0.49813200498132	4	 pyridoxal 5'-phosphate salvage
+61	 fatty acid metabolism	0.49813200498132	4	 fatty acid metabolism
+62	 vanillyl-alcohol degradation	0.49813200498132	4	 vanillyl-alcohol degradation
+63	 dTDP-L-rhamnose biosynthesis	0.49813200498132	4	 dTDP-L-rhamnose biosynthesis
+64	 lipid IV(A) biosynthesis	0.49813200498132	4	 lipid IV(A) biosynthesis
+65	 L-tryptophan biosynthesis	0.49813200498132	4	 L-tryptophan biosynthesis
+66	 bacterial cellulose biosynthesis	0.49813200498132	4	 bacterial cellulose biosynthesis
+67	 7-cyano-7-deazaguanine biosynthesis	0.49813200498132	4	 7-cyano-7-deazaguanine biosynthesis
+68	 thiamine diphosphate biosynthesis	0.49813200498132	4	 thiamine diphosphate biosynthesis
+69	 L-cysteine biosynthesis	0.49813200498132	4	 L-cysteine biosynthesis
+70	 stachydrine degradation	0.49813200498132	4	 stachydrine degradation
+71	 methylglyoxal degradation	0.37359900373599	3	 methylglyoxal degradation
+72	 nylon-6 oligomer degradation	0.37359900373599	3	 nylon-6 oligomer degradation
+73	 L-histidine degradation into L-glutamate	0.37359900373599	3	 L-histidine degradation into L-glutamate
+74	 pyoverdin biosynthesis	0.37359900373599	3	 pyoverdin biosynthesis
+75	 glutathione biosynthesis	0.37359900373599	3	 glutathione biosynthesis
+76	 protein lipoylation via endogenous pathway	0.37359900373599	3	 protein lipoylation via endogenous pathway
+77	 3-phenylpropanoate degradation	0.37359900373599	3	 3-phenylpropanoate degradation
+78	 L-proline biosynthesis	0.37359900373599	3	 L-proline biosynthesis
+79	 glycine biosynthesis	0.37359900373599	3	 glycine biosynthesis
+80	 malonyl-CoA biosynthesis	0.37359900373599	3	 malonyl-CoA biosynthesis
+81	 coenzyme A biosynthesis	0.37359900373599	3	 coenzyme A biosynthesis
+82	 osmoregulated periplasmic glucan (OPG) biosynthesis	0.37359900373599	3	 osmoregulated periplasmic glucan (OPG) biosynthes
+83	 quercetin degradation	0.37359900373599	3	 quercetin degradation
+84	 ppGpp biosynthesis	0.37359900373599	3	 ppGpp biosynthesis
+85	 ADP-L-glycero-beta-D-manno-heptose biosynthesis	0.37359900373599	3	 ADP-L-glycero-beta-D-manno-heptose biosynthesis
+86	 acetyl-CoA biosynthesis	0.37359900373599	3	 acetyl-CoA biosynthesis
+87	 peptidoglycan recycling	0.37359900373599	3	 peptidoglycan recycling
+88	 L-arginine degradation	0.37359900373599	3	 L-arginine degradation
+89	 tetrahydrofolate biosynthesis	0.37359900373599	3	 tetrahydrofolate biosynthesis
+90	 capsule polysaccharide biosynthesis	0.37359900373599	3	 capsule polysaccharide biosynthesis
+91	 spermidine biosynthesis	0.37359900373599	3	 spermidine biosynthesis
+92	 galactose metabolism	0.37359900373599	3	 galactose metabolism
+93	 L-lysine degradation via acetate pathway	0.24906600249066	2	 L-lysine degradation via acetate pathway
+94	 gramicidin S biosynthesis	0.24906600249066	2	 gramicidin S biosynthesis
+95	 pyridoxine 5'-phosphate biosynthesis	0.24906600249066	2	 pyridoxine 5'-phosphate biosynthesis
+96	 toluene degradation	0.24906600249066	2	 toluene degradation
+97	 DNA replication	0.24906600249066	2	 DNA replication
+98	 nitrate reduction (assimilation)	0.24906600249066	2	 nitrate reduction (assimilation)
+99	 L-serine biosynthesis	0.24906600249066	2	 L-serine biosynthesis
+100	 AMP biosynthesis via de novo pathway	0.24906600249066	2	 AMP biosynthesis via de novo pathway
+101	 myo-inositol degradation into acetyl-CoA	0.24906600249066	2	 myo-inositol degradation into acetyl-CoA
+102	 LPS lipid A biosynthesis	0.24906600249066	2	 LPS lipid A biosynthesis
+103	 UDP-alpha-D-glucuronate biosynthesis	0.24906600249066	2	 UDP-alpha-D-glucuronate biosynthesis
+104	 phosphatidylethanolamine biosynthesis	0.24906600249066	2	 phosphatidylethanolamine biosynthesis
+105	 propylene degradation	0.24906600249066	2	 propylene degradation
+106	 heme O biosynthesis	0.24906600249066	2	 heme O biosynthesis
+107	 nicotinate degradation [regulation]	0.24906600249066	2	 nicotinate degradation [regulation]
+108	 protein glycosylation	0.24906600249066	2	 protein glycosylation
+109	 CDP-3,6-dideoxy-D-mannose biosynthesis	0.24906600249066	2	 CDP-3,6-dideoxy-D-mannose biosynthesis
+110	 zeaxanthin biosynthesis	0.24906600249066	2	 zeaxanthin biosynthesis
+111	 isopentenyl diphosphate biosynthesis via DXP pathway	0.24906600249066	2	 isopentenyl diphosphate biosynthesis via DXP path
+112	 enterobacterial common antigen biosynthesis	0.24906600249066	2	 enterobacterial common antigen biosynthesis
+113	 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine-tRNA biosynthesis	0.24906600249066	2	 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosi
+114	 D-galacturonate degradation via prokaryotic oxidative pathway	0.24906600249066	2	 D-galacturonate degradation via prokaryotic oxida
+115	 colanic acid biosynthesis	0.24906600249066	2	 colanic acid biosynthesis
+116	 (S)-3-hydroxy-3-methylglutaryl-CoA degradation	0.24906600249066	2	 (S)-3-hydroxy-3-methylglutaryl-CoA degradation
+117	 phthalate degradation	0.24906600249066	2	 phthalate degradation
+118	 GDP-alpha-D-mannose biosynthesis	0.24906600249066	2	 GDP-alpha-D-mannose biosynthesis
+119	 bacilysin biosynthesis	0.24906600249066	2	 bacilysin biosynthesis
+120	 trehalose degradation	0.24906600249066	2	 trehalose degradation
+121	 (R)-mevalonate biosynthesis	0.24906600249066	2	 (R)-mevalonate biosynthesis
+122	 CTP biosynthesis via de novo pathway	0.24906600249066	2	 CTP biosynthesis via de novo pathway
+123	 L-glutamate biosynthesis via GLT pathway	0.24906600249066	2	 L-glutamate biosynthesis via GLT pathway
+124	 lipopolysaccharide metabolism	0.24906600249066	2	 lipopolysaccharide metabolism
+125	 butanoate metabolism	0.24906600249066	2	 butanoate metabolism
+126	 putrescine degradation [regulation]	0.24906600249066	2	 putrescine degradation [regulation]
+127	 auxin biosynthesis	0.24906600249066	2	 auxin biosynthesis
+128	 D-alanine biosynthesis	0.24906600249066	2	 D-alanine biosynthesis
+129	 L-methionine biosynthesis via salvage pathway	0.24906600249066	2	 L-methionine biosynthesis via salvage pathway
+130	 glutathione metabolism	0.24906600249066	2	 glutathione metabolism
+131	 nitrate reduction (denitrification)	0.24906600249066	2	 nitrate reduction (denitrification)
+132	 alginate biosynthesis [regulation]	0.24906600249066	2	 alginate biosynthesis [regulation]
+133	 octopine degradation	0.24906600249066	2	 octopine degradation
+134	 nicotine degradation	0.24906600249066	2	 nicotine degradation
+135	 D-alanine degradation	0.24906600249066	2	 D-alanine degradation
+136	 hydrogen sulfide biosynthesis	0.24906600249066	2	 hydrogen sulfide biosynthesis
+137	 4-amino-4-deoxy-beta-L-arabinose-lipid A biosynthesis	0.24906600249066	2	 4-amino-4-deoxy-beta-L-arabinose-lipid A biosynth
+138	 formaldehyde assimilation via serine pathway	0.24906600249066	2	 formaldehyde assimilation via serine pathway
+139	 tyrocidine biosynthesis	0.24906600249066	2	 tyrocidine biosynthesis
+140	 nitrogen metabolism	0.24906600249066	2	 nitrogen metabolism
+141	 5-phospho-alpha-D-ribose 1-diphosphate biosynthesis	0.24906600249066	2	 5-phospho-alpha-D-ribose 1-diphosphate biosynthes
+142	 KDO(2)-lipid A biosynthesis	0.24906600249066	2	 KDO(2)-lipid A biosynthesis
+143	 cephamycin C biosynthesis	0.24906600249066	2	 cephamycin C biosynthesis
+144	 steroid degradation	0.24906600249066	2	 steroid degradation
+145	 glycerol degradation via glycerol kinase pathway	0.12453300124533	1	 glycerol degradation via glycerol kinase pathway
+146	 hypoxanthine degradation	0.12453300124533	1	 hypoxanthine degradation
+147	 dUMP biosynthesis	0.12453300124533	1	 dUMP biosynthesis
+148	 D-gluconate degradation	0.12453300124533	1	 D-gluconate degradation
+149	 XMP biosynthesis via salvage pathway	0.12453300124533	1	 XMP biosynthesis via salvage pathway
+150	 daunorubicin biosynthesis	0.12453300124533	1	 daunorubicin biosynthesis
+151	 L-proline degradation into L-glutamate	0.12453300124533	1	 L-proline degradation into L-glutamate
+152	 choline biosynthesis	0.12453300124533	1	 choline biosynthesis
+153	 putrescine biosynthesis via L-ornithine pathway	0.12453300124533	1	 putrescine biosynthesis via L-ornithine pathway
+154	 carbamoyl phosphate degradation	0.12453300124533	1	 carbamoyl phosphate degradation
+155	 1-deoxy-D-xylulose 5-phosphate biosynthesis	0.12453300124533	1	 1-deoxy-D-xylulose 5-phosphate biosynthesis
+156	 iron-sulfur cluster biosynthesis	0.12453300124533	1	 iron-sulfur cluster biosynthesis
+157	 selenocysteinyl-tRNA(Sec) biosynthesis	0.12453300124533	1	 selenocysteinyl-tRNA(Sec) biosynthesis
+158	 cholesterol metabolism	0.12453300124533	1	 cholesterol metabolism
+159	 triacylglycerol degradation	0.12453300124533	1	 triacylglycerol degradation
+160	 calcium-dependent antibiotic biosynthesis	0.12453300124533	1	 calcium-dependent antibiotic biosynthesis
+161	 glycerophospholipid metabolism	0.12453300124533	1	 glycerophospholipid metabolism
+162	 UMP biosynthesis via salvage pathway	0.12453300124533	1	 UMP biosynthesis via salvage pathway
+163	 L-lysine biosynthesis via AAA pathway	0.12453300124533	1	 L-lysine biosynthesis via AAA pathway
+164	 tartrate degradation	0.12453300124533	1	 tartrate degradation
+165	 erythromycin biosynthesis	0.12453300124533	1	 erythromycin biosynthesis
+166	 glycolate biosynthesis	0.12453300124533	1	 glycolate biosynthesis
+167	 phospholipid metabolism	0.12453300124533	1	 phospholipid metabolism
+168	 L-arginine degradation via ADI pathway	0.12453300124533	1	 L-arginine degradation via ADI pathway
+169	 (S)-allantoin degradation	0.12453300124533	1	 (S)-allantoin degradation
+170	 L-valine degradation	0.12453300124533	1	 L-valine degradation
+171	 L-asparagine biosynthesis	0.12453300124533	1	 L-asparagine biosynthesis
+172	 L-tryptophan degradation via pyruvate pathway	0.12453300124533	1	 L-tryptophan degradation via pyruvate pathway
+173	 nitric oxide reduction	0.12453300124533	1	 nitric oxide reduction
+174	 flavonoid biosynthesis	0.12453300124533	1	 flavonoid biosynthesis
+175	 glycolate degradation	0.12453300124533	1	 glycolate degradation
+176	 polypeptide chain elongation	0.12453300124533	1	 polypeptide chain elongation
+177	 dTTP biosynthesis	0.12453300124533	1	 dTTP biosynthesis
+178	 3-deoxy-D-manno-octulosonate biosynthesis	0.12453300124533	1	 3-deoxy-D-manno-octulosonate biosynthesis
+179	 actinorhodin biosynthesis	0.12453300124533	1	 actinorhodin biosynthesis
+180	 lipoprotein biosynthesis (N-acyl transfer)	0.12453300124533	1	 lipoprotein biosynthesis (N-acyl transfer)
+181	 Entner-Doudoroff pathway	0.12453300124533	1	 Entner-Doudoroff pathway
+182	 UDP-N-acetyl-alpha-D-glucosamine biosynthesis	0.12453300124533	1	 UDP-N-acetyl-alpha-D-glucosamine biosynthesis
+183	 lysine degradation	0.12453300124533	1	 lysine degradation
+184	 tetracenomycin C biosynthesis	0.12453300124533	1	 tetracenomycin C biosynthesis
+185	 GMP biosynthesis	0.12453300124533	1	 GMP biosynthesis
+186	 1,6-anhydro-N-acetylmuramate degradation	0.12453300124533	1	 1,6-anhydro-N-acetylmuramate degradation
+187	 lipoprotein biosynthesis (diacylglyceryl transfer)	0.12453300124533	1	 lipoprotein biosynthesis (diacylglyceryl transfer
+188	 bacitracin biosynthesis	0.12453300124533	1	 bacitracin biosynthesis
+189	 CDP-ascarylose biosynthesis	0.12453300124533	1	 CDP-ascarylose biosynthesis
+190	 poly(glucopyranosyl N-acetylgalactosamine 1-phosphate) teichoic acid biosynthesis	0.12453300124533	1	 poly(glucopyranosyl N-acetylgalactosamine 1-phosp
+191	 protoheme biosynthesis	0.12453300124533	1	 protoheme biosynthesis
+192	 aclacinomycin biosynthesis	0.12453300124533	1	 aclacinomycin biosynthesis
+193	 siroheme biosynthesis	0.12453300124533	1	 siroheme biosynthesis
+194	 (R,R)-butane-2,3-diol biosynthesis	0.12453300124533	1	 (R,R)-butane-2,3-diol biosynthesis
+195	 cephalosporin C biosynthesis	0.12453300124533	1	 cephalosporin C biosynthesis
+196	 carminomycin biosynthesis	0.12453300124533	1	 carminomycin biosynthesis
+197	 taurine degradation via aerobic pathway	0.12453300124533	1	 taurine degradation via aerobic pathway
+198	 tryptophan metabolism	0.12453300124533	1	 tryptophan metabolism
+199	 (2,4,5-trichlorophenoxy)acetate degradation	0.12453300124533	1	 (2,4,5-trichlorophenoxy)acetate degradation
+200	 nicotinate biosynthesis	0.12453300124533	1	 nicotinate biosynthesis
+201	 poly(glycerol phosphate) teichoic acid biosynthesis	0.12453300124533	1	 poly(glycerol phosphate) teichoic acid biosynthes
+202	 methanol degradation	0.12453300124533	1	 methanol degradation
+203	 rhizobactin biosynthesis	0.12453300124533	1	 rhizobactin biosynthesis
+204	 N(7)-methylguanine-tRNA biosynthesis	0.12453300124533	1	 N(7)-methylguanine-tRNA biosynthesis
+205	 chlorophyll biosynthesis	0.12453300124533	1	 chlorophyll biosynthesis
+206	 L-homocysteine biosynthesis	0.12453300124533	1	 L-homocysteine biosynthesis
+207	 D-glycero-D-manno-heptose 7-phosphate biosynthesis	0.12453300124533	1	 D-glycero-D-manno-heptose 7-phosphate biosynthesi
+208	 L-ascorbate biosynthesis via UDP-alpha-D-glucuronate pathway	0.12453300124533	1	 L-ascorbate biosynthesis via UDP-alpha-D-glucuron
+209	 AMP biosynthesis via salvage pathway	0.12453300124533	1	 AMP biosynthesis via salvage pathway
+210	 XMP biosynthesis via de novo pathway	0.12453300124533	1	 XMP biosynthesis via de novo pathway
+211	 UDP-alpha-D-xylose biosynthesis	0.12453300124533	1	 UDP-alpha-D-xylose biosynthesis
+212	 atrazine degradation	0.12453300124533	1	 atrazine degradation
+213	 urea degradation	0.12453300124533	1	 urea degradation
+214	 S-adenosyl-L-methionine biosynthesis	0.12453300124533	1	 S-adenosyl-L-methionine biosynthesis
+215	 GMP biosynthesis via salvage pathway	0.12453300124533	1	 GMP biosynthesis via salvage pathway
+216	 nitrate reduction (denitrification) [regulation]	0.12453300124533	1	 nitrate reduction (denitrification) [regulation]
+217	 GDP-L-fucose biosynthesis via de novo pathway	0.12453300124533	1	 GDP-L-fucose biosynthesis via de novo pathway
+218	 alkane degradation	0.12453300124533	1	 alkane degradation
+219	 coenzyme M biosynthesis	0.12453300124533	1	 coenzyme M biosynthesis
+220	 ubiquinone biosynthesis [regulation]	0.12453300124533	1	 ubiquinone biosynthesis [regulation]
+221	 L-idonate degradation	0.12453300124533	1	 L-idonate degradation
+222	 phosphatidylglycerol biosynthesis	0.12453300124533	1	 phosphatidylglycerol biosynthesis
+223	 polyhydroxyalkanoate biosynthesis	0.12453300124533	1	 polyhydroxyalkanoate biosynthesis
+224	 D-gluconate degradation [regulation]	0.12453300124533	1	 D-gluconate degradation [regulation]
+225	 cytochrome c assembly	0.12453300124533	1	 cytochrome c assembly
+226	 fructoselysine degradation [regulation]	0.12453300124533	1	 fructoselysine degradation [regulation]
+227	 bacillaene biosynthesis	0.12453300124533	1	 bacillaene biosynthesis
+228	 7,8-dihydroneopterin triphosphate biosynthesis	0.12453300124533	1	 7,8-dihydroneopterin triphosphate biosynthesis
+229	 IMP biosynthesis via salvage pathway	0.12453300124533	1	 IMP biosynthesis via salvage pathway
+230	 peptidoglycan degradation	0.12453300124533	1	 peptidoglycan degradation

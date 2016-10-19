@@ -1,0 +1,277 @@
+rowind	pw_id	occurrences	tot_count	description
+0	 4-aminobutanoate from putrescine: step 2/4	2.21674876847291	9	 4-aminobutanoate from putrescine: step 2/4
+1	 4-aminobutanoate from putrescine: step 1/4	1.72413793103448	7	 4-aminobutanoate from putrescine: step 1/4
+2	 chorismate from D-erythrose 4-phosphate and phosphoenolpyruvate: step 4/7	1.72413793103448	7	 chorismate from D-erythrose 4-phosphate and phosp
+3	 (S)-tetrahydrodipicolinate from L-aspartate: step 3/4	1.47783251231527	6	 (S)-tetrahydrodipicolinate from L-aspartate: step
+4	 2-hydroxy-3-oxobutyl phosphate from D-ribulose 5-phosphate: step 1/1	1.47783251231527	6	 2-hydroxy-3-oxobutyl phosphate from D-ribulose 5-
+5	 isocitrate from oxaloacetate: step 2/2	1.47783251231527	6	 isocitrate from oxaloacetate: step 2/2
+6	 D-ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage): step 1/3	1.23152709359606	5	 D-ribulose 5-phosphate from D-glucose 6-phosphate
+7	 4-aminobutanoate from putrescine: step 3/4	1.23152709359606	5	 4-aminobutanoate from putrescine: step 3/4
+8	 D-glycerate from galactarate: step 1/3	1.23152709359606	5	 D-glycerate from galactarate: step 1/3
+9	 chorismate from D-erythrose 4-phosphate and phosphoenolpyruvate: step 1/7	0.985221674876847	4	 chorismate from D-erythrose 4-phosphate and phosp
+10	 acetate from ethanol: step 2/2	0.985221674876847	4	 acetate from ethanol: step 2/2
+11	 (S)-malate from fumarate: step 1/1	0.985221674876847	4	 (S)-malate from fumarate: step 1/1
+12	 N(2)-acetyl-L-ornithine from L-glutamate: step 1/4	0.985221674876847	4	 N(2)-acetyl-L-ornithine from L-glutamate: step 1/
+13	 (S)-malate from isocitrate: step 2/2	0.985221674876847	4	 (S)-malate from isocitrate: step 2/2
+14	 betaine aldehyde from choline (cytochrome c reductase route): step 1/1	0.985221674876847	4	 betaine aldehyde from choline (cytochrome c reduc
+15	 (S)-3-hydroxy-3-methylglutaryl-CoA from 3-isovaleryl-CoA: step 2/3	0.985221674876847	4	 (S)-3-hydroxy-3-methylglutaryl-CoA from 3-isovale
+16	 3-dehydroquinate from D-quinate (PQQ route): step 1/1	0.985221674876847	4	 3-dehydroquinate from D-quinate (PQQ route): step
+17	 L-valine from pyruvate: step 1/4	0.738916256157635	3	 L-valine from pyruvate: step 1/4
+18	 pyridoxal 5'-phosphate from pyridoxal: step 1/1	0.738916256157635	3	 pyridoxal 5'-phosphate from pyridoxal: step 1/1
+19	 benzoate from (R)-mandelate: step 3/4	0.738916256157635	3	 benzoate from (R)-mandelate: step 3/4
+20	 3-oxoadipate from 5-oxo-4,5-dihydro-2-furylacetate: step 1/1	0.738916256157635	3	 3-oxoadipate from 5-oxo-4,5-dihydro-2-furylacetat
+21	 (R)-pantoate from 3-methyl-2-oxobutanoate: step 2/2	0.738916256157635	3	 (R)-pantoate from 3-methyl-2-oxobutanoate: step 2
+22	 nicotinate D-ribonucleotide from nicotinate: step 1/1	0.738916256157635	3	 nicotinate D-ribonucleotide from nicotinate: step
+23	 malonyl-CoA from acetyl-CoA: step 1/1	0.738916256157635	3	 malonyl-CoA from acetyl-CoA: step 1/1
+24	 4-aminobutanoate from putrescine: step 4/4	0.738916256157635	3	 4-aminobutanoate from putrescine: step 4/4
+25	 glycine from L-serine: step 1/1	0.738916256157635	3	 glycine from L-serine: step 1/1
+26	 L-cysteine from L-serine: step 1/2	0.738916256157635	3	 L-cysteine from L-serine: step 1/2
+27	 acetyl-CoA from acetate: step 2/2	0.738916256157635	3	 acetyl-CoA from acetate: step 2/2
+28	 catechol from benzoate: step 2/2	0.738916256157635	3	 catechol from benzoate: step 2/2
+29	 spermidine from putrescine: step 1/1	0.738916256157635	3	 spermidine from putrescine: step 1/1
+30	 CDP-diacylglycerol from sn-glycerol 3-phosphate: step 2/3	0.738916256157635	3	 CDP-diacylglycerol from sn-glycerol 3-phosphate: 
+31	 L-isoleucine from 2-oxobutanoate: step 1/4	0.738916256157635	3	 L-isoleucine from 2-oxobutanoate: step 1/4
+32	 oxaloacetate from (S)-malate (quinone route): step 1/1	0.738916256157635	3	 oxaloacetate from (S)-malate (quinone route): ste
+33	 formate from 10-formyl-5,6,7,8-tetrahydrofolate: step 1/1	0.738916256157635	3	 formate from 10-formyl-5,6,7,8-tetrahydrofolate: 
+34	 N-carbamoylputrescine from agmatine: step 1/1	0.738916256157635	3	 N-carbamoylputrescine from agmatine: step 1/1
+35	 D-alanine from L-alanine: step 1/1	0.492610837438424	2	 D-alanine from L-alanine: step 1/1
+36	 (R)-lactate from methylglyoxal: step 2/2	0.492610837438424	2	 (R)-lactate from methylglyoxal: step 2/2
+37	 putrescine from agmatine: step 1/1	0.492610837438424	2	 putrescine from agmatine: step 1/1
+38	 acetoacetate and fumarate from L-phenylalanine: step 1/6	0.492610837438424	2	 acetoacetate and fumarate from L-phenylalanine: s
+39	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 1/10	0.492610837438424	2	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+40	 AMP from IMP: step 2/2	0.492610837438424	2	 AMP from IMP: step 2/2
+41	 L-methionine from L-homocysteine (MetH route): step 1/1	0.492610837438424	2	 L-methionine from L-homocysteine (MetH route): st
+42	 dinitrogen from nitrate: step 1/4	0.492610837438424	2	 dinitrogen from nitrate: step 1/4
+43	 DL-2,6-diaminopimelate from LL-2,6-diaminopimelate: step 1/1	0.492610837438424	2	 DL-2,6-diaminopimelate from LL-2,6-diaminopimelat
+44	 pyruvate and succinate semialdehyde from 4-hydroxyphenylacetate: step 3/7	0.492610837438424	2	 pyruvate and succinate semialdehyde from 4-hydrox
+45	 acetyl-CoA and succinyl-CoA from 3-oxoadipate: step 1/2	0.492610837438424	2	 acetyl-CoA and succinyl-CoA from 3-oxoadipate: st
+46	 glutathione from L-cysteine and L-glutamate: step 2/2	0.492610837438424	2	 glutathione from L-cysteine and L-glutamate: step
+47	 D-glucose from alpha,alpha-trehalose: step 1/1	0.492610837438424	2	 D-glucose from alpha,alpha-trehalose: step 1/1
+48	 phosphatidylethanolamine from CDP-diacylglycerol: step 2/2	0.492610837438424	2	 phosphatidylethanolamine from CDP-diacylglycerol:
+49	 betaine from betaine aldehyde: step 1/1	0.492610837438424	2	 betaine from betaine aldehyde: step 1/1
+50	 L-homocysteine from O-acetyl-L-homoserine	0.492610837438424	2	 L-homocysteine from O-acetyl-L-homoserine
+51	 glutathione from L-cysteine and L-glutamate: step 1/2	0.492610837438424	2	 glutathione from L-cysteine and L-glutamate: step
+52	 3-carboxy-cis,cis-muconate from 3,4-dihydroxybenzoate: step 1/1	0.492610837438424	2	 3-carboxy-cis,cis-muconate from 3,4-dihydroxybenz
+53	 L-glutamate 5-semialdehyde from L-glutamate: step 2/2	0.492610837438424	2	 L-glutamate 5-semialdehyde from L-glutamate: step
+54	 protein N(6)-(lipoyl)lysine from octanoyl-[acyl-carrier-protein]: step 2/2	0.492610837438424	2	 protein N(6)-(lipoyl)lysine from octanoyl-[acyl-c
+55	 NAD(+) from deamido-NAD(+) (ammonia route): step 1/1	0.492610837438424	2	 NAD(+) from deamido-NAD(+) (ammonia route): step 
+56	 L-valine from pyruvate: step 3/4	0.492610837438424	2	 L-valine from pyruvate: step 3/4
+57	 5-aminolevulinate from L-glutamyl-tRNA(Glu): step 1/2	0.492610837438424	2	 5-aminolevulinate from L-glutamyl-tRNA(Glu): step
+58	 L-ornithine from N(2)-acetyl-L-ornithine (linear): step 1/1	0.492610837438424	2	 L-ornithine from N(2)-acetyl-L-ornithine (linear)
+59	 L-leucine from 3-methyl-2-oxobutanoate: step 2/4	0.492610837438424	2	 L-leucine from 3-methyl-2-oxobutanoate: step 2/4
+60	 heme O from protoheme: step 1/1	0.492610837438424	2	 heme O from protoheme: step 1/1
+61	 L-histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 5/9	0.492610837438424	2	 L-histidine from 5-phospho-alpha-D-ribose 1-dipho
+62	 L-ornithine and N-acetyl-L-glutamate from L-glutamate and N(2)-acetyl-L-ornithine (cyclic): step 1/1	0.492610837438424	2	 L-ornithine and N-acetyl-L-glutamate from L-gluta
+63	 3,4-dihydroxybenzoate from benzoate: step 2/2	0.492610837438424	2	 3,4-dihydroxybenzoate from benzoate: step 2/2
+64	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 3/10	0.492610837438424	2	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+65	 adenosylcobalamin from cob(II)yrinate a,c-diamide: step 2/7	0.492610837438424	2	 adenosylcobalamin from cob(II)yrinate a,c-diamide
+66	 ADP-L-glycero-beta-D-manno-heptose from D-glycero-beta-D-manno-heptose 7-phosphate: step 4/4	0.492610837438424	2	 ADP-L-glycero-beta-D-manno-heptose from D-glycero
+67	 N(2)-acetyl-L-ornithine from L-glutamate: step 4/4	0.492610837438424	2	 N(2)-acetyl-L-ornithine from L-glutamate: step 4/
+68	 (R)-pantoate from 3-methyl-2-oxobutanoate: step 1/2	0.492610837438424	2	 (R)-pantoate from 3-methyl-2-oxobutanoate: step 1
+69	 N(2)-acetyl-L-ornithine from L-glutamate: step 3/4	0.492610837438424	2	 N(2)-acetyl-L-ornithine from L-glutamate: step 3/
+70	 NH(3) and pyruvate from D-alanine: step 1/1	0.492610837438424	2	 NH(3) and pyruvate from D-alanine: step 1/1
+71	 L-isoleucine from 2-oxobutanoate: step 3/4	0.492610837438424	2	 L-isoleucine from 2-oxobutanoate: step 3/4
+72	 2-oxobutanoate from L-threonine: step 1/1	0.492610837438424	2	 2-oxobutanoate from L-threonine: step 1/1
+73	 D-glyceraldehyde 3-phosphate and glycerone phosphate from D-glucose: step 2/4	0.492610837438424	2	 D-glyceraldehyde 3-phosphate and glycerone phosph
+74	 L-tryptophan from chorismate: step 5/5	0.492610837438424	2	 L-tryptophan from chorismate: step 5/5
+75	 (R)-mevalonate from acetyl-CoA: step 1/3	0.492610837438424	2	 (R)-mevalonate from acetyl-CoA: step 1/3
+76	 acetoacetate from (S)-3-hydroxy-3-methylglutaryl-CoA: step 1/1	0.492610837438424	2	 acetoacetate from (S)-3-hydroxy-3-methylglutaryl-
+77	 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide from 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate: step 2/2	0.492610837438424	2	 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carbox
+78	 acetyl-CoA and succinyl-CoA from 3-oxoadipate: step 2/2	0.492610837438424	2	 acetyl-CoA and succinyl-CoA from 3-oxoadipate: st
+79	 UDP-alpha-D-glucuronate from UDP-alpha-D-glucose: step 1/1	0.492610837438424	2	 UDP-alpha-D-glucuronate from UDP-alpha-D-glucose:
+80	 5-oxo-4,5-dihydro-2-furylacetate from catechol: step 1/3	0.492610837438424	2	 5-oxo-4,5-dihydro-2-furylacetate from catechol: s
+81	 L-serine from 3-phospho-D-glycerate: step 1/3	0.492610837438424	2	 L-serine from 3-phospho-D-glycerate: step 1/3
+82	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] and UDP-N-acetyl-alpha-D-glucosamine: step 2/6	0.492610837438424	2	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acy
+83	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 4/10	0.492610837438424	2	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+84	 (S)-malate from isocitrate: step 1/2	0.492610837438424	2	 (S)-malate from isocitrate: step 1/2
+85	 (S)-3-hydroxy-3-methylglutaryl-CoA from 3-isovaleryl-CoA: step 1/3	0.492610837438424	2	 (S)-3-hydroxy-3-methylglutaryl-CoA from 3-isovale
+86	 ppGpp from GTP: step 1/2	0.492610837438424	2	 ppGpp from GTP: step 1/2
+87	 2-oxobutanoate from L-threonine	0.492610837438424	2	 2-oxobutanoate from L-threonine
+88	 N-formimidoyl-L-glutamate from L-histidine: step 3/3	0.492610837438424	2	 N-formimidoyl-L-glutamate from L-histidine: step 
+89	 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate from 5-amino-1-(5-phospho-D-ribosyl)imidazole (N5-CAIR route): step 1/2	0.246305418719212	1	 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carbox
+90	 L-glutamate from L-proline: step 1/2	0.246305418719212	1	 L-glutamate from L-proline: step 1/2
+91	 D-glycerate from L-tartrate: step 1/1	0.246305418719212	1	 D-glycerate from L-tartrate: step 1/1
+92	 3-phospho-D-glycerate from glycolate: step 2/4	0.246305418719212	1	 3-phospho-D-glycerate from glycolate: step 2/4
+93	 L-arginine from L-ornithine and carbamoyl phosphate: step 1/3	0.246305418719212	1	 L-arginine from L-ornithine and carbamoyl phospha
+94	 L-ascorbate from UDP-alpha-D-glucuronate: step 3/4	0.246305418719212	1	 L-ascorbate from UDP-alpha-D-glucuronate: step 3/
+95	 carbamoyl phosphate from bicarbonate: step 1/1	0.246305418719212	1	 carbamoyl phosphate from bicarbonate: step 1/1
+96	 L-cysteine from L-serine: step 2/2	0.246305418719212	1	 L-cysteine from L-serine: step 2/2
+97	 sulfoacetaldehyde from phosphoenolpyruvate and sulfite: step 4/4	0.246305418719212	1	 sulfoacetaldehyde from phosphoenolpyruvate and su
+98	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] and UDP-N-acetyl-alpha-D-glucosamine: step 4/6	0.246305418719212	1	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acy
+99	 L-arginine from L-ornithine and carbamoyl phosphate: step 3/3	0.246305418719212	1	 L-arginine from L-ornithine and carbamoyl phospha
+100	 D-ribose 5-phosphate from D-ribulose 5-phosphate (non-oxidative stage): step 1/1	0.246305418719212	1	 D-ribose 5-phosphate from D-ribulose 5-phosphate 
+101	 pyridoxal 5'-phosphate from pyridoxamine 5'-phosphate: step 1/1	0.246305418719212	1	 pyridoxal 5'-phosphate from pyridoxamine 5'-phosp
+102	 5-aminolevulinate from L-glutamyl-tRNA(Glu): step 2/2	0.246305418719212	1	 5-aminolevulinate from L-glutamyl-tRNA(Glu): step
+103	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octulosonate and lipid IV(A): step 1/4	0.246305418719212	1	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octuloson
+104	 biotin from 7,8-diaminononanoate: step 2/2	0.246305418719212	1	 biotin from 7,8-diaminononanoate: step 2/2
+105	 sulfite from sulfate: step 3/3	0.246305418719212	1	 sulfite from sulfate: step 3/3
+106	 quinolinate from iminoaspartate: step 1/1	0.246305418719212	1	 quinolinate from iminoaspartate: step 1/1
+107	 pyruvate and succinate semialdehyde from 4-hydroxyphenylacetate: step 2/7	0.246305418719212	1	 pyruvate and succinate semialdehyde from 4-hydrox
+108	 UMP from orotate: step 2/2	0.246305418719212	1	 UMP from orotate: step 2/2
+109	 2,5-dioxopentanoate from D-glucarate: step 2/2	0.246305418719212	1	 2,5-dioxopentanoate from D-glucarate: step 2/2
+110	 AMP from adenine: step 1/1	0.246305418719212	1	 AMP from adenine: step 1/1
+111	 4-aminobenzoate from chorismate: step 2/2	0.246305418719212	1	 4-aminobenzoate from chorismate: step 2/2
+112	 D-glycerate from galactarate: step 2/3	0.246305418719212	1	 D-glycerate from galactarate: step 2/3
+113	 L-asparagine from L-aspartate (L-Gln route): step 1/1	0.246305418719212	1	 L-asparagine from L-aspartate (L-Gln route): step
+114	 putrescine from N-carbamoylputrescine (amidase route): step 1/1	0.246305418719212	1	 putrescine from N-carbamoylputrescine (amidase ro
+115	 5-phospho-alpha-D-ribose 1-diphosphate from D-ribose 5-phosphate (route II): step 3/3	0.246305418719212	1	 5-phospho-alpha-D-ribose 1-diphosphate from D-rib
+116	 aminoacetaldehyde and sulfite from taurine: step 1/1	0.246305418719212	1	 aminoacetaldehyde and sulfite from taurine: step 
+117	 acetoacetate and fumarate from L-phenylalanine: step 3/6	0.246305418719212	1	 acetoacetate and fumarate from L-phenylalanine: s
+118	 L-arginine from L-ornithine and carbamoyl phosphate: step 2/3	0.246305418719212	1	 L-arginine from L-ornithine and carbamoyl phospha
+119	 isopentenyl diphosphate from 1-deoxy-D-xylulose 5-phosphate: step 3/6	0.246305418719212	1	 isopentenyl diphosphate from 1-deoxy-D-xylulose 5
+120	 nicotinate D-ribonucleotide from quinolinate: step 1/1	0.246305418719212	1	 nicotinate D-ribonucleotide from quinolinate: ste
+121	 iminoaspartate from L-aspartate (oxidase route): step 1/1	0.246305418719212	1	 iminoaspartate from L-aspartate (oxidase route): 
+122	 precorrin-2 from uroporphyrinogen III: step 1/1	0.246305418719212	1	 precorrin-2 from uroporphyrinogen III: step 1/1
+123	 CDP-3,6-dideoxy-D-mannose from CTP and alpha-D-glucose 1-phosphate: step 1/5	0.246305418719212	1	 CDP-3,6-dideoxy-D-mannose from CTP and alpha-D-gl
+124	 phenylacetate from L-phenylalanine: step 3/3	0.246305418719212	1	 phenylacetate from L-phenylalanine: step 3/3
+125	 CTP from UDP: step 2/2	0.246305418719212	1	 CTP from UDP: step 2/2
+126	 chorismate from D-erythrose 4-phosphate and phosphoenolpyruvate: step 3/7	0.246305418719212	1	 chorismate from D-erythrose 4-phosphate and phosp
+127	 formaldehyde from methanol: step 1/1	0.246305418719212	1	 formaldehyde from methanol: step 1/1
+128	 sirohydrochlorin from precorrin-2: step 1/1	0.246305418719212	1	 sirohydrochlorin from precorrin-2: step 1/1
+129	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 5/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+130	 pyruvate from D-glyceraldehyde 3-phosphate: step 5/5	0.246305418719212	1	 pyruvate from D-glyceraldehyde 3-phosphate: step 
+131	 N(1)-(5-phospho-D-ribosyl)glycinamide from 5-phospho-alpha-D-ribose 1-diphosphate: step 1/2	0.246305418719212	1	 N(1)-(5-phospho-D-ribosyl)glycinamide from 5-phos
+132	 CDP-diacylglycerol from sn-glycerol 3-phosphate: step 1/3	0.246305418719212	1	 CDP-diacylglycerol from sn-glycerol 3-phosphate: 
+133	 pyridoxine 5'-phosphate from D-erythrose 4-phosphate: step 1/5	0.246305418719212	1	 pyridoxine 5'-phosphate from D-erythrose 4-phosph
+134	 3-oxoadipate from 3,4-dihydroxybenzoate: step 2/4	0.246305418719212	1	 3-oxoadipate from 3,4-dihydroxybenzoate: step 2/4
+135	 L-homocysteine from L-cystathionine: step 1/1	0.246305418719212	1	 L-homocysteine from L-cystathionine: step 1/1
+136	 alpha-D-mannose 1-phosphate from D-fructose 6-phosphate: step 2/2	0.246305418719212	1	 alpha-D-mannose 1-phosphate from D-fructose 6-pho
+137	 ADP-L-glycero-beta-D-manno-heptose from D-glycero-beta-D-manno-heptose 7-phosphate: step 1/4	0.246305418719212	1	 ADP-L-glycero-beta-D-manno-heptose from D-glycero
+138	 L-histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 2/9	0.246305418719212	1	 L-histidine from 5-phospho-alpha-D-ribose 1-dipho
+139	 XMP from IMP: step 1/1	0.246305418719212	1	 XMP from IMP: step 1/1
+140	 L-methionine from S-methyl-5-thio-alpha-D-ribose 1-phosphate: step 1/6	0.246305418719212	1	 L-methionine from S-methyl-5-thio-alpha-D-ribose 
+141	 sulfite from sulfate: step 1/3	0.246305418719212	1	 sulfite from sulfate: step 1/3
+142	 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide: step 1/2	0.246305418719212	1	 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2
+143	 UDP-alpha-D-xylose from UDP-alpha-D-glucuronate: step 1/1	0.246305418719212	1	 UDP-alpha-D-xylose from UDP-alpha-D-glucuronate: 
+144	 acetoacetate and fumarate from L-phenylalanine: step 5/6	0.246305418719212	1	 acetoacetate and fumarate from L-phenylalanine: s
+145	 coproporphyrinogen-III from 5-aminolevulinate: step 2/4	0.246305418719212	1	 coproporphyrinogen-III from 5-aminolevulinate: st
+146	 alpha-D-mannose 1-phosphate from D-fructose 6-phosphate: step 1/2	0.246305418719212	1	 alpha-D-mannose 1-phosphate from D-fructose 6-pho
+147	 4-aminobutanoate from 4-aminobutanal: step 1/1	0.246305418719212	1	 4-aminobutanoate from 4-aminobutanal: step 1/1
+148	 CoA from (R)-pantothenate: step 1/5	0.246305418719212	1	 CoA from (R)-pantothenate: step 1/5
+149	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] and UDP-N-acetyl-alpha-D-glucosamine: step 6/6	0.246305418719212	1	 lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acy
+150	 D-ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage): step 2/3	0.246305418719212	1	 D-ribulose 5-phosphate from D-glucose 6-phosphate
+151	 pyruvate from D-glyceraldehyde 3-phosphate: step 3/5	0.246305418719212	1	 pyruvate from D-glyceraldehyde 3-phosphate: step 
+152	 UDP-N-acetyl-alpha-D-glucosamine from N-acetyl-alpha-D-glucosamine 1-phosphate: step 1/1	0.246305418719212	1	 UDP-N-acetyl-alpha-D-glucosamine from N-acetyl-al
+153	 UMP from orotate: step 1/2	0.246305418719212	1	 UMP from orotate: step 1/2
+154	 GMP from guanine: step 1/1	0.246305418719212	1	 GMP from guanine: step 1/1
+155	 L-homoserine from L-aspartate: step 2/3	0.246305418719212	1	 L-homoserine from L-aspartate: step 2/3
+156	 L-threonine from L-aspartate: step 3/5	0.246305418719212	1	 L-threonine from L-aspartate: step 3/5
+157	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 10/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+158	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 6/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+159	 S-adenosyl-L-methionine from L-methionine: step 1/1	0.246305418719212	1	 S-adenosyl-L-methionine from L-methionine: step 1
+160	 L-leucine from 3-methyl-2-oxobutanoate: step 3/4	0.246305418719212	1	 L-leucine from 3-methyl-2-oxobutanoate: step 3/4
+161	 pyruvate and succinate semialdehyde from 4-hydroxyphenylacetate: step 1/7	0.246305418719212	1	 pyruvate and succinate semialdehyde from 4-hydrox
+162	 L-tryptophan from chorismate: step 2/5	0.246305418719212	1	 L-tryptophan from chorismate: step 2/5
+163	 glycolate from 2-phosphoglycolate: step 1/1	0.246305418719212	1	 glycolate from 2-phosphoglycolate: step 1/1
+164	 7,8-dihydroneopterin triphosphate from GTP: step 1/1	0.246305418719212	1	 7,8-dihydroneopterin triphosphate from GTP: step 
+165	 (R)-lactate from methylglyoxal: step 1/2	0.246305418719212	1	 (R)-lactate from methylglyoxal: step 1/2
+166	 L-leucine from 3-methyl-2-oxobutanoate: step 4/4	0.246305418719212	1	 L-leucine from 3-methyl-2-oxobutanoate: step 4/4
+167	 L-glutamate from L-proline: step 2/2	0.246305418719212	1	 L-glutamate from L-proline: step 2/2
+168	 O-acetyl-L-homoserine from L-homoserine: step 1/1	0.246305418719212	1	 O-acetyl-L-homoserine from L-homoserine: step 1/1
+169	 UMP from uracil: step 1/1	0.246305418719212	1	 UMP from uracil: step 1/1
+170	 protoheme from protoporphyrin-IX: step 1/1	0.246305418719212	1	 protoheme from protoporphyrin-IX: step 1/1
+171	 5-oxo-4,5-dihydro-2-furylacetate from catechol: step 3/3	0.246305418719212	1	 5-oxo-4,5-dihydro-2-furylacetate from catechol: s
+172	 pyruvate and succinate semialdehyde from 4-hydroxyphenylacetate: step 7/7	0.246305418719212	1	 pyruvate and succinate semialdehyde from 4-hydrox
+173	 N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide from N(1)-(5-phospho-D-ribosyl)glycinamide (formate route): step 1/1	0.246305418719212	1	 N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide
+174	 (R)-pantothenate from (R)-pantoate and beta-alanine: step 1/1	0.246305418719212	1	 (R)-pantothenate from (R)-pantoate and beta-alani
+175	 L-tryptophan from chorismate: step 1/5	0.246305418719212	1	 L-tryptophan from chorismate: step 1/5
+176	 GDP-alpha-D-mannose from alpha-D-mannose 1-phosphate (GTP route): step 1/1	0.246305418719212	1	 GDP-alpha-D-mannose from alpha-D-mannose 1-phosph
+177	 dUMP from dCTP (dUTP route): step 1/2	0.246305418719212	1	 dUMP from dCTP (dUTP route): step 1/2
+178	 GMP from XMP (L-Gln route): step 1/1	0.246305418719212	1	 GMP from XMP (L-Gln route): step 1/1
+179	 (R,R)-butane-2,3-diol from pyruvate: step 1/3	0.246305418719212	1	 (R,R)-butane-2,3-diol from pyruvate: step 1/3
+180	 CO(2) and NH(3) from carbamoyl phosphate: step 1/1	0.246305418719212	1	 CO(2) and NH(3) from carbamoyl phosphate: step 1/
+181	 NAD(+) from deamido-NAD(+) (L-Gln route): step 1/1	0.246305418719212	1	 NAD(+) from deamido-NAD(+) (L-Gln route): step 1/
+182	 nicotinate from nicotinamide: step 1/1	0.246305418719212	1	 nicotinate from nicotinamide: step 1/1
+183	 protoporphyrinogen-IX from coproporphyrinogen-III (O2 route): step 1/1	0.246305418719212	1	 protoporphyrinogen-IX from coproporphyrinogen-III
+184	 5-oxo-4,5-dihydro-2-furylacetate from 3-carboxy-cis,cis-muconate: step 2/2	0.246305418719212	1	 5-oxo-4,5-dihydro-2-furylacetate from 3-carboxy-c
+185	 IMP from 5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide: step 1/1	0.246305418719212	1	 IMP from 5-formamido-1-(5-phospho-D-ribosyl)imida
+186	 2-hydroxy-3-oxosuccinate from L-tartrate: step 1/1	0.246305418719212	1	 2-hydroxy-3-oxosuccinate from L-tartrate: step 1/
+187	 protoporphyrinogen-IX from coproporphyrinogen-III (AdoMet route): step 1/1	0.246305418719212	1	 protoporphyrinogen-IX from coproporphyrinogen-III
+188	 D-glycero-alpha-D-manno-heptose 7-phosphate and D-glycero-beta-D-manno-heptose 7-phosphate from sedoheptulose 7-phosphate: step 1/1	0.246305418719212	1	 D-glycero-alpha-D-manno-heptose 7-phosphate and D
+189	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 7/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+190	 selenocysteinyl-tRNA(Sec) from L-seryl-tRNA(Sec) (bacterial route): step 1/1	0.246305418719212	1	 selenocysteinyl-tRNA(Sec) from L-seryl-tRNA(Sec) 
+191	 LL-2,6-diaminopimelate from (S)-tetrahydrodipicolinate (succinylase route): step 3/3	0.246305418719212	1	 LL-2,6-diaminopimelate from (S)-tetrahydrodipicol
+192	 5-oxo-4,5-dihydro-2-furylacetate from catechol: step 2/3	0.246305418719212	1	 5-oxo-4,5-dihydro-2-furylacetate from catechol: s
+193	 benzoate from (R)-mandelate: step 2/4	0.246305418719212	1	 benzoate from (R)-mandelate: step 2/4
+194	 acetoacetate and fumarate from L-phenylalanine: step 6/6	0.246305418719212	1	 acetoacetate and fumarate from L-phenylalanine: s
+195	 sulfite from sulfate: step 2/3	0.246305418719212	1	 sulfite from sulfate: step 2/3
+196	 4-methyl-2-oxopentanoate from L-leucine (dehydrogenase route): step 1/1	0.246305418719212	1	 4-methyl-2-oxopentanoate from L-leucine (dehydrog
+197	 pyridoxine 5'-phosphate from D-erythrose 4-phosphate: step 5/5	0.246305418719212	1	 pyridoxine 5'-phosphate from D-erythrose 4-phosph
+198	 CDP-diacylglycerol from sn-glycerol 3-phosphate: step 3/3	0.246305418719212	1	 CDP-diacylglycerol from sn-glycerol 3-phosphate: 
+199	 carbamoyl phosphate from L-arginine: step 1/2	0.246305418719212	1	 carbamoyl phosphate from L-arginine: step 1/2
+200	 4-aminobenzoate from chorismate: step 1/2	0.246305418719212	1	 4-aminobenzoate from chorismate: step 1/2
+201	 orotate from (S)-dihydroorotate (quinone route): step 1/1	0.246305418719212	1	 orotate from (S)-dihydroorotate (quinone route): 
+202	 (S)-dihydroorotate from bicarbonate: step 1/3	0.246305418719212	1	 (S)-dihydroorotate from bicarbonate: step 1/3
+203	 choline from choline sulfate: step 1/1	0.246305418719212	1	 choline from choline sulfate: step 1/1
+204	 putrescine from L-ornithine: step 1/1	0.246305418719212	1	 putrescine from L-ornithine: step 1/1
+205	 pyruvate and succinate semialdehyde from 4-hydroxyphenylacetate: step 6/7	0.246305418719212	1	 pyruvate and succinate semialdehyde from 4-hydrox
+206	 XMP from xanthine: step 1/1	0.246305418719212	1	 XMP from xanthine: step 1/1
+207	 1-deoxy-D-xylulose 5-phosphate from D-glyceraldehyde 3-phosphate and pyruvate: step 1/1	0.246305418719212	1	 1-deoxy-D-xylulose 5-phosphate from D-glyceraldeh
+208	 L-proline from L-ornithine: step 1/1	0.246305418719212	1	 L-proline from L-ornithine: step 1/1
+209	 GDP-L-fucose from GDP-alpha-D-mannose: step 1/2	0.246305418719212	1	 GDP-L-fucose from GDP-alpha-D-mannose: step 1/2
+210	 benzoate from (R)-mandelate: step 1/4	0.246305418719212	1	 benzoate from (R)-mandelate: step 1/4
+211	 pyridoxal 5'-phosphate from pyridoxine 5'-phosphate: step 1/1	0.246305418719212	1	 pyridoxal 5'-phosphate from pyridoxine 5'-phospha
+212	 indole and pyruvate from L-tryptophan: step 1/1	0.246305418719212	1	 indole and pyruvate from L-tryptophan: step 1/1
+213	 5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide from 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide (10-formyl THF route): step 1/1	0.246305418719212	1	 5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-ca
+214	 UDP from UMP (UMPK route): step 1/1	0.246305418719212	1	 UDP from UMP (UMPK route): step 1/1
+215	 IMP from hypoxanthine: step 1/1	0.246305418719212	1	 IMP from hypoxanthine: step 1/1
+216	 L-threonine from L-aspartate: step 4/5	0.246305418719212	1	 L-threonine from L-aspartate: step 4/5
+217	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octulosonate and lipid IV(A): step 2/4	0.246305418719212	1	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octuloson
+218	 N-formimidoyl-L-glutamate from L-histidine: step 2/3	0.246305418719212	1	 N-formimidoyl-L-glutamate from L-histidine: step 
+219	 urate from hypoxanthine: step 1/2	0.246305418719212	1	 urate from hypoxanthine: step 1/2
+220	 3-deoxy-D-manno-octulosonate from D-ribulose 5-phosphate: step 1/3	0.246305418719212	1	 3-deoxy-D-manno-octulosonate from D-ribulose 5-ph
+221	 L-methionine from S-methyl-5-thio-alpha-D-ribose 1-phosphate: step 5/6	0.246305418719212	1	 L-methionine from S-methyl-5-thio-alpha-D-ribose 
+222	 L-threonine from L-aspartate: step 5/5	0.246305418719212	1	 L-threonine from L-aspartate: step 5/5
+223	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octulosonate and lipid IV(A): step 3/4	0.246305418719212	1	 KDO(2)-lipid A from CMP-3-deoxy-D-manno-octuloson
+224	 L-homoserine from L-aspartate: step 3/3	0.246305418719212	1	 L-homoserine from L-aspartate: step 3/3
+225	 protein N(6)-(lipoyl)lysine from octanoyl-[acyl-carrier-protein]: step 1/2	0.246305418719212	1	 protein N(6)-(lipoyl)lysine from octanoyl-[acyl-c
+226	 benzoate from (R)-mandelate: step 4/4	0.246305418719212	1	 benzoate from (R)-mandelate: step 4/4
+227	 acetyl-CoA from myo-inositol: step 1/7	0.246305418719212	1	 acetyl-CoA from myo-inositol: step 1/7
+228	 phosphatidylglycerol from CDP-diacylglycerol: step 2/2	0.246305418719212	1	 phosphatidylglycerol from CDP-diacylglycerol: ste
+229	 5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: step 1/1	0.246305418719212	1	 5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: 
+230	 isopentenyl diphosphate from 1-deoxy-D-xylulose 5-phosphate: step 1/6	0.246305418719212	1	 isopentenyl diphosphate from 1-deoxy-D-xylulose 5
+231	 7,8-diaminononanoate from 8-amino-7-oxononanoate (SAM route): step 1/1	0.246305418719212	1	 7,8-diaminononanoate from 8-amino-7-oxononanoate 
+232	 N-acetyl-alpha-D-glucosamine 1-phosphate from alpha-D-glucosamine 6-phosphate (route II): step 2/2	0.246305418719212	1	 N-acetyl-alpha-D-glucosamine 1-phosphate from alp
+233	 5-amino-6-(D-ribitylamino)uracil from GTP: step 1/4	0.246305418719212	1	 5-amino-6-(D-ribitylamino)uracil from GTP: step 1
+234	 5-oxo-4,5-dihydro-2-furylacetate from 3-carboxy-cis,cis-muconate: step 1/2	0.246305418719212	1	 5-oxo-4,5-dihydro-2-furylacetate from 3-carboxy-c
+235	 L-histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 3/9	0.246305418719212	1	 L-histidine from 5-phospho-alpha-D-ribose 1-dipho
+236	 cyanurate from atrazine: step 3/3	0.246305418719212	1	 cyanurate from atrazine: step 3/3
+237	 2,5-dioxopentanoate from D-glucarate: step 1/2	0.246305418719212	1	 2,5-dioxopentanoate from D-glucarate: step 1/2
+238	 CoA from (R)-pantothenate: step 5/5	0.246305418719212	1	 CoA from (R)-pantothenate: step 5/5
+239	 ADP-L-glycero-beta-D-manno-heptose from D-glycero-beta-D-manno-heptose 7-phosphate: step 3/4	0.246305418719212	1	 ADP-L-glycero-beta-D-manno-heptose from D-glycero
+240	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 8/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+241	 sn-glycerol 3-phosphate from glycerol: step 1/1	0.246305418719212	1	 sn-glycerol 3-phosphate from glycerol: step 1/1
+242	 L-isoleucine from 2-oxobutanoate: step 4/4	0.246305418719212	1	 L-isoleucine from 2-oxobutanoate: step 4/4
+243	 L-leucine from 3-methyl-2-oxobutanoate: step 1/4	0.246305418719212	1	 L-leucine from 3-methyl-2-oxobutanoate: step 1/4
+244	 CO(2) and NH(3) from urea (urease route): step 1/1	0.246305418719212	1	 CO(2) and NH(3) from urea (urease route): step 1/
+245	 chorismate from D-erythrose 4-phosphate and phosphoenolpyruvate: step 7/7	0.246305418719212	1	 chorismate from D-erythrose 4-phosphate and phosp
+246	 acetoacetate and fumarate from L-phenylalanine: step 4/6	0.246305418719212	1	 acetoacetate and fumarate from L-phenylalanine: s
+247	 5-phospho-alpha-D-ribose 1-diphosphate from D-ribose 5-phosphate (route I): step 1/1	0.246305418719212	1	 5-phospho-alpha-D-ribose 1-diphosphate from D-rib
+248	 pyruvate from D-glyceraldehyde 3-phosphate: step 2/5	0.246305418719212	1	 pyruvate from D-glyceraldehyde 3-phosphate: step 
+249	 L-alpha-aminoadipate from 2-oxoglutarate: step 5/5	0.246305418719212	1	 L-alpha-aminoadipate from 2-oxoglutarate: step 5/
+250	 2-hydroxy-3-oxosuccinate from meso-tartrate: step 1/1	0.246305418719212	1	 2-hydroxy-3-oxosuccinate from meso-tartrate: step
+251	 coproporphyrinogen-III from 5-aminolevulinate: step 4/4	0.246305418719212	1	 coproporphyrinogen-III from 5-aminolevulinate: st
+252	 cob(II)yrinate a,c-diamide from sirohydrochlorin (anaerobic route): step 6/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from sirohydrochlorin 
+253	 (S)-dihydroorotate from bicarbonate: step 2/3	0.246305418719212	1	 (S)-dihydroorotate from bicarbonate: step 2/3
+254	 ppGpp from GDP: step 1/1	0.246305418719212	1	 ppGpp from GDP: step 1/1
+255	 cob(II)yrinate a,c-diamide from precorrin-2 (aerobic route): step 9/10	0.246305418719212	1	 cob(II)yrinate a,c-diamide from precorrin-2 (aero
+256	 CoA from (R)-pantothenate: step 4/5	0.246305418719212	1	 CoA from (R)-pantothenate: step 4/5
+257	 riboflavin from 2-hydroxy-3-oxobutyl phosphate and 5-amino-6-(D-ribitylamino)uracil: step 2/2	0.246305418719212	1	 riboflavin from 2-hydroxy-3-oxobutyl phosphate an
+258	 siroheme from sirohydrochlorin: step 1/1	0.246305418719212	1	 siroheme from sirohydrochlorin: step 1/1
+259	 L-valine from pyruvate: step 4/4	0.246305418719212	1	 L-valine from pyruvate: step 4/4
+260	 L-histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 9/9	0.246305418719212	1	 L-histidine from 5-phospho-alpha-D-ribose 1-dipho
+261	 D-glyceraldehyde 3-phosphate and glycerone phosphate from D-glucose: step 4/4	0.246305418719212	1	 D-glyceraldehyde 3-phosphate and glycerone phosph
+262	 L-threonine from L-aspartate: step 2/5	0.246305418719212	1	 L-threonine from L-aspartate: step 2/5
+263	 thiamine diphosphate from thiamine phosphate: step 1/1	0.246305418719212	1	 thiamine diphosphate from thiamine phosphate: ste
+264	 L-homocysteine from S-adenosyl-L-homocysteine: step 1/1	0.246305418719212	1	 L-homocysteine from S-adenosyl-L-homocysteine: st
+265	 3,4-dihydroxybenzoate from 3-dehydroquinate: step 2/2	0.246305418719212	1	 3,4-dihydroxybenzoate from 3-dehydroquinate: step
+266	 L-glutamate from 2-oxoglutarate and L-glutamine (NADP(+) route): step 1/1	0.246305418719212	1	 L-glutamate from 2-oxoglutarate and L-glutamine (
+267	 L-glutamate from 2-oxoglutarate and L-glutamine (NAD(+) route): step 1/1	0.246305418719212	1	 L-glutamate from 2-oxoglutarate and L-glutamine (
+268	 urate from hypoxanthine: step 2/2	0.246305418719212	1	 urate from hypoxanthine: step 2/2
+269	 L-lysine from DL-2,6-diaminopimelate: step 1/1	0.246305418719212	1	 L-lysine from DL-2,6-diaminopimelate: step 1/1
+270	 pyruvate from D-glyceraldehyde 3-phosphate: step 1/5	0.246305418719212	1	 pyruvate from D-glyceraldehyde 3-phosphate: step 
+271	 CDP-3,6-dideoxy-D-mannose from CTP and alpha-D-glucose 1-phosphate: step 2/5	0.246305418719212	1	 CDP-3,6-dideoxy-D-mannose from CTP and alpha-D-gl
+272	 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide: step 2/2	0.246305418719212	1	 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2
+273	 isocitrate from oxaloacetate: step 1/2	0.246305418719212	1	 isocitrate from oxaloacetate: step 1/2
+274	 (S)-dihydroorotate from bicarbonate: step 3/3	0.246305418719212	1	 (S)-dihydroorotate from bicarbonate: step 3/3
+275	 (S)-tetrahydrodipicolinate from L-aspartate: step 2/4	0.246305418719212	1	 (S)-tetrahydrodipicolinate from L-aspartate: step

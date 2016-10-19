@@ -1,0 +1,31 @@
+The file of sequences is /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta
+The total number of sequences is 5124
+The mean sequence length is 1582
+The minimum and maximum sequence length are respectively 71 and 20722
+Average percentage of Adenine: 18.93 
+ Average percentage of Guanine: 31.09 
+Average percentage of Thymine: 19.21 
+ Average percentage of Cytosine: 30.78 
+Average percentage of N: 0.00 
+ Average percentage of GC: 61.89 
+ Number of blast results:
+Swiss-Prot: 3720
+UniRef : 5071
+Domains: 4509
+Ribosomal RNAs: 160
+
+Alignments in the positive strand:
+Swiss-Prot: 2420
+UniRef: 3461
+
+Alignments in the negative strand:
+Swiss-Prot: 1300
+UniRef: 1610
+
+Transcripts with at least one blast result: 5077
+
+Results in agreement with strand of the longest ORF: 3081
+
+Number of non coding sequences: 5 
+ (obtained with probability greater than: 0.95 and maximum length of the orf: 100)
+

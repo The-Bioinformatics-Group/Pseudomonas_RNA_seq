@@ -1,0 +1,66 @@
+rowind	pw_id	occurrences	tot_count	description
+0	Cofactor biosynthesis	10.8374384236453	88	Cofactor biosynthesis
+1	Amino-acid biosynthesis	9.85221674876847	80	Amino-acid biosynthesis
+2	Aromatic compound metabolism	8.2512315270936	67	Aromatic compound metabolism
+3	Lipid metabolism	7.51231527093596	61	Lipid metabolism
+4	Amino-acid degradation	5.41871921182266	44	Amino-acid degradation
+5	Purine metabolism	4.43349753694581	36	Purine metabolism
+6	Amine and polyamine degradation	4.1871921182266	34	Amine and polyamine degradation
+7	Glycan biosynthesis	3.32512315270936	27	Glycan biosynthesis
+8	Bacterial outer membrane biogenesis	3.20197044334975	26	Bacterial outer membrane biogenesis
+9	Carbohydrate metabolism	3.07881773399015	25	Carbohydrate metabolism
+10	Cell wall biogenesis	2.95566502463054	24	Cell wall biogenesis
+11	Metabolic intermediate biosynthesis	2.58620689655172	21	Metabolic intermediate biosynthesis
+12	Carbohydrate acid metabolism	2.21674876847291	18	Carbohydrate acid metabolism
+13	Amine and polyamine biosynthesis	2.21674876847291	18	Amine and polyamine biosynthesis
+14	Carbohydrate biosynthesis	2.21674876847291	18	Carbohydrate biosynthesis
+15	Antibiotic biosynthesis	2.21674876847291	18	Antibiotic biosynthesis
+16	Carbohydrate degradation	1.84729064039409	15	Carbohydrate degradation
+17	Xenobiotic degradation	1.60098522167488	13	Xenobiotic degradation
+18	Nucleotide-sugar biosynthesis	1.60098522167488	13	Nucleotide-sugar biosynthesis
+19	Porphyrin-containing compound metabolism	1.47783251231527	12	Porphyrin-containing compound metabolism
+20	Cofactor degradation	1.47783251231527	12	Cofactor degradation
+21	Organic acid metabolism	1.47783251231527	12	Organic acid metabolism
+22	Pyrimidine metabolism	1.35467980295567	11	Pyrimidine metabolism
+23	Sulfur metabolism	1.35467980295567	11	Sulfur metabolism
+24	Energy metabolism	1.23152709359606	10	Energy metabolism
+25	One-carbon metabolism	1.10837438423645	9	One-carbon metabolism
+26	Protein modification	0.985221674876847	8	Protein modification
+27	tRNA modification	0.985221674876847	8	tRNA modification
+28	Nitrogen metabolism	0.985221674876847	8	Nitrogen metabolism
+29	Glycolipid biosynthesis	0.985221674876847	8	Glycolipid biosynthesis
+30	Phospholipid metabolism	0.985221674876847	8	Phospholipid metabolism
+31	Glycan metabolism	0.862068965517241	7	Glycan metabolism
+32	Ketone degradation	0.61576354679803	5	Ketone degradation
+33	Cofactor metabolism	0.492610837438424	4	Cofactor metabolism
+34	Polyol metabolism	0.492610837438424	4	Polyol metabolism
+35	Siderophore biosynthesis	0.492610837438424	4	Siderophore biosynthesis
+36	Alcohol metabolism	0.492610837438424	4	Alcohol metabolism
+37	Amine and polyamine metabolism	0.492610837438424	4	Amine and polyamine metabolism
+38	Capsule biogenesis	0.369458128078818	3	Capsule biogenesis
+39	Glycolipid metabolism	0.369458128078818	3	Glycolipid metabolism
+40	Secondary metabolite metabolism	0.369458128078818	3	Secondary metabolite metabolism
+41	Flavonoid metabolism	0.369458128078818	3	Flavonoid metabolism
+42	Metabolic intermediate metabolism	0.369458128078818	3	Metabolic intermediate metabolism
+43	Carotenoid biosynthesis	0.246305418719212	2	Carotenoid biosynthesis
+44	Alkaloid degradation	0.246305418719212	2	Alkaloid degradation
+45	Alkene metabolism	0.246305418719212	2	Alkene metabolism
+46	Exopolysaccharide biosynthesis	0.246305418719212	2	Exopolysaccharide biosynthesis
+47	Secondary metabolite biosynthesis	0.246305418719212	2	Secondary metabolite biosynthesis
+48	Lipopolysaccharide metabolism	0.246305418719212	2	Lipopolysaccharide metabolism
+49	Glycan degradation	0.246305418719212	2	Glycan degradation
+50	Genetic information processing	0.246305418719212	2	Genetic information processing
+51	Opine metabolism	0.246305418719212	2	Opine metabolism
+52	Plant hormone metabolism	0.246305418719212	2	Plant hormone metabolism
+53	Isoprenoid biosynthesis	0.246305418719212	2	Isoprenoid biosynthesis
+54	Aminoacyl-tRNA biosynthesis	0.123152709359606	1	Aminoacyl-tRNA biosynthesis
+55	Hydrocarbon metabolism	0.123152709359606	1	Hydrocarbon metabolism
+56	Polyester biosynthesis	0.123152709359606	1	Polyester biosynthesis
+57	Cell wall degradation	0.123152709359606	1	Cell wall degradation
+58	Amino-acid metabolism	0.123152709359606	1	Amino-acid metabolism
+59	Membrane lipid metabolism	0.123152709359606	1	Membrane lipid metabolism
+60	Protein biosynthesis	0.123152709359606	1	Protein biosynthesis
+61	Amino-sugar metabolism	0.123152709359606	1	Amino-sugar metabolism
+62	Steroid metabolism	0.123152709359606	1	Steroid metabolism
+63	Glycerolipid metabolism	0.123152709359606	1	Glycerolipid metabolism
+64	Organosulfur degradation	0.123152709359606	1	Organosulfur degradation

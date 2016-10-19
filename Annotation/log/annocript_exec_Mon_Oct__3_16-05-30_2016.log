@@ -1,0 +1,986 @@
+***********************************************************************
+This program comes with ABSOLUTELY NO WARRANTY; for details http://opensource.org/licenses/GPL-3.0.
+This is free software, and you are welcome to redistribute it
+under certain conditions; http://opensource.org/licenses/GPL-3.0 for details.
+***********************************************************************
+  /&&&&&&                                              /&&           /&&          
+ /&&__  &&                                            |__/          | &&          
+| &&  | &&/&&&&&&& /&&&&&&&   /&&&&&&  /&&&&&&& /&&&&&& /&& /&&&&&& /&&&&&&       
+| &&&&&&&| &&__  &| &&__  && /&&__  &&/&&_____//&&__  &| &&/&&__  &|_  &&_/       
+| &&__  &| &&  | &| &&  | &|  &&  | &| &&     | &&  |__| &| &&  | && | &&         
+| &&  | &| &&  | &| &&  | &|  &&  | &| &&     | &&     | &| &&  | && | && /&&     
+| &&  | &| &&  | &| &&  | &|   &&&&&&|  &&&&&&| &&     | &| &&&&&&&/ |  &&&&/    
+|__/  |__|__/  |__|__/  |__/ |______/ |_______|__/     |__| &&____/   |___/      
+                                                          | &&
+                                                          | &&
+                                                          |__/
+
+Annocript is a tool created by the Bioinformatic Lab of SZN of Naples. 
+Given a fasta file with a transcriptome, it will annotate your sequences and it will separate putative coding and long non-coding RNA sequences.
+ Reference: Musacchia F, Basu S, Petrosino G, Salvemini M, Sanges R. 
+ Annocript: a flexible pipeline for the annotation of transcriptomes which can also identify  putative long non-coding RNA. Bioinformatics (2015) doi:10.1093/bioinformatics/btv106
+***********************************************************************
+
+
+1. New session - 2. Use Previous - 3. Remove Session - 4. Do some utils - 5. Exit
+Your choice:  
+1
+Choose a name for your session: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome created!
+Pseudomonas_putida_transcriptome
+Copying the given config file in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome
+#####################################################
+# CHECKING THE INTEGRITY OF THE CONFIGURATION FILES #
+#####################################################
+
+They are good. Annocript can proceed!
+###################################
+# RUNNING ANNOCRIPT CONFIGURATION #
+###################################
+
+Temporary files will be stored
+The database will be built downloading data from UniProt website.
+Some programs will be run. In the following are listed
+A BLASTX against SwissProt will be executed.
+A BLASTX against TrEMBL/UniRef will be executed.
+A RPS BLAST of your sequences will be done.
+A BLASTN of your sequences will be done.
+A PORTRAIT of your sequences will be done.
+DNA2PEP on your sequences will be done.
+The final table will be built
+A web page and file with statistics will be created
+Do you agree with it?(y or n) 
+y
+Ok!.. let's go!
+Path to control for fasta: /home/mats/ann_works/Pseudomonas_putida_transcriptome.fasta
+Sequences found in your working folder. Checking...
+Copying the fasta in session folder...
+Annocript detected that your sequences are transcripts
+Number of sequences: 5124
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/data...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output....
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/stats...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/gff...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn...
+Creating folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn...
+
+>>> Database settings (it will need a while):
+Checking your privileges for MySQL...Checking the links for the databases to download...(it may take a while)...
+Everything is ok!
+You chose to create the database. Do you want to create with UniRef (u) or TrEMBL (t)? (u or t)
+[Suggestion: if you want to blast against specific organisms you should use TrEMBL]
+ 
+u
+
+dbVersion: 2016_08
+Folder for DB will be: /home/mats/ann_works/data/2016_08 and database name: uniref_2016_08
+/home/mats/ann_works/data/2016_08 doesn't exists. Creating folder /home/mats/ann_works/data/2016_08...
+/home/mats/ann_works/data/2016_08/tables doesn't exists. Creating folder /home/mats/ann_works/data/2016_08/tables...
+Conserved domains database: Cdd
+Annocript will download several files for the database generation and BLAST execution.  Do you want to remove the file that Annocript will not use for the analysis? (y or n) [Suggested: n].
+ 
+y
+y
+You have enough memory to create more rapidly the db. Annocript will use a lot of memory now! :-D
+
+>>> Programs settings:
+
+>>> Setting final statistics and outputs
+..OK! WELL DONE!
+Your configuration has been saved! A log file will be created in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/annocript_exec_Mon_Oct__3_16-05-30_2016.log. 
+The overall computation usually depends from the number of sequences and the speed of the machine you are using. 
+You may want to check Annocript step-by-step with the following command: more /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/annocript_exec_Mon_Oct__3_16-05-30_2016.log.
+
+You will find all the results in the folder you chose here. Please take a look at
+ https://github.com/frankMusacchia/Annocript/blob/master/GUIDE/OUTPUT.md to understand the output from Annocript and the organization of folders.
+
+Please let us know if any problem occurs during the computation or you don't get from Annocript the expected result.
+You may want to use the forum at: https://groups.google.com/forum/#!forum/annocript.
+##########################################
+# STARTING ANNOCRIPT IN BACKGROUND! BYE! #
+##########################################
+
+
+
+ ####################### DB CREATION ########################
+
+Mon Oct  3 16:06:50 2016 
+Annocript is starting to create the database...
+
+(Mon Oct  3 16:06:50 2016) >>>>>>>>>>>>>CREATION OF DATABASE AND ITS TABLES<<<<<<<<<<<<<<
+Uploading DB_CREATION/uniref_db.sql into uniref_2016_08
+DB - proteinDB - and tables created!
+Finished Creating DB and tables in	2.53563594818115 seconds
+
+
+(Mon Oct  3 16:06:53 2016) >>>>>>>>>>>>>DOWNLOAD OF THE NECESSARY FILES<<<<<<<<<<<<<<
+Downloading: ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd/little_endian/Cdd_LE.tar.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/Cdd_LE.tar.gz...
+...completed!
+Downloading: http://geneontology.org/external2go/pfam2go.....completed!
+Downloading: ftp://ftp.ebi.ac.uk/pub/databases/Rfam/11.0/Rfam.fasta.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/Rfam.fasta.gz...
+...completed!
+Downloading: ftp://ftp.arb-silva.de/current/README.txt.....completed!
+Downloading: ftp://ftp.arb-silva.de/current/Exports/SILVA_128_LSUParc_tax_silva.fasta.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/SILVA_128_LSUParc_tax_silva.fasta.gz...
+...completed!
+Downloading: ftp://ftp.arb-silva.de/current/Exports/SILVA_128_SSUParc_tax_silva.fasta.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/SILVA_128_SSUParc_tax_silva.fasta.gz...
+...completed!
+
+ Downloading File http://www.uniprot.org/docs/speclist.txt...Downloading: http://www.uniprot.org/docs/speclist.txt.....completed!
+
+(Mon Oct  3 16:19:16 2016) >>>>>>>>>>>>>DOWNLOADING OF THE UNIREF AND SWISS-PROT FILES<<<<<<<<<<<<<<
+Downloading: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniref/uniref90/uniref90.fasta.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/uniref90.fasta.gz...
+...completed!
+Downloading: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta.gz...
+...completed!
+
+(Mon Oct  3 17:30:54 2016) >>>>>>>>>>>>>Download of all the stuffs needed for the mapping table<<<<<<<<<<<<<<
+There is no uniprotkbMappingsTable in uniref_2016_08...creating it...
+Downloading: http://www.geneontology.org/doc/GO.terms_alt_ids.....completed!
+Downloading: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/idmapping_selected.tab.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/idmapping_selected.tab.gz...
+...completed!
+
+ Downloading File ftp://ftp.expasy.org/databases/enzyme/enzyme.dat...Downloading: ftp://ftp.expasy.org/databases/enzyme/enzyme.dat.....completed!
+Downloading: http://www.uniprot.org/docs/pathway.txt.....completed!
+...DONE!
+
+(Mon Oct  3 17:50:11 2016) >>>>>>>>>>>>>DOWNLOADING A TABLE FOR CONSERVED DOMAINS INFORMATIONS<<<<<<<<<<<<<<
+There is no cdTable in uniref_2016_08...creating it...
+Downloading: ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd/cddid_all.tbl.gz.....completed!
+
+ Uncompressing /home/mats/ann_works/data/2016_08/cddid_all.tbl.gz...
+...completed!
+
+(Mon Oct  3 17:50:18 2016) >>>>>>>>>>>>>CREATION OF NON CODING RNA CUSTOMIZED DATABASE<<<<<<<<<<<<<<
+Concatenating /home/mats/ann_works/data/2016_08/SILVA_128_LSUParc_tax_silva.fasta and /home/mats/ann_works/data/2016_08/SILVA_128_SSUParc_tax_silva.fasta in /home/mats/ann_works/data/2016_08/tempSILVA... ..completed. 
+Concatenating /home/mats/ann_works/data/2016_08/Rfam.fasta and /home/mats/ann_works/data/2016_08/tempSILVA in /home/mats/ann_works/data/2016_08/ncRNA.fa... ..completed. 
+/home/mats/ann_works/data/2016_08/tempSILVA deleted successfully.
+/home/mats/ann_works/data/2016_08/Cdd_LE.tar.gz deleted successfully.
+/home/mats/ann_works/data/2016_08/Rfam.fasta.gz deleted successfully.
+/home/mats/ann_works/data/2016_08/Rfam.fasta deleted successfully.
+Finished creation of the non-coding customized database in	6311.96821594238 seconds
+
+
+(Mon Oct  3 17:52:05 2016) >>>>>>>>>>>>>CREATION OF THE UNIREF AND SWISS-PROT TABLES<<<<<<<<<<<<<<
+Annocript will insert both SwissProt informations and UniRef ones.
+There is no uniprotkb in uniref_2016_08...creating it...
+Creating SwissProt tables...
+A log of the operation will be written in /home/mats/ann_works/data/2016_08/uniprotkb_headParsNAValues.log
+Creating a file with all the headers from /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta (it makes the db construction faster but it will need a while)......DONE!
+Creating UNIPROT table......DONE! 
+ Writing the hashes on file-tables.... 
+..descriptions table: OK! 
+....organisms table: OK! 
+......GN table: OK!
+........PE table: OK!
+..........SV table OK!
+............db types table:OK!
+
+ Now uploading tables to database: uniref_2016_08...
+/home/mats/ann_works/data/2016_08/uniprot_sprot.fasta.gz deleted successfully.
+/home/mats/ann_works/data/2016_08/db_headers.txt deleted successfully.
+
+....DONE!
+Finished Creating Swissprot table in	96.9108829498291 seconds
+
+There is no uniref in uniref_2016_08...creating it...
+Creating UniRef tables...
+A log of the operation will be written in /home/mats/ann_works/data/2016_08/uniref_headParsNAValues.log
+Creating a file with all the information about the sequences. (This file is needed to have a faster process)....PLEASE WAIT...
+...DONE!
+Creating UNIREF table.....please wait
+
+ uniref table completed! 
+ Writing the hashes on file-tables.... 
+....descriptions table..ok... ....taxType table..ok......hash completed!  
+ Uploading tables to database: uniref_2016_08...
+No errors in the parsing. /home/mats/ann_works/data/2016_08/uniref_headParsNAValues.log will be erased.
+/home/mats/ann_works/data/2016_08/uniref_headParsNAValues.log deleted successfully.
+/home/mats/ann_works/data/2016_08/uniref90.fasta.gz deleted successfully.
+/home/mats/ann_works/data/2016_08/db_headers.txt deleted successfully.
+..completed!
+
+....DONE!
+Finished Creating UniRef table in	17276.4939730167 seconds
+
+
+(Mon Oct  3 22:41:38 2016) >>>>>>>>>>>>>CREATING A TABLE FOR CONSERVED DOMAINS INFORMATIONS<<<<<<<<<<<<<<
+There is no cdTable in uniref_2016_08...creating it...
+...creating a file with table.....DONE! 
+ Now uploading in db...File cddid_all.tbl was not deleted.....DONE!(CDTABLE Upload completed)
+ Finished the Conserved Domains table in	9.19687104225159 seconds
+
+
+(Mon Oct  3 22:41:47 2016) >>>>>>>>>>>>>MAPPING OF PROTEINS WITH GO-TERMS, ENZYME TERMS AND PATHWAYS<<<<<<<<<<<<<<
+A double mapping will start to fill two mappings tables (SwissProt and UniRef)...
+There is no uniprotkbMappingsTable in uniref_2016_08...creating it...
+
+**MAPPING FOR uniprotkb**
+Creating an hash with GO ids from uniprotkb...
+File /home/mats/ann_works/data/2016_08/GO.terms_alt_ids already downloaded...
+Uploading goTable in db...
+/home/mats/ann_works/data/2016_08/GO.terms_alt_ids deleted successfully.
+Finished Creating GO table in	1.3112428188324 seconds
+
+There is no uniprotkbMappingsTable in uniref_2016_08...creating it...
+Extracting a reduced file from ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/idmapping_selected.tab.gz with the GO mapping only..
+/home/mats/ann_works/data/2016_08/idmapping_selected.tab.gz deleted successfully.
+Reading the GO mapping file and storing terms for uniprotkb ids...
+Opening : /home/mats/ann_works/data/2016_08/filtMappingFile.txt
+...DONE! ..in 883.807641983032 seconds
+Reading the ENZYME mapping file and storing terms for uniprotkb ids...
+File ftp://ftp.expasy.org/databases/enzyme/enzyme.dat already downloaded...
+Extracting informations about enzymes...
+/home/mats/ann_works/data/2016_08/enzyme.dat deleted successfully.
+...DONE! ..in 2.66297197341919 seconds
+
+Reading the PATHWAYS mapping file and storing terms for uniprotkb ids...
+/home/mats/ann_works/data/2016_08/pathway.txt deleted successfully.
+...DONE! ..in 1.62585687637329 seconds
+
+Creating a table to be loaded in the db with all information stored...
+Loading in DB...
+Finished generating and loading uniprotkb mapping table in	38.8274960517883 seconds
+
+There is no cdMappingsTable in uniref_2016_08...creating it...
+Filling an hash with the mapping informaton for domains..
+WARNING: Some pfam ids where found in /home/mats/ann_works/data/2016_08/pfam2go but not in the database:  pfam17136 pfam17144 pfam17175 pfam17204 pfam17209 pfam17222 pfam17223
+Maybe you are using an older version of the Conserved Domains Database.
+Creating a table to be loaded in the db using the hash...
+Added GO terms to 5035 domains...
+Loading in DB...
+Finished generating and loading /home/mats/ann_works/data/2016_08/tables/cdMappingsTable mapping table in	6.57704710960388 seconds
+
+There is no unirefMappingsTable in uniref_2016_08...creating it...
+
+**MAPPING FOR uniref**
+Creating an hash with GO ids from uniref...
+Downloading: http://www.geneontology.org/doc/GO.terms_alt_ids.....completed!
+/home/mats/ann_works/data/2016_08/GO.terms_alt_ids deleted successfully.
+Finished Creating GO table in	3.89971113204956 seconds
+
+There is no unirefMappingsTable in uniref_2016_08...creating it...
+Extracting a reduced file from ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/idmapping_selected.tab.gz with the GO mapping only..
+Reading the GO mapping file and storing terms for uniref ids...
+Opening : /home/mats/ann_works/data/2016_08/filtMappingFile.txt
+...DONE! ..in 2394.70293688774 seconds
+Creating a table to be loaded in the db with all information stored...
+Loading in DB...
+Finished generating and loading uniref mapping table in	77324.1550180912 seconds
+
+Finished the mapping in	80657.9570670128 seconds
+
+
+(Tue Oct  4 21:06:05 2016) >>>>>>>>>>>>>INDEXING THE FASTA DATABASES<<<<<<<<<<<<<<
+The following databases are required to execute BLAST programs...
+SwissProt indexed database:
+/home/mats/ann_works/data/2016_08/uniprot_sprot.fasta.psq missing or size is zero.
+/home/mats/ann_works/data/2016_08/uniprot_sprot.fasta.pin missing or size is zero.
+/home/mats/ann_works/data/2016_08/uniprot_sprot.fasta.phr missing or size is zero.
+There should be 3 support files for the indexed database.  and Annocript found only 0. uniprot_sprot.fasta must be indexed...
+Indexing /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta
+Checking if it is downloaded...
+File /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta already present...
+Running indexing... 
+/usr/local/bin/makeblastdb -in /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta -title uniprot_sprot.fasta -dbtype 'prot'
+
+
+Building a new DB, current time: 10/04/2016 21:06:13
+New DB name:   /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta
+New DB title:  uniprot_sprot.fasta
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 551987 sequences in 36.7248 seconds.
+Found 3 indexing files and they should be: 3
+
+....DONE!
+SwissProt db indexed successfully!
+Finished the indexing in	47.0633549690247 seconds
+
+UniRef indexed database:
+/home/mats/ann_works/data/2016_08/uniref90.fasta.psq missing or size is zero.
+/home/mats/ann_works/data/2016_08/uniref90.fasta.pin missing or size is zero.
+/home/mats/ann_works/data/2016_08/uniref90.fasta.phr missing or size is zero.
+There should be 3 support files for the indexed database.  and Annocript found only 0. uniref90.fasta must be indexed...
+Indexing /home/mats/ann_works/data/2016_08/uniref90.fasta
+Checking if it is downloaded...
+File /home/mats/ann_works/data/2016_08/uniref90.fasta already present...
+Running indexing... 
+/usr/local/bin/makeblastdb -in /home/mats/ann_works/data/2016_08/uniref90.fasta -title uniref90.fasta -dbtype 'prot'
+
+
+Building a new DB, current time: 10/04/2016 21:06:53
+New DB name:   /home/mats/ann_works/data/2016_08/uniref90.fasta
+New DB title:  uniref90.fasta
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 44448796 sequences in 2271 seconds.
+Found 48 indexing files and they should be: 48
+
+....DONE!
+UniRef db indexed successfully!
+Finished the indexing in	2274.24764108658 seconds
+
+ncRNA indexed database:
+/home/mats/ann_works/data/2016_08/ncRNA.fa.nsq missing or size is zero.
+/home/mats/ann_works/data/2016_08/ncRNA.fa.nin missing or size is zero.
+/home/mats/ann_works/data/2016_08/ncRNA.fa.nhr missing or size is zero.
+There should be 3 support files for the indexed database.  and Annocript found only 0. ncRNA.fa must be indexed...
+Indexing /home/mats/ann_works/data/2016_08/ncRNA.fa
+Running indexing... 
+/usr/local/bin/makeblastdb -in /home/mats/ann_works/data/2016_08/ncRNA.fa -title ncRNA.fa -dbtype 'nucl'
+
+
+Building a new DB, current time: 10/04/2016 21:44:48
+New DB name:   /home/mats/ann_works/data/2016_08/ncRNA.fa
+New DB title:  ncRNA.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 6735183 sequences in 412.68 seconds.
+Found 0 indexing files and they should be: 0
+
+....DONE!
+ncRNA db indexed successfully!
+Finished the indexing in	415.804187059402 seconds
+
+
+(Tue Oct  4 21:51:43 2016) Annocript has finished the protein database creation in 107092.225595951
+
+ ####################### ############ ########################
+
+
+ ####################### PROGRAM EXECUTION ########################
+
+Tue Oct  4 21:51:43 2016 
+Annocript is starting the execution of programs...
+
+(Tue Oct  4 21:51:43 2016): Running BLASTX against SwissProt DB
+Running blastx...Out file: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxSPOut1
+The query is :/usr/local/bin/blastx -query /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta -db /home/mats/ann_works/data/2016_08/uniprot_sprot.fasta  -word_size 4 -evalue 1E-5 -num_threads 10 -num_descriptions 5 -num_alignments 5 -threshold 18 -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxSPOut1
+
+...DONE!! Results printed on /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxSPOut1
+Finished BLASTX against SwissProt in	993.341105937958 seconds
+
+
+(Tue Oct  4 22:08:16 2016): Running BLASTX against UniRef DB
+Running blastx...Out file: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxUnirefOut1
+The query is :/usr/local/bin/blastx -query /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta -db /home/mats/ann_works/data/2016_08/uniref90.fasta  -word_size 4 -evalue 1E-5 -num_threads 10 -num_descriptions 5 -num_alignments 5 -threshold 18 -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxUnirefOut1
+
+...DONE!! Results printed on /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxUnirefOut1
+Finished BLASTX against UniRef in	74681.9722180367 seconds
+
+
+(Wed Oct  5 18:52:58 2016) Running RPSTBLASTN against Cdd db
+
+Total bases in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta: 8109047
+The average number of bases in the 12 slices will be: 675752
+
+/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome_slice doesn't exists. Creating folder...
+Fetching files from Pseudomonas_putida_transcriptome_slice and executing:
+ /usr/local/bin/rpstblastn -db /home/mats/ann_works/data/2016_08/Cdd  -evalue 0.00001 -num_descriptions 20 -num_alignments 20 
+-query Pseudomonas_putida_transcriptome_slice_1.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut1
+-query Pseudomonas_putida_transcriptome_slice_10.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut2
+-query Pseudomonas_putida_transcriptome_slice_11.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut3
+-query Pseudomonas_putida_transcriptome_slice_12.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut4
+-query Pseudomonas_putida_transcriptome_slice_2.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut5
+-query Pseudomonas_putida_transcriptome_slice_3.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut6
+-query Pseudomonas_putida_transcriptome_slice_4.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut7
+-query Pseudomonas_putida_transcriptome_slice_5.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut8
+-query Pseudomonas_putida_transcriptome_slice_6.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut9
+-query Pseudomonas_putida_transcriptome_slice_7.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut10
+-query Pseudomonas_putida_transcriptome_slice_8.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut11
+-query Pseudomonas_putida_transcriptome_slice_9.fasta -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut12
+Finished RPSTBLASTN against Cdd db in	6993.94638895988 seconds
+
+
+(Wed Oct  5 20:49:32 2016) Running BLASTN against the non-coding RNA db
+Running blastn...Out file: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn/blastnOut1
+The query is :/usr/local/bin/blastn -query /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta -db /home/mats/ann_works/data/2016_08/ncRNA.fa  -evalue 0.00001 -num_threads 4 -num_descriptions 1 -num_alignments 1 -out /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn/blastnOut1
+
+...DONE!! Results printed on /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn/blastnOut1
+Finished BLASTN against ncRNAs /home/mats/ann_works/data/2016_08/ncRNA.fa in	219.317803144455 seconds
+
+
+Wed Oct  5 20:53:11 2016: Running PORTRAIT...
+PORTRAIT CLEAN: Cleaned the header of the input to be accepted by PORTRAIT!
+PORTRAIT CLEAN: Checked if are present strange chars!
+	No special chars found in the query file!
+PORTRAIT CLEAN: Checked the sequences! (Longest than 100000 are not accepted)
+Sequence 5433|*|rna77 erased because it's shorter (82) than the minimum (100)
+Sequence 5434|*|rna18 erased because it's shorter (81) than the minimum (100)
+Sequence 5436|*|rna57 erased because it's shorter (74) than the minimum (100)
+Sequence 5436|100.0%|rna58 erased because it's shorter (74) than the minimum (100)
+Sequence 5436|100.0%|rna56 erased because it's shorter (74) than the minimum (100)
+Sequence 5436|100.0%|rna75 erased because it's shorter (74) than the minimum (100)
+Sequence 5436|100.0%|rna73 erased because it's shorter (74) than the minimum (100)
+Sequence 5437|*|rna82 erased because it's shorter (74) than the minimum (100)
+Sequence 5437|100.0%|rna84 erased because it's shorter (74) than the minimum (100)
+Sequence 5438|*|rna14 erased because it's shorter (74) than the minimum (100)
+Sequence 5438|100.0%|rna4 erased because it's shorter (74) than the minimum (100)
+Sequence 5438|100.0%|rna89 erased because it's shorter (74) than the minimum (100)
+Sequence 5439|*|rna12 erased because it's shorter (74) than the minimum (100)
+Sequence 5441|*|rna79 erased because it's shorter (74) than the minimum (100)
+Sequence 5443|*|rna50 erased because it's shorter (74) than the minimum (100)
+Sequence 5451|*|rna10 erased because it's shorter (73) than the minimum (100)
+Sequence 5456|*|rna32 erased because it's shorter (73) than the minimum (100)
+Sequence 5456|100.0%|rna83 erased because it's shorter (73) than the minimum (100)
+Sequence 5456|100.0%|rna81 erased because it's shorter (73) than the minimum (100)
+Sequence 5457|*|rna66 erased because it's shorter (73) than the minimum (100)
+Sequence 5457|100.0%|rna85 erased because it's shorter (73) than the minimum (100)
+Sequence 5458|*|rna20 erased because it's shorter (73) than the minimum (100)
+Sequence 5460|*|rna59 erased because it's shorter (73) than the minimum (100)
+Sequence 5460|100.0%|rna76 erased because it's shorter (73) than the minimum (100)
+Sequence 5460|100.0%|rna74 erased because it's shorter (73) than the minimum (100)
+Sequence 5463|*|rna25 erased because it's shorter (71) than the minimum (100)
+Sequence 5464|*|rna41 erased because it's shorter (71) than the minimum (100)
+Sequence 5465|*|rna19 erased because it's shorter (71) than the minimum (100)
+Found 0 sequences longest then 100000 nucleotides, 28 shorter than 100, 0 with more then 20% of Ns. They have been erased only for PORTRAIT. Good sequences are: 5096
+ No other programs will be influenced by this change.
+PORTRAIT CLEAN: completed adaptation of your query file for PORTRAIT!
+Running portrait-1.1.pl...
+..splitting the file in pieces with 5000 sequences...
+
+ The command is: /home/mats/bin/portrait-1.1/portrait-1.1.pl -i sequence.fasta -q 1
+Completed the print the output for the blocks! 
+ Starting with the final piece of 96
+ seqs...
+removed output files...
+Finished Portrait running in	576.874495983124 seconds
+
+
+Wed Oct  5 21:02:48 2016: Running dna2pep...
+The command is: /home/mats/bin/dna2pep-1.1/dna2pep.py -O tab -o none -r all /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/cleanh_Pseudomonas_putida_transcriptome.fasta > /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/dna2pepOut
+s/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/cleanh_Pseudomonas_putida_transcriptome.fasta deleted successfully.
+...DONE!
+DNA2PEP results written on /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/dna2pepOut
+Finished dna2pep running in	60.8725621700287 seconds
+
+Cannot find /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/data/versions.txt
+
+Wed Oct  5 21:03:50 2016: Annocript has finished the execution of 6 programs in: 83527.36328578 seconds
+
+
+ ####################### ############ ########################
+
+
+ ####################### OUTPUT CREATION ########################
+
+Wed Oct  5 21:03:50 2016 
+Annocript is starting the generation of the results table...
+Creating db gffDB_Pseudomonas_put
+Number of seqs in the fasta file: 5124
+
+Number of seqs stored: 5124
+Your fasta file /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/Pseudomonas_putida_transcriptome.fasta has been stored in gffDB_Pseudomonas_put database
+Finished storing sequences in 492.970709085464 seconds
+
+(Wed Oct  5 21:12:03 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE BLASTX (BLASTP) OUTPUT WITH SWISS PROT<<<<<<<<<<<<<<
+A log of the operation will be written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/sp_genesMissingInDB.log
+
+You have 2 output files inside the folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx...
+ Blast output extraction - Algorithm: blastx - Query:  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxSPOut1..
+ -> 1000 -> 2000 -> 3000 -> 4000 -> 5000 
+No errors in the parsing. /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/sp_genesMissingInDB.log will be erased.
+/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/sp_genesMissingInDB.log deleted successfully.
+Finished storing output from blastx against SwissProt in	118.883996009827
+
+(Wed Oct  5 21:14:02 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE BLASTX (BLASTP) OUTPUT WITH UNIREF<<<<<<<<<<<<<<
+A log of the operation will be written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/uniref_genesMissingInDB.log
+
+You have 2 output files inside the folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx...
+ Blast output extraction - Algorithm: blastx - Query:  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastx/blastxUnirefOut1..
+ -> 1000 -> 2000 -> 3000 -> 4000 -> 5000 
+No errors in the parsing. /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/uniref_genesMissingInDB.log will be erased.
+/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/uniref_genesMissingInDB.log deleted successfully.
+Finished storing output from blastx against UniRef in	179.965975046158
+
+(Wed Oct  5 21:17:02 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE RPS BLAST OUTPUT<<<<<<<<<<<<<<
+A log of the operation will be written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log
+
+You have 12 output files inside the folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn...
+ Blast output extraction - Algorithm: rpstblastn - Query:  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut1..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut2..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut3..
+ -> 1000  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut4..
+ -> 2000  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut5..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut6..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut7..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut8..
+ -> 3000  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut9..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut10..
+ -> 4000  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut11..
+  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/rpstblastn/rpstblastnOut12..
+ -> 5000 
+Your blast output rpstblastnOut has been converted in a gff3 file named /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/gff/rpstblastn_out.gff
+GFF3 file for rpstblastn is always created to access data information faster.
+
+No errors in the parsing. /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log will be erased.
+/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log deleted successfully.
+Finished storing output from rpsblast against domains in	208.590167045593 seconds
+Loading gff3 file inside a db named gffDB_Pseudomonas_put...loading /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/gff/rpstblastn_out.gff...
+1000 features loaded in  0.83s ( 0.83s/1000 features)...                                                                                
+2000 features loaded in  1.46s ( 0.64s/1000 features)...                                                                                
+3000 features loaded in  2.21s ( 0.74s/1000 features)...                                                                                
+4000 features loaded in  3.05s ( 0.84s/1000 features)...                                                                                
+5000 features loaded in  3.86s ( 0.81s/1000 features)...                                                                                
+6000 features loaded in  4.66s ( 0.80s/1000 features)...                                                                                
+7000 features loaded in  5.48s ( 0.82s/1000 features)...                                                                                
+8000 features loaded in  6.29s ( 0.82s/1000 features)...                                                                                
+9000 features loaded in  7.14s ( 0.85s/1000 features)...                                                                                
+10000 features loaded in  7.96s ( 0.82s/1000 features)...                                                                                
+11000 features loaded in  8.79s ( 0.83s/1000 features)...                                                                                
+12000 features loaded in  9.66s ( 0.87s/1000 features)...                                                                                
+13000 features loaded in 10.54s ( 0.88s/1000 features)...                                                                                
+14000 features loaded in 11.40s ( 0.86s/1000 features)...                                                                                
+15000 features loaded in 12.23s ( 0.83s/1000 features)...                                                                                
+16000 features loaded in 12.97s ( 0.74s/1000 features)...                                                                                
+17000 features loaded in 13.80s ( 0.83s/1000 features)...                                                                                
+18000 features loaded in 14.67s ( 0.86s/1000 features)...                                                                                
+19000 features loaded in 15.55s ( 0.88s/1000 features)...                                                                                
+20000 features loaded in 16.39s ( 0.85s/1000 features)...                                                                                
+21000 features loaded in 17.26s ( 0.86s/1000 features)...                                                                                
+22000 features loaded in 18.14s ( 0.88s/1000 features)...                                                                                
+23000 features loaded in 19.05s ( 0.91s/1000 features)...                                                                                
+24000 features loaded in 19.98s ( 0.93s/1000 features)...                                                                                
+25000 features loaded in 20.80s ( 0.82s/1000 features)...                                                                                
+26000 features loaded in 21.46s ( 0.66s/1000 features)...                                                                                
+27000 features loaded in 22.12s ( 0.66s/1000 features)...                                                                                
+28000 features loaded in 22.79s ( 0.66s/1000 features)...                                                                                
+29000 features loaded in 23.44s ( 0.66s/1000 features)...                                                                                
+30000 features loaded in 24.11s ( 0.67s/1000 features)...                                                                                
+31000 features loaded in 24.77s ( 0.66s/1000 features)...                                                                                
+32000 features loaded in 25.45s ( 0.68s/1000 features)...                                                                                
+33000 features loaded in 26.13s ( 0.68s/1000 features)...                                                                                
+34000 features loaded in 26.80s ( 0.67s/1000 features)...                                                                                
+35000 features loaded in 27.47s ( 0.67s/1000 features)...                                                                                
+36000 features loaded in 28.15s ( 0.67s/1000 features)...                                                                                
+37000 features loaded in 28.82s ( 0.67s/1000 features)...                                                                                
+38000 features loaded in 29.49s ( 0.67s/1000 features)...                                                                                
+39000 features loaded in 30.20s ( 0.71s/1000 features)...                                                                                
+40000 features loaded in 30.91s ( 0.71s/1000 features)...                                                                                
+41000 features loaded in 31.60s ( 0.69s/1000 features)...                                                                                
+42000 features loaded in 32.32s ( 0.72s/1000 features)...                                                                                
+43000 features loaded in 33.16s ( 0.84s/1000 features)...                                                                                
+44000 features loaded in 34.04s ( 0.88s/1000 features)...                                                                                
+45000 features loaded in 35.16s ( 1.13s/1000 features)...                                                                                
+46000 features loaded in 36.05s ( 0.89s/1000 features)...                                                                                
+47000 features loaded in 36.92s ( 0.87s/1000 features)...                                                                                
+48000 features loaded in 37.81s ( 0.88s/1000 features)...                                                                                
+49000 features loaded in 38.69s ( 0.88s/1000 features)...                                                                                
+50000 features loaded in 39.57s ( 0.89s/1000 features)...                                                                                
+51000 features loaded in 40.45s ( 0.88s/1000 features)...                                                                                
+52000 features loaded in 41.34s ( 0.88s/1000 features)...                                                                                
+53000 features loaded in 42.09s ( 0.76s/1000 features)...                                                                                
+54000 features loaded in 42.80s ( 0.71s/1000 features)...                                                                                
+55000 features loaded in 43.48s ( 0.68s/1000 features)...                                                                                
+56000 features loaded in 44.19s ( 0.71s/1000 features)...                                                                                
+57000 features loaded in 44.88s ( 0.69s/1000 features)...                                                                                
+58000 features loaded in 45.58s ( 0.70s/1000 features)...                                                                                
+58170 features loaded in 45.70s                                                                                Building object tree... 0.00s
+Loading bulk data into database...49.83s
+load time: 95.79s
+total load time: 95.79s
+...DONE!
+Finished generation of GFF3 file in 1.19209289550781e-06 seconds
+
+(Wed Oct  5 21:22:07 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE BLASTN (TBLASTN) OUTPUT<<<<<<<<<<<<<<
+A log of the operation will be written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log
+
+You have 1 output files inside the folder /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn...
+ Blast output extraction - Algorithm: blastn - Query:  
+..Reading (blast) from: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/blastn/blastnOut1..
+ -> 1000 -> 2000 -> 3000 -> 4000 -> 5000 
+No errors in the parsing. /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log will be erased.
+/home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/log/none_genesMissingInDB.log deleted successfully.
+Finished storing output from blastn against ncRNAs in	6.2290358543396 seconds
+
+(Wed Oct  5 21:22:13 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE PORTRAIT OUTPUT<<<<<<<<<<<<<<
+Finished storing output from Portrait in 1.34416317939758 seconds
+
+(Wed Oct  5 21:22:14 2016) >>>>>>>>>>>>>EXTRACTION OF INFO FROM THE DNA2PEP OUTPUT<<<<<<<<<<<<<<
+Finished storing output from dna2pep in	2.78851819038391 seconds
+
+(Wed Oct  5 21:22:20 2016) >>>>>>>>>>>>>GENERATION OF THE TABULAR OUTPUT<<<<<<<<<<<<<<
+Creating the final Annocript output file...
+(5124 sequences) Sequences count: 0 - 1000 - 2000 - 3000 - 4000 - 5000 - DONE! 
+The output has been written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/Pseudomonas_putida_transcriptome_uniref_2016_08_ann_out.txt.
+Finished printing the complete annotation in 596.084112167358 seconds
+I'm writing now ORF informations in a file fasta...please wait......DONE!
+The output has been written on /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/Pseudomonas_putida_transcriptome_uniref_2016_08_orf_info.fasta.
+Finished writing orf informations in 0.183135032653809 seconds
+You don't need any GFF database so gffDB_Pseudomonas_put will be destroyed.
+gffDB_Pseudomonas_put correctly destroyed!
+
+Wed Oct  5 21:32:10 2016 Annocript has finished the creation of the output table in 1699.89692401886 seconds
+
+ ####################### ############ ########################
+
+
+ ####################### STATISTICS CREATION ########################
+
+Wed Oct  5 21:32:10 2016 
+Annocript is starting the generation of the statistics files and web page...
+
+ Now reading the Annocript output table for write statistics...
+Creating a file with the long non-coding RNA sequences and one for the coding selected by Annocript....The path to ann out: /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output/Pseudomonas_putida_transcriptome_uniref_2016_08_ann_out.txt
+..DONE!
+Files with coding sequences and lncRNA have been put in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/output
+Finished writing NC information file in	0.376775026321411 seconds
+Creating an hash for the conserved domains........Completed!
+Starting the loop to extract informations...
+Finished with the creation of the statistics in	6.50870203971863 seconds
+
+Printing stats on a file.. it will need a while...
+A file GO_bp with biological processes percentages has been created...
+A file GO_mf with molecular functions percentages has been created...
+A file GO_cc with cellular components percentages has been created...
+A file GO_dom_bp with biological processes percentages has been created...
+A file GO_dom_mf with molecular functions percentages has been created...
+A file GO_dom_cc with cellular components percentages has been created...
+A file pwl1 with pathways first level percentages has been created...
+A file pwl2 with pathways second level percentages has been created...
+A file pwl3 with pathways third level percentages has been created...
+A file for domains percentages has been created...
+A file for percentages of ATGC has been created...
+File stats_Pseudomonas_putida_transcriptome_uniref_2016_08_filt_ann_out.txt correctly written in /home/mats/ann_works/jobs/Pseudomonas_putida_transcriptome/stats...
+Finished writing an html file with statistics in	19.3300399780273 seconds. It has been stored in stats_Pseudomonas_putida_transcriptome_uniref_2016_08_filt_ann_out.txt
+
+
+Wed Oct  5 21:32:36 2016 Annocript finished the creation of statistics in: 26.2156610488892 seconds
+
+ ####################### ############ ########################
+---->The Annocript is closed...............
+
+
+
+
+ CONFIGURATION FILES USED: 
+
+# File configuration for the user of Annocript
+# READ CAREFULLY!!!
+# This file has been written with a specific sintax. 
+# The variables MUST stay in the format: variable = value
+# A series of hashes (#########) closes the parameters to read
+# Parameters of BLAST programs without a value assigned will not be used (i.e. word_sizeX = )
+# When you want to execute something you have to write YES (in upper case) or NO otherwise
+# other strings will give error.
+##############################
+
+#Allowed characters [A-za-z0-9\_\-]. Allowed extensions (fa|fasta). Please use a dot only to separate the extension!
+fastaSeqs = Pseudomonas_putida_transcriptome.fasta
+
+#organisms to blast ('all' means all the organisms in UniProt are taken)
+#please use 'all' or a file name with organisms names
+#Such file must be placed in your working directory (i.e. ann_works)
+#Selection of the organisms works only if the TrEMBL database is used!
+blastedOrganism = all
+
+#How to extract GO terms: you can choose to extract 
+#for proteins ('proteins'), domains ('domains') or for both ('both')
+goTermsAss = both
+
+#Steps to perform
+doDbCreation = YES
+doExecutePrograms = YES
+doBuildOutput = YES
+extractStatistics = YES
+
+#Analyses to execute
+doBlastxSP = YES
+doBlastxTRorUf = YES
+doRpstblastn = YES
+doBlastn = YES
+doPortrait = YES
+doDna2Pep = YES
+
+#Generation of a GFF database 
+useGFFDB = NO
+#Write YES, if you want GFF output files. Using NO increases the speed.)
+printGFFOutput = NO
+
+#BLASTX and BLASTP PARAMETERS (we use word_size 4 and threshold 18 to reduce computational time)
+#(outfmt can be only 0 with this version of Annocript)
+#Currently you can only use these parameters. Please ask in the forum if you need others.
+word_sizeX = 4
+evalueX = 1E-5
+num_descriptionsX = 5
+num_alignmentsX = 5
+max_target_seqsX =
+num_threadsX = 10
+thresholdX = 18
+matrixX = 
+
+#BLASTN PARAMETERS
+word_sizeN = 
+evalueN = 0.00001
+num_descriptionsN = 1
+num_alignmentsN = 1
+max_target_seqsN =
+num_threadsN = 4
+thresholdN =
+
+#RPSBLAST and RPSTBLASTN PARAMETERS 
+word_sizeRPS = 
+evalueRPS = 0.00001
+num_descriptionsRPS = 20
+num_alignmentsRPS = 20
+max_target_seqsRPS =
+thresholdRPS =
+
+#Number of threads for parallel executions (Used only for RPSBLAST)
+threads4Parallel = 12
+
+#BLAST results with evalue lower than evalMax will be shown in the tabular output
+evalMax = 0.00001
+
+#DNA2PEP PARAMETERS
+d2pMode = none
+
+#PLOTS
+#Number of top scored elements to show in the plots (maximum is 50)
+topToShow = 20
+#Type of plot to show [currently you can use only barplot]
+plotType = barplot
+
+#Thresholds to be non-coding. They guide the heuristic in Annocript
+#Minimum Portrait score
+NCThresh = 0.95
+#Maximum length of the ORF
+NCORFLength = 100
+#Minimum length of the transcript
+NCSeqLength = 200
+
+#FIXED PARAMETERS (You should set only once)#
+
+#Database account info
+mySqlUser = mats
+mySqlPass = saturn
+
+#UNIPROT informations for access
+uniprotWebUser = anonymous
+uniprotWebPass = mats.topel@marine.gu.se
+
+#Programs Paths
+blastPath = /usr/local/bin/
+portraitPath = /home/mats/bin/portrait-1.1/portrait-1.1.pl
+dna2pepPath = /home/mats/bin/dna2pep-1.1/dna2pep.py
+##############################
+
+
+
+
+# File configuration for Annocript
+# It contains parameters that are used very often by Annocript but very rarely by the user. 
+# We collected the parameters in RARELY CHANGED which means that an expert user can decide to change
+# and VERY RARELY CHANGED because it is very rare that an user wants to change
+# READ CAREFULLY!!!
+# This file has been written with a specific sintax. 
+# The variables MUST stay in the form: variable = value
+# A series of hashes (#########) closes the parameters to read
+# When you want to execute something you have to write YES (in upper case) or NO otherwise
+# other strings will give error.
+# THIS FILE SHOULD BE CHANGED ONLY IF YOU KNOW PERFECTLY WHAT YOU ARE DOING!!!
+##############################
+
+
+#RARELY CHANGED PARAMETERS
+#Links to Files
+#Uniprot databases are also present on expasy and ebi. Please use these domains if you want.
+swissprotDBLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
+tremblDBLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz
+uniprotVerLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/reldate.txt
+GODBLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/idmapping_selected.tab.gz
+GOTermsLink = http://www.geneontology.org/doc/GO.terms_alt_ids
+enzymeDBLink = ftp://ftp.expasy.org/databases/enzyme/enzyme.dat
+cdDBLink = ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd/little_endian/Cdd_LE.tar.gz
+rfamDBLink = ftp://ftp.ebi.ac.uk/pub/databases/Rfam/11.0/Rfam.fasta.gz
+unirefDBLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniref/uniref90/uniref90.fasta.gz
+unirefVerLink = ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniref/uniref90/uniref90.release_note
+cdTableLink = ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd/cddid_all.tbl.gz
+pathwaysTableLink = http://www.uniprot.org/docs/pathway.txt
+uniprotOrgListLink = http://www.uniprot.org/docs/speclist.txt
+pfam2GOLink = http://geneontology.org/external2go/pfam2go
+silvaVerLink = ftp://ftp.arb-silva.de/current/README.txt
+silvaLSULink = ftp://ftp.arb-silva.de/current/Exports/SILVA_[VERSION]_LSUParc_tax_silva.fasta.gz
+silvaSSULink = ftp://ftp.arb-silva.de/current/Exports/SILVA_[VERSION]_SSUParc_tax_silva.fasta.gz
+
+#If active (YES) permits to keep in memory all the tables that have been used to generate the database
+#You can use to see if the construction has been well done
+keepTempFiles = YES
+
+#This is a threshold. If you have more than this memory Annocript will use more and be faster.
+bigMemory = 20
+
+#Max tentatives to use when downloading or using some system function
+max_tentatives =  5
+
+#A separator for different results in the same field of the table
+separator = ]---[
+
+#Columns of Uniref ids in the idmapping.tab file
+#The columns start from zero (as for the arrays in PERL)
+uniprotIdPos4Cut = 0
+goPos4Cut = 6
+UniRef100PosIdMap = 7
+UniRef90PosIdMap = 8
+UniRef50PosIdMap = 9
+
+
+#Pathways.txt file from UniProt
+pwFileLinesToJump = 12
+
+#FASTA CONSTRAINTS
+#Maximum number of chars a FASTA file can have
+maxFastaSeqLen = 80
+#Regexes containing IUPAC allowed chars as from the ncbi website
+#http://www.ncbi.nlm.nih.gov/BLAST/blastcgihelp.shtml
+nuclIUPAC = ACGTURYSWKMBDHVN\-
+protIUPAC = ABCDEFGHIKLMNPQRSTUVWYZX\*\-
+
+#PORTRAIT CONSTRAINTS
+#to avoid stochastic interruption of Portrait split the transcriptome in N files
+split_num = 5000
+#Minimum and maximum lengths for a transcriptome to work with Portrait
+max_port_seq_length = 100000
+min_port_seq_length = 100
+#Maximum percentage of Ns that can be present or Portrait will not work
+max_perc_ns = 20
+
+
+##VERY RARELY CHANGED 
+#suffixes given to the output files
+outFileName = ann_out.txt
+outFiltered = filt_ann_out.txt
+ORFFastaFileName = orf_info.fasta 
+NCOutFile = lncRNAseqs.fasta
+codingOutFile = codingSeqs.fasta
+gcContentFile = out.geecee
+
+#Name of the file with non coding sequences
+ncDB = ncRNA.fa
+
+#Modify this value if you want to get plots showing a different domain database ids 
+#Possible values: cdd, cog, kog, pfam, prk, smart, tigr
+cdName4Expression = pfam
+
+#Names of the folders used by Annocript (A change will compromise Annocript)
+DBCreationFolder = DB_CREATION
+ProgExecFolder = PROGRAMS_EXEC
+GFFAndOutputFolder = GFF3_AND_OUTPUT
+usefulFolder = USEFUL
+guideFolder = GUIDE
+configFolder = CONFIGURATION
+
+#Database info
+platform = mysql
+host = localhost
+port = 3306
+
+#Programs output names
+rpstblastnOut = rpstblastnOut
+blastxSPOut = blastxSPOut
+blastxTROut = blastxTROut
+blastxUnirefOut = blastxUnirefOut
+blastnOut = blastnOut
+portraitOut = portraitOut
+dna2pepOut = dna2pepOut
+outCount = countOut
+
+#Other names
+outHashFile = outHashFile.hash
+parsingFilePath = db_headers.txt
+filtMappingFile = filtMappingFile.txt
+R_barplot_script = tables_2_barplot.R
+R_piechart_script = tables_2_pie_chart.R
+R_seqs_stats_script = ann_seqs_stats.R
+R_log_file = R.log
+
+#Database names
+gffDB = gffDB
+
+#Stats output files names
+bpStatsFile = GO_bp
+mfStatsFile = GO_mf
+ccStatsFile = GO_cc
+bpStatsFileDom = GO_dom_bp
+mfStatsFileDom = GO_dom_mf
+ccStatsFileDom = GO_dom_cc
+cdStatsFile = CD
+pathwaysL1File = pwl1
+pathwaysL2File = pwl2
+pathwaysL3File = pwl3
+ATGCPercFile = ATGC_Percentages.txt
+#Here the name should contain the word 'table'
+closerOSFile1 = closer_os_table1
+closerOSFile2 = closer_os_table2
+#Maximum length of descriptions in plots
+maxLengthDescs = 50
+#Database versions
+db_versions_file = db_versions.txt
+versions_file = versions.txt
+
+#BLAST databases names
+swissProtDB = uniprot_sprot.fasta
+tremblDB = uniprot_trembl.fasta
+
+#BLAST output type (you can use only: blast)
+blastOutType = blast
+
+#GFF3 Output file names
+blastxGFF3FileName = blastx_out.gff
+blastxTRGFF3FileName = blastxTremble_out.gff
+blastxSPGFF3FileName = blastxSprot_out.gff
+blastxUnirefGFF3FileName = blastxUniref_out.gff
+rpstblastnGFF3FileName = rpstblastn_out.gff
+blastnGFF3FileName = blastn_out.gff
+nonCodingAlgorithm = portrait
+nonCodingGFF3FileName = portait_out.gff
+orfAlgorithm = dna2pep
+orfGFF3FileName = dna2pep_out.gff
+
+#LOG FILES
+headParsNAValues = headParsNAValues.log
+uniprotGenesNotPresent = genesNotPresent.log
+genesMissingInDB = genesMissingInDB.log
+
+
+#HTML PAGES
+htmlHome = index.html
+htmlAnnotStats = annot_stats.html
+htmlSeqStats = seq_stats.html
+AnnocriptLogo = a_logo.png
+
+#EXTERNAL PROGRAMS
+faSomeRecords = faSomeRecords
+#############################

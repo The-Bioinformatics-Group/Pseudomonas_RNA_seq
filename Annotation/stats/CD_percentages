@@ -1,0 +1,2238 @@
+rowind	cd_id	occurrences	tot_count	description
+0	pfam07690	3.72588157019295	168	pfam07690 MFS_1 Major Facilitator Superfamily. 
+1	pfam03466	3.10490130849412	140	pfam03466 LysR_substrate LysR substrate binding do
+2	pfam00126	1.95165225105345	88	pfam00126 HTH_1 Bacterial regulatory helix-turn-he
+3	pfam00593	1.79640718562874	81	pfam00593 TonB_dep_Rec TonB dependent receptor. Th
+4	pfam00072	1.48591705477933	67	pfam00072 Response_reg Response regulator receiver
+5	pfam02518	1.46373918829009	66	pfam02518 HATPase_c Histidine kinase-, DNA gyrase 
+6	pfam00083	1.33067198935462	60	pfam00083 Sugar_tr Sugar (and other) transporter. 
+7	pfam07715	1.24196052339765	56	pfam07715 Plug TonB-dependent Receptor Plug Domain
+8	pfam00171	1.24196052339765	56	pfam00171 Aldedh Aldehyde dehydrogenase family. Th
+9	pfam00106	1.13107119095143	51	pfam00106 adh_short short chain dehydrogenase. Thi
+10	pfam12833	1.04235972499446	47	pfam12833 HTH_18 Helix-turn-helix domain. 
+11	pfam00990	0.998003992015968	45	pfam00990 GGDEF Diguanylate cyclase, GGDEF domain.
+12	pfam00528	0.887114659569749	40	pfam00528 BPD_transp_1 Binding-protein-dependent t
+13	pfam03573	0.887114659569749	40	pfam03573 OprD outer membrane porin, OprD family. 
+14	pfam01266	0.820581060102018	37	pfam01266 DAO FAD dependent oxidoreductase. This f
+15	pfam13520	0.820581060102018	37	pfam13520 AA_permease_2 Amino acid permease. 
+16	pfam00324	0.798403193612774	36	pfam00324 AA_permease Amino acid permease. 
+17	pfam13347	0.776225327123531	35	pfam13347 MFS_2 MFS/sugar transport protein. This 
+18	pfam00529	0.776225327123531	35	pfam00529 HlyD HlyD membrane-fusion protein of T1S
+19	pfam00015	0.731869594145043	33	pfam00015 MCPsignal Methyl-accepting chemotaxis pr
+20	pfam13437	0.709691727655799	32	pfam13437 HlyD_3 HlyD family secretion protein. Th
+21	pfam00155	0.665335994677312	30	pfam00155 Aminotran_1_2 Aminotransferase class I a
+22	pfam12695	0.643158128188068	29	pfam12695 Abhydrolase_5 Alpha/beta hydrolase famil
+23	pfam00158	0.643158128188068	29	pfam00158 Sigma54_activat Sigma-54 interaction dom
+24	pfam00873	0.598802395209581	27	pfam00873 ACR_tran AcrB/AcrD/AcrF family. Members 
+25	pfam00561	0.598802395209581	27	pfam00561 Abhydrolase_1 alpha/beta hydrolase fold.
+26	pfam00497	0.598802395209581	27	pfam00497 SBP_bac_3 Bacterial extracellular solute
+27	pfam00563	0.598802395209581	27	pfam00563 EAL EAL domain. This domain is found in 
+28	pfam00501	0.576624528720337	26	pfam00501 AMP-binding AMP-binding enzyme. 
+29	pfam00892	0.576624528720337	26	pfam00892 EamA EamA-like transporter family. This 
+30	pfam16576	0.554446662231093	25	pfam16576 HlyD_D23 Barrel-sandwich domain of CusB 
+31	pfam00441	0.554446662231093	25	pfam00441 Acyl-CoA_dh_1 Acyl-CoA dehydrogenase, C-
+32	pfam12697	0.53226879574185	24	pfam12697 Abhydrolase_6 Alpha/beta hydrolase famil
+33	pfam12847	0.53226879574185	24	pfam12847 Methyltransf_18 Methyltransferase domain
+34	pfam00271	0.53226879574185	24	pfam00271 Helicase_C Helicase conserved C-terminal
+35	pfam00296	0.53226879574185	24	pfam00296 Bac_luciferase Luciferase-like monooxyge
+36	pfam01370	0.487913062763362	22	pfam01370 Epimerase NAD dependent epimerase/dehydr
+37	pfam02321	0.487913062763362	22	pfam02321 OEP Outer membrane efflux protein. The O
+38	pfam14905	0.487913062763362	22	pfam14905 OMP_b-brl_3 Outer membrane protein beta-
+39	pfam04773	0.487913062763362	22	pfam04773 FecR FecR protein. FecR is involved in r
+40	pfam00440	0.465735196274118	21	pfam00440 TetR_N Bacterial regulatory proteins, te
+41	pfam00165	0.443557329784875	20	pfam00165 HTH_AraC Bacterial regulatory helix-turn
+42	pfam00392	0.443557329784875	20	pfam00392 GntR Bacterial regulatory proteins, gntR
+43	pfam00890	0.421379463295631	19	pfam00890 FAD_binding_2 FAD binding domain. This f
+44	pfam08281	0.399201596806387	18	pfam08281 Sigma70_r4_2 Sigma-70, region 4. Region 
+45	pfam00672	0.399201596806387	18	pfam00672 HAMP HAMP domain. 
+46	pfam00270	0.399201596806387	18	pfam00270 DEAD DEAD/DEAH box helicase. Members of 
+47	pfam07883	0.399201596806387	18	pfam07883 Cupin_2 Cupin domain. This family repres
+48	pfam04542	0.377023730317144	17	pfam04542 Sigma70_r2 Sigma-70 region 2. Region 2 o
+49	pfam00589	0.377023730317144	17	pfam00589 Phage_integrase Phage integrase family. 
+50	pfam00583	0.377023730317144	17	pfam00583 Acetyltransf_1 Acetyltransferase (GNAT) 
+51	pfam13847	0.377023730317144	17	pfam13847 Methyltransf_31 Methyltransferase domain
+52	pfam01548	0.377023730317144	17	pfam01548 DEDD_Tnp_IS110 Transposase. Transposase 
+53	pfam06779	0.377023730317144	17	pfam06779 MFS_4 uncharacterized MFS-type transport
+54	pfam02770	0.377023730317144	17	pfam02770 Acyl-CoA_dh_M Acyl-CoA dehydrogenase, mi
+55	pfam00202	0.377023730317144	17	pfam00202 Aminotran_3 Aminotransferase class-III. 
+56	pfam02133	0.377023730317144	17	pfam02133 Transp_cyt_pur Permease for cytosine/pur
+57	pfam12146	0.377023730317144	17	pfam12146 Hydrolase_4 Serine aminopeptidase, S33. 
+58	pfam14496	0.3548458638279	16	pfam14496 NEL C-terminal novel E3 ligase, LRR-inte
+59	pfam07992	0.3548458638279	16	pfam07992 Pyr_redox_2 Pyridine nucleotide-disulphi
+60	pfam00702	0.3548458638279	16	pfam00702 Hydrolase haloacid dehalogenase-like hyd
+61	pfam02371	0.3548458638279	16	pfam02371 Transposase_20 Transposase IS116/IS110/I
+62	pfam01381	0.3548458638279	16	pfam01381 HTH_3 Helix-turn-helix. This large famil
+63	pfam16220	0.332667997338656	15	pfam16220 DUF4880 Domain of unknown function (DUF4
+64	pfam00512	0.332667997338656	15	pfam00512 HisKA His Kinase A (phospho-acceptor) do
+65	pfam08242	0.332667997338656	15	pfam08242 Methyltransf_12 Methyltransferase domain
+66	pfam00034	0.332667997338656	15	pfam00034 Cytochrom_C Cytochrome c. The Pfam entry
+67	pfam13533	0.332667997338656	15	pfam13533 Biotin_lipoyl_2 Biotin-lipoyl like. 
+68	pfam01925	0.310490130849412	14	pfam01925 TauE Sulfite exporter TauE/SafE. This is
+69	pfam02771	0.310490130849412	14	pfam02771 Acyl-CoA_dh_N Acyl-CoA dehydrogenase, N-
+70	pfam01810	0.310490130849412	14	pfam01810 LysE LysE type translocator. This family
+71	pfam00120	0.310490130849412	14	pfam00120 Gln-synt_C Glutamine synthetase, catalyt
+72	pfam01037	0.310490130849412	14	pfam01037 AsnC_trans_reg AsnC family. The AsnC fam
+73	pfam13560	0.310490130849412	14	pfam13560 HTH_31 Helix-turn-helix domain. This dom
+74	pfam00860	0.310490130849412	14	pfam00860 Xan_ur_permease Permease family. This fa
+75	pfam16363	0.310490130849412	14	pfam16363 GDP_Man_Dehyd GDP-mannose 4,6 dehydratas
+76	pfam07729	0.310490130849412	14	pfam07729 FCD FCD domain. This domain is the C-ter
+77	pfam00496	0.310490130849412	14	pfam00496 SBP_bac_5 Bacterial extracellular solute
+78	pfam00375	0.288312264360169	13	pfam00375 SDF Sodium:dicarboxylate symporter famil
+79	pfam00999	0.288312264360169	13	pfam00999 Na_H_Exchanger Sodium/hydrogen exchanger
+80	pfam13649	0.288312264360169	13	pfam13649 Methyltransf_25 Methyltransferase domain
+81	pfam13426	0.288312264360169	13	pfam13426 PAS_9 PAS domain. 
+82	pfam08241	0.288312264360169	13	pfam08241 Methyltransf_11 Methyltransferase domain
+83	pfam00724	0.288312264360169	13	pfam00724 Oxidored_FMN NADH:flavin oxidoreductase 
+84	pfam08447	0.288312264360169	13	pfam08447 PAS_3 PAS fold. The PAS fold corresponds
+85	pfam00534	0.288312264360169	13	pfam00534 Glycos_transf_1 Glycosyl transferases gr
+86	pfam00005	0.266134397870925	12	pfam00005 ABC_tran ABC transporter. ABC transporte
+87	pfam00248	0.266134397870925	12	pfam00248 Aldo_ket_red Aldo/keto reductase family.
+88	pfam13416	0.266134397870925	12	pfam13416 SBP_bac_8 Bacterial extracellular solute
+89	pfam00291	0.266134397870925	12	pfam00291 PALP Pyridoxal-phosphate dependent enzym
+90	pfam08448	0.266134397870925	12	pfam08448 PAS_4 PAS fold. The PAS fold corresponds
+91	pfam00196	0.266134397870925	12	pfam00196 GerE Bacterial regulatory proteins, luxR
+92	pfam03600	0.243956531381681	11	pfam03600 CitMHS Citrate transporter. 
+93	pfam13659	0.243956531381681	11	pfam13659 Methyltransf_26 Methyltransferase domain
+94	pfam00293	0.243956531381681	11	pfam00293 NUDIX NUDIX domain. 
+95	pfam13404	0.243956531381681	11	pfam13404 HTH_AsnC-type AsnC-type helix-turn-helix
+96	pfam00924	0.243956531381681	11	pfam00924 MS_channel Mechanosensitive ion channel.
+97	pfam04632	0.243956531381681	11	pfam04632 FUSC Fusaric acid resistance protein fam
+98	pfam07728	0.243956531381681	11	pfam07728 AAA_5 AAA domain (dynein-related subfami
+99	pfam13412	0.243956531381681	11	pfam13412 HTH_24 Winged helix-turn-helix DNA-bindi
+100	pfam00389	0.243956531381681	11	pfam00389 2-Hacid_dh D-isomer specific 2-hydroxyac
+101	pfam02028	0.243956531381681	11	pfam02028 BCCT BCCT, betaine/carnitine/choline fam
+102	pfam12844	0.243956531381681	11	pfam12844 HTH_19 Helix-turn-helix domain. Members 
+103	pfam05954	0.221778664892437	10	pfam05954 Phage_GPD Phage late control gene D prot
+104	pfam13432	0.221778664892437	10	pfam13432 TPR_16 Tetratricopeptide repeat. 
+105	pfam02826	0.221778664892437	10	pfam02826 2-Hacid_dh_C D-isomer specific 2-hydroxy
+106	pfam13450	0.221778664892437	10	pfam13450 NAD_binding_8 NAD(P)-binding Rossmann-li
+107	pfam13442	0.221778664892437	10	pfam13442 Cytochrome_CBB3 Cytochrome C oxidase, cb
+108	pfam11275	0.221778664892437	10	pfam11275 DUF3077 Protein of unknown function (DUF
+109	pfam14559	0.221778664892437	10	pfam14559 TPR_19 Tetratricopeptide repeat. 
+110	pfam00378	0.221778664892437	10	pfam00378 ECH_1 Enoyl-CoA hydratase/isomerase. Thi
+111	pfam13414	0.221778664892437	10	pfam13414 TPR_11 TPR repeat. 
+112	pfam08028	0.221778664892437	10	pfam08028 Acyl-CoA_dh_2 Acyl-CoA dehydrogenase, C-
+113	pfam13489	0.221778664892437	10	pfam13489 Methyltransf_23 Methyltransferase domain
+114	pfam01965	0.221778664892437	10	pfam01965 DJ-1_PfpI DJ-1/PfpI family. The family i
+115	pfam00701	0.199600798403194	9	pfam00701 DHDPS Dihydrodipicolinate synthetase fam
+116	pfam04851	0.199600798403194	9	pfam04851 ResIII Type III restriction enzyme, res 
+117	pfam01557	0.199600798403194	9	pfam01557 FAA_hydrolase Fumarylacetoacetate (FAA) 
+118	pfam00691	0.199600798403194	9	pfam00691 OmpA OmpA family. The Pfam entry also in
+119	pfam00753	0.199600798403194	9	pfam00753 Lactamase_B Metallo-beta-lactamase super
+120	pfam00590	0.199600798403194	9	pfam00590 TP_methylase Tetrapyrrole (Corrin/Porphy
+121	pfam00903	0.199600798403194	9	pfam00903 Glyoxalase Glyoxalase/Bleomycin resistan
+122	pfam12802	0.199600798403194	9	pfam12802 MarR_2 MarR family. The Mar proteins are
+123	pfam13360	0.199600798403194	9	pfam13360 PQQ_2 PQQ-like domain. This domain conta
+124	pfam03061	0.199600798403194	9	pfam03061 4HBT Thioesterase superfamily. This fami
+125	pfam03176	0.199600798403194	9	pfam03176 MMPL MMPL family. Members of this family
+126	pfam13641	0.199600798403194	9	pfam13641 Glyco_tranf_2_3 Glycosyltransferase like
+127	pfam01553	0.199600798403194	9	pfam01553 Acyltransferase Acyltransferase. This fa
+128	pfam00578	0.199600798403194	9	pfam00578 AhpC-TSA AhpC/TSA family. This family co
+129	pfam01575	0.199600798403194	9	pfam01575 MaoC_dehydratas MaoC like domain. The ma
+130	pfam00149	0.199600798403194	9	pfam00149 Metallophos Calcineurin-like phosphoeste
+131	pfam01042	0.199600798403194	9	pfam01042 Ribonuc_L-PSP Endoribonuclease L-PSP. En
+132	pfam06980	0.199600798403194	9	pfam06980 DUF1302 Protein of unknown function (DUF
+133	pfam02525	0.199600798403194	9	pfam02525 Flavodoxin_2 Flavodoxin-like fold. This 
+134	pfam00009	0.199600798403194	9	pfam00009 GTP_EFTU Elongation factor Tu GTP bindin
+135	pfam13419	0.199600798403194	9	pfam13419 HAD_2 Haloacid dehalogenase-like hydrola
+136	pfam02311	0.199600798403194	9	pfam02311 AraC_binding AraC-like ligand binding do
+137	pfam03929	0.199600798403194	9	pfam03929 PepSY_TM PepSY-associated TM region. The
+138	pfam00535	0.199600798403194	9	pfam00535 Glycos_transf_2 Glycosyl transferase fam
+139	pfam05175	0.199600798403194	9	pfam05175 MTS Methyltransferase small domain. This
+140	pfam05199	0.17742293191395	8	pfam05199 GMC_oxred_C GMC oxidoreductase. This dom
+141	pfam00582	0.17742293191395	8	pfam00582 Usp Universal stress protein family. The
+142	pfam09084	0.17742293191395	8	pfam09084 NMT1 NMT1/THI5 like. This family contain
+143	pfam00857	0.17742293191395	8	pfam00857 Isochorismatase Isochorismatase family. 
+144	pfam12806	0.17742293191395	8	pfam12806 Acyl-CoA_dh_C Acetyl-CoA dehydrogenase C
+145	pfam00004	0.17742293191395	8	pfam00004 AAA ATPase family associated with variou
+146	pfam01425	0.17742293191395	8	pfam01425 Amidase Amidase. 
+147	pfam00115	0.17742293191395	8	pfam00115 COX1 Cytochrome C and Quinol oxidase pol
+148	pfam01584	0.17742293191395	8	pfam01584 CheW CheW-like domain. CheW proteins are
+149	pfam01103	0.17742293191395	8	pfam01103 Bac_surface_Ag Surface antigen. This ent
+150	pfam13519	0.17742293191395	8	pfam13519 VWA_2 von Willebrand factor type A domai
+151	pfam01546	0.17742293191395	8	pfam01546 Peptidase_M20 Peptidase family M20/M25/M
+152	pfam01593	0.17742293191395	8	pfam01593 Amino_oxidase Flavin containing amine ox
+153	pfam12625	0.17742293191395	8	pfam12625 Arabinose_bd Arabinose-binding domain of
+154	pfam00206	0.17742293191395	8	pfam00206 Lyase_1 Lyase. 
+155	pfam13632	0.17742293191395	8	pfam13632 Glyco_trans_2_3 Glycosyl transferase fam
+156	pfam00989	0.17742293191395	8	pfam00989 PAS PAS fold. The PAS fold corresponds t
+157	pfam00717	0.17742293191395	8	pfam00717 Peptidase_S24 Peptidase S24-like. 
+158	pfam00330	0.17742293191395	8	pfam00330 Aconitase Aconitase family (aconitate hy
+159	pfam01053	0.17742293191395	8	pfam01053 Cys_Met_Meta_PP Cys/Met metabolizm PLP-d
+160	pfam00482	0.17742293191395	8	pfam00482 T2SSF Type II secretion system (T2SS), p
+161	pfam13343	0.17742293191395	8	pfam13343 SBP_bac_6 Bacterial extracellular solute
+162	pfam00884	0.17742293191395	8	pfam00884 Sulfatase Sulfatase. 
+163	pfam00263	0.17742293191395	8	pfam00263 Secretin Bacterial type II and III secre
+164	pfam02737	0.17742293191395	8	pfam02737 3HCDH_N 3-hydroxyacyl-CoA dehydrogenase,
+165	pfam00483	0.17742293191395	8	pfam00483 NTP_transferase Nucleotidyl transferase.
+166	pfam00916	0.17742293191395	8	pfam00916 Sulfate_transp Sulfate permease family. 
+167	pfam01012	0.17742293191395	8	pfam01012 ETF Electron transfer flavoprotein domai
+168	pfam00668	0.17742293191395	8	pfam00668 Condensation Condensation domain. This d
+169	pfam13508	0.155245065424706	7	pfam13508 Acetyltransf_7 Acetyltransferase (GNAT) 
+170	pfam01979	0.155245065424706	7	pfam01979 Amidohydro_1 Amidohydrolase family. This
+171	pfam13417	0.155245065424706	7	pfam13417 GST_N_3 Glutathione S-transferase, N-ter
+172	pfam03741	0.155245065424706	7	pfam03741 TerC Integral membrane protein TerC fami
+173	pfam00881	0.155245065424706	7	pfam00881 Nitroreductase Nitroreductase family. Th
+174	pfam00920	0.155245065424706	7	pfam00920 ILVD_EDD Dehydratase family. 
+175	pfam13411	0.155245065424706	7	pfam13411 MerR_1 MerR HTH family regulatory protei
+176	pfam03553	0.155245065424706	7	pfam03553 Na_H_antiporter Na+/H+ antiporter family
+177	pfam05488	0.155245065424706	7	pfam05488 PAAR_motif PAAR motif. This motif is fou
+178	pfam03797	0.155245065424706	7	pfam03797 Autotransporter Autotransporter beta-dom
+179	pfam04069	0.155245065424706	7	pfam04069 OpuAC Substrate binding domain of ABC-ty
+180	pfam01494	0.155245065424706	7	pfam01494 FAD_binding_3 FAD binding domain. This d
+181	pfam00474	0.155245065424706	7	pfam00474 SSF Sodium:solute symporter family. This
+182	pfam04966	0.155245065424706	7	pfam04966 OprB Carbohydrate-selective porin, OprB 
+183	pfam02423	0.155245065424706	7	pfam02423 OCD_Mu_crystall Ornithine cyclodeaminase
+184	pfam05638	0.155245065424706	7	pfam05638 T6SS_HCP Type VI secretion system effect
+185	pfam01047	0.155245065424706	7	pfam01047 MarR MarR family. The Mar proteins are i
+186	pfam12838	0.155245065424706	7	pfam12838 Fer4_7 4Fe-4S dicluster domain. Superfam
+187	pfam00850	0.155245065424706	7	pfam00850 Hist_deacetyl Histone deacetylase domain
+188	pfam04055	0.155245065424706	7	pfam04055 Radical_SAM Radical SAM superfamily. Rad
+189	pfam08534	0.155245065424706	7	pfam08534 Redoxin Redoxin. This family of redoxins
+190	pfam01804	0.155245065424706	7	pfam01804 Penicil_amidase Penicillin amidase. Peni
+191	pfam02776	0.155245065424706	7	pfam02776 TPP_enzyme_N Thiamine pyrophosphate enzy
+192	pfam13855	0.155245065424706	7	pfam13855 LRR_8 Leucine rich repeat. 
+193	pfam03958	0.155245065424706	7	pfam03958 Secretin_N Bacterial type II/III secreti
+194	pfam12681	0.155245065424706	7	pfam12681 Glyoxalase_2 Glyoxalase-like domain. Thi
+195	pfam00355	0.155245065424706	7	pfam00355 Rieske Rieske [2Fe-2S] domain. The riesk
+196	pfam01565	0.155245065424706	7	pfam01565 FAD_binding_4 FAD binding domain. This f
+197	pfam00437	0.155245065424706	7	pfam00437 T2SSE Type II/IV secretion system protei
+198	pfam01571	0.155245065424706	7	pfam01571 GCV_T Aminomethyltransferase folate-bind
+199	pfam01261	0.155245065424706	7	pfam01261 AP_endonuc_2 Xylose isomerase-like TIM b
+200	pfam00486	0.155245065424706	7	pfam00486 Trans_reg_C Transcriptional regulatory p
+201	pfam09850	0.155245065424706	7	pfam09850 DotU Type VI secretion system protein Do
+202	pfam00710	0.133067198935462	6	pfam00710 Asparaginase Asparaginase. 
+203	pfam13183	0.133067198935462	6	pfam13183 Fer4_8 4Fe-4S dicluster domain. Superfam
+204	pfam00092	0.133067198935462	6	pfam00092 VWA von Willebrand factor type A domain.
+205	pfam05598	0.133067198935462	6	pfam05598 DUF772 Transposase domain (DUF772). This
+206	pfam07969	0.133067198935462	6	pfam07969 Amidohydro_3 Amidohydrolase family. 
+207	pfam00926	0.133067198935462	6	pfam00926 DHBP_synthase 3,4-dihydroxy-2-butanone 4
+208	pfam00580	0.133067198935462	6	pfam00580 UvrD-helicase UvrD/REP helicase N-termin
+209	pfam13409	0.133067198935462	6	pfam13409 GST_N_2 Glutathione S-transferase, N-ter
+210	pfam02492	0.133067198935462	6	pfam02492 cobW CobW/HypB/UreG, nucleotide-binding 
+211	pfam01545	0.133067198935462	6	pfam01545 Cation_efflux Cation efflux family. Memb
+212	pfam14331	0.133067198935462	6	pfam14331 ImcF-related_N ImcF-related N-terminal d
+213	pfam02668	0.133067198935462	6	pfam02668 TauD Taurine catabolism dioxygenase TauD
+214	pfam00596	0.133067198935462	6	pfam00596 Aldolase_II Class II Aldolase and Adduci
+215	pfam03157	0.133067198935462	6	pfam03157 Glutenin_hmw High molecular weight glute
+216	pfam12710	0.133067198935462	6	pfam12710 HAD haloacid dehalogenase-like hydrolase
+217	pfam02515	0.133067198935462	6	pfam02515 CoA_transf_3 CoA-transferase family III.
+218	pfam13557	0.133067198935462	6	pfam13557 Phenol_MetA_deg Putative MetA-pathway of
+219	pfam01656	0.133067198935462	6	pfam01656 CbiA CobQ/CobB/MinD/ParA nucleotide bind
+220	pfam01464	0.133067198935462	6	pfam01464 SLT Transglycosylase SLT domain. This fa
+221	pfam00795	0.133067198935462	6	pfam00795 CN_hydrolase Carbon-nitrogen hydrolase. 
+222	pfam06808	0.133067198935462	6	pfam06808 DctM Tripartite ATP-independent periplas
+223	pfam05899	0.133067198935462	6	pfam05899 Cupin_3 Protein of unknown function (DUF
+224	pfam16344	0.133067198935462	6	pfam16344 DUF4974 Domain of unknown function (DUF4
+225	pfam02347	0.133067198935462	6	pfam02347 GDC-P Glycine cleavage system P-protein.
+226	pfam13609	0.133067198935462	6	pfam13609 Porin_4 Gram-negative porin. 
+227	pfam12706	0.133067198935462	6	pfam12706 Lactamase_B_2 Beta-lactamase superfamily
+228	pfam13673	0.133067198935462	6	pfam13673 Acetyltransf_10 Acetyltransferase (GNAT)
+229	pfam05930	0.133067198935462	6	pfam05930 Phage_AlpA Prophage CP4-57 regulatory pr
+230	pfam00254	0.133067198935462	6	pfam00254 FKBP_C FKBP-type peptidyl-prolyl cis-tra
+231	pfam07683	0.133067198935462	6	pfam07683 CobW_C Cobalamin synthesis protein cobW 
+232	pfam13515	0.133067198935462	6	pfam13515 FUSC_2 Fusaric acid resistance protein-l
+233	pfam09498	0.133067198935462	6	pfam09498 DUF2388 Protein of unknown function (DUF
+234	pfam13751	0.133067198935462	6	pfam13751 DDE_Tnp_1_6 Transposase DDE domain. Tran
+235	pfam00725	0.133067198935462	6	pfam00725 3HCDH 3-hydroxyacyl-CoA dehydrogenase, C
+236	pfam05936	0.133067198935462	6	pfam05936 T6SS_VasE Bacterial Type VI secretion, V
+237	pfam00551	0.133067198935462	6	pfam00551 Formyl_trans_N Formyl transferase. This 
+238	pfam01618	0.133067198935462	6	pfam01618 MotA_ExbB MotA/TolQ/ExbB proton channel 
+239	pfam05973	0.133067198935462	6	pfam05973 Gp49 Phage derived protein Gp49-like (DU
+240	pfam02738	0.133067198935462	6	pfam02738 Ald_Xan_dh_C2 Molybdopterin-binding doma
+241	pfam00122	0.133067198935462	6	pfam00122 E1-E2_ATPase E1-E2 ATPase. 
+242	pfam07724	0.133067198935462	6	pfam07724 AAA_2 AAA domain (Cdc48 subfamily). This
+243	pfam02630	0.133067198935462	6	pfam02630 SCO1-SenC SCO1/SenC. This family is invo
+244	pfam03372	0.133067198935462	6	pfam03372 Exo_endo_phos Endonuclease/Exonuclease/p
+245	pfam00313	0.133067198935462	6	pfam00313 CSD 'Cold-shock' DNA-binding domain. 
+246	pfam02781	0.133067198935462	6	pfam02781 G6PD_C Glucose-6-phosphate dehydrogenase
+247	pfam02913	0.133067198935462	6	pfam02913 FAD-oxidase_C FAD linked oxidases, C-ter
+248	pfam10101	0.110889332446219	5	pfam10101 DUF2339 Predicted membrane protein (DUF2
+249	pfam03527	0.110889332446219	5	pfam03527 RHS RHS protein. 
+250	pfam02566	0.110889332446219	5	pfam02566 OsmC OsmC-like protein. Osmotically indu
+251	pfam08548	0.110889332446219	5	pfam08548 Peptidase_M10_C Peptidase M10 serralysin
+252	pfam07044	0.110889332446219	5	pfam07044 DUF1329 Protein of unknown function (DUF
+253	pfam02615	0.110889332446219	5	pfam02615 Ldh_2 Malate/L-lactate dehydrogenase. Th
+254	pfam14525	0.110889332446219	5	pfam14525 AraC_binding_2 AraC-binding-like domain.
+255	pfam02417	0.110889332446219	5	pfam02417 Chromate_transp Chromate transporter. Me
+256	pfam13458	0.110889332446219	5	pfam13458 Peripla_BP_6 Periplasmic binding protein
+257	pfam04371	0.110889332446219	5	pfam04371 PAD_porph Porphyromonas-type peptidyl-ar
+258	pfam02538	0.110889332446219	5	pfam02538 Hydantoinase_B Hydantoinase B/oxoprolina
+259	pfam12792	0.110889332446219	5	pfam12792 CSS-motif CSS motif domain associated wi
+260	pfam02627	0.110889332446219	5	pfam02627 CMD Carboxymuconolactone decarboxylase f
+261	pfam06945	0.110889332446219	5	pfam06945 DUF1289 Protein of unknown function (DUF
+262	pfam03358	0.110889332446219	5	pfam03358 FMN_red NADPH-dependent FMN reductase. 
+263	pfam02080	0.110889332446219	5	pfam02080 TrkA_C TrkA-C domain. This domain is oft
+264	pfam13593	0.110889332446219	5	pfam13593 SBF_like SBF-like CPA transporter family
+265	pfam09606	0.110889332446219	5	pfam09606 Med15 ARC105 or Med15 subunit of Mediato
+266	pfam08501	0.110889332446219	5	pfam08501 Shikimate_dh_N Shikimate dehydrogenase s
+267	pfam01926	0.110889332446219	5	pfam01926 MMR_HSR1 50S ribosome-binding GTPase. Th
+268	pfam05593	0.110889332446219	5	pfam05593 RHS_repeat RHS Repeat. RHS proteins cont
+269	pfam01968	0.110889332446219	5	pfam01968 Hydantoinase_A Hydantoinase/oxoprolinase
+270	pfam01339	0.110889332446219	5	pfam01339 CheB_methylest CheB methylesterase. 
+271	pfam00577	0.110889332446219	5	pfam00577 Usher Outer membrane usher protein. In G
+272	pfam07702	0.110889332446219	5	pfam07702 UTRA UTRA domain. The UbiC transcription
+273	pfam01757	0.110889332446219	5	pfam01757 Acyl_transf_3 Acyltransferase family. Th
+274	pfam01032	0.110889332446219	5	pfam01032 FecCD FecCD transport family. This is a 
+275	pfam10282	0.110889332446219	5	pfam10282 Lactonase Lactonase, 7-bladed beta-prope
+276	pfam00266	0.110889332446219	5	pfam00266 Aminotran_5 Aminotransferase class-V. Th
+277	pfam10976	0.110889332446219	5	pfam10976 DUF2790 Protein of unknown function (DUF
+278	pfam04295	0.110889332446219	5	pfam04295 GD_AH_C D-galactarate dehydratase / Altr
+279	pfam00111	0.110889332446219	5	pfam00111 Fer2 2Fe-2S iron-sulfur cluster binding 
+280	pfam00144	0.110889332446219	5	pfam00144 Beta-lactamase Beta-lactamase. This fami
+281	pfam00929	0.110889332446219	5	pfam00929 RNase_T Exonuclease. This family include
+282	pfam02470	0.110889332446219	5	pfam02470 MlaD MlaD protein. This family of protei
+283	pfam13372	0.110889332446219	5	pfam13372 Alginate_exp Alginate export. This domai
+284	pfam13531	0.110889332446219	5	pfam13531 SBP_bac_11 Bacterial extracellular solut
+285	pfam00909	0.110889332446219	5	pfam00909 Ammonium_transp Ammonium Transporter Fam
+286	pfam00465	0.110889332446219	5	pfam00465 Fe-ADH Iron-containing alcohol dehydroge
+287	pfam04303	0.110889332446219	5	pfam04303 PrpF PrpF protein. PrpF is a protein fou
+288	pfam09339	0.110889332446219	5	pfam09339 HTH_IclR IclR helix-turn-helix domain. 
+289	pfam06761	0.110889332446219	5	pfam06761 IcmF-related Intracellular multiplicatio
+290	pfam13510	0.110889332446219	5	pfam13510 Fer2_4 2Fe-2S iron-sulfur cluster bindin
+291	pfam00557	0.110889332446219	5	pfam00557 Peptidase_M24 Metallopeptidase family M2
+292	pfam00848	0.110889332446219	5	pfam00848 Ring_hydroxyl_A Ring hydroxylating alpha
+293	pfam07722	0.110889332446219	5	pfam07722 Peptidase_C26 Peptidase C26. These pepti
+294	pfam08482	0.110889332446219	5	pfam08482 HrpB_C ATP-dependent helicase C-terminal
+295	pfam01645	0.110889332446219	5	pfam01645 Glu_synthase Conserved region in glutama
+296	pfam01039	0.110889332446219	5	pfam01039 Carboxyl_trans Carboxyl transferase doma
+297	pfam01739	0.110889332446219	5	pfam01739 CheR CheR methyltransferase, SAM binding
+298	pfam00156	0.110889332446219	5	pfam00156 Pribosyltran Phosphoribosyl transferase 
+299	pfam13378	0.110889332446219	5	pfam13378 MR_MLE_C Enolase C-terminal domain-like.
+300	pfam12680	0.110889332446219	5	pfam12680 SnoaL_2 SnoaL-like domain. This family c
+301	pfam13356	0.110889332446219	5	pfam13356 DUF4102 Domain of unknown function (DUF4
+302	pfam01527	0.110889332446219	5	pfam01527 HTH_Tnp_1 Transposase. Transposase prote
+303	pfam03315	0.110889332446219	5	pfam03315 SDH_beta Serine dehydratase beta chain. 
+304	pfam00300	0.110889332446219	5	pfam00300 His_Phos_1 Histidine phosphatase superfa
+305	pfam00575	0.110889332446219	5	pfam00575 S1 S1 RNA binding domain. The S1 domain 
+306	pfam02626	0.110889332446219	5	pfam02626 AHS2 Allophanate hydrolase subunit 2. Th
+307	pfam01594	0.110889332446219	5	pfam01594 UPF0118 Domain of unknown function DUF20
+308	pfam02743	0.110889332446219	5	pfam02743 Cache_1 Cache domain. 
+309	pfam01212	0.110889332446219	5	pfam01212 Beta_elim_lyase Beta-eliminating lyase. 
+310	pfam04403	0.110889332446219	5	pfam04403 PqiA Paraquat-inducible protein A. Paraq
+311	pfam04408	0.110889332446219	5	pfam04408 HA2 Helicase associated domain (HA2). Th
+312	pfam13361	0.110889332446219	5	pfam13361 UvrD_C UvrD-like helicase C-terminal dom
+313	pfam00550	0.110889332446219	5	pfam00550 PP-binding Phosphopantetheine attachment
+314	pfam00732	0.110889332446219	5	pfam00732 GMC_oxred_N GMC oxidoreductase. This fam
+315	pfam12729	0.110889332446219	5	pfam12729 4HB_MCP_1 Four helix bundle sensory modu
+316	pfam00905	0.110889332446219	5	pfam00905 Transpeptidase Penicillin binding protei
+317	pfam08362	0.110889332446219	5	pfam08362 TetR_C_3 YcdC-like protein, C-terminal r
+318	pfam00108	0.110889332446219	5	pfam00108 Thiolase_N Thiolase, N-terminal domain. 
+319	pfam00675	0.110889332446219	5	pfam00675 Peptidase_M16 Insulinase (Peptidase fami
+320	pfam00581	0.110889332446219	5	pfam00581 Rhodanese Rhodanese-like domain. Rhodane
+321	pfam08669	0.110889332446219	5	pfam08669 GCV_T_C Glycine cleavage T-protein C-ter
+322	pfam01073	0.110889332446219	5	pfam01073 3Beta_HSD 3-beta hydroxysteroid dehydrog
+323	pfam00664	0.110889332446219	5	pfam00664 ABC_membrane ABC transporter transmembra
+324	pfam00912	0.110889332446219	5	pfam00912 Transgly Transglycosylase. The penicilli
+325	pfam03594	0.110889332446219	5	pfam03594 BenE Benzoate membrane transport protein
+326	pfam00775	0.110889332446219	5	pfam00775 Dioxygenase_C Dioxygenase. 
+327	pfam13424	0.110889332446219	5	pfam13424 TPR_12 Tetratricopeptide repeat. 
+328	pfam10712	0.110889332446219	5	pfam10712 NAD-GH NAD-specific glutamate dehydrogen
+329	pfam00127	0.0887114659569749	4	pfam00127 Copper-bind Copper binding proteins, pla
+330	pfam00459	0.0887114659569749	4	pfam00459 Inositol_P Inositol monophosphatase fami
+331	pfam00953	0.0887114659569749	4	pfam00953 Glycos_transf_4 Glycosyl transferase fam
+332	pfam05362	0.0887114659569749	4	pfam05362 Lon_C Lon protease (S16) C-terminal prot
+333	pfam03313	0.0887114659569749	4	pfam03313 SDH_alpha Serine dehydratase alpha chain
+334	pfam00364	0.0887114659569749	4	pfam00364 Biotin_lipoyl Biotin-requiring enzyme. T
+335	pfam00210	0.0887114659569749	4	pfam00210 Ferritin Ferritin-like domain. This fami
+336	pfam13953	0.0887114659569749	4	pfam13953 PapC_C PapC C-terminal domain. The PapC 
+337	pfam12974	0.0887114659569749	4	pfam12974 Phosphonate-bd ABC transporter, phosphon
+338	pfam01026	0.0887114659569749	4	pfam01026 TatD_DNase TatD related DNase. This fami
+339	pfam03976	0.0887114659569749	4	pfam03976 PPK2 Polyphosphate kinase 2 (PPK2). Inor
+340	pfam01613	0.0887114659569749	4	pfam01613 Flavin_Reduct Flavin reductase like doma
+341	pfam03486	0.0887114659569749	4	pfam03486 HI0933_like HI0933-like protein. 
+342	pfam02798	0.0887114659569749	4	pfam02798 GST_N Glutathione S-transferase, N-termi
+343	pfam02780	0.0887114659569749	4	pfam02780 Transketolase_C Transketolase, C-termina
+344	pfam04972	0.0887114659569749	4	pfam04972 BON BON domain. This domain is found in 
+345	pfam05138	0.0887114659569749	4	pfam05138 PaaA_PaaC Phenylacetic acid catabolic pr
+346	pfam00994	0.0887114659569749	4	pfam00994 MoCF_biosynth Probable molybdopterin bin
+347	pfam05378	0.0887114659569749	4	pfam05378 Hydant_A_N Hydantoinase/oxoprolinase N-t
+348	pfam01292	0.0887114659569749	4	pfam01292 Ni_hydr_CYTB Prokaryotic cytochrome b561
+349	pfam05229	0.0887114659569749	4	pfam05229 SCPU Spore Coat Protein U domain. This d
+350	pfam04321	0.0887114659569749	4	pfam04321 RmlD_sub_bind RmlD substrate binding dom
+351	pfam08450	0.0887114659569749	4	pfam08450 SGL SMP-30/Gluconolaconase/LRE-like regi
+352	pfam00033	0.0887114659569749	4	pfam00033 Cytochrome_B Cytochrome b/b6/petB. 
+353	pfam16957	0.0887114659569749	4	pfam16957 Mal_decarbox_Al Malonate decarboxylase, 
+354	pfam01244	0.0887114659569749	4	pfam01244 Peptidase_M19 Membrane dipeptidase (Pept
+355	pfam03720	0.0887114659569749	4	pfam03720 UDPG_MGDP_dh_C UDP-glucose/GDP-mannose d
+356	pfam00908	0.0887114659569749	4	pfam00908 dTDP_sugar_isom dTDP-4-dehydrorhamnose 3
+357	pfam00199	0.0887114659569749	4	pfam00199 Catalase Catalase. 
+358	pfam07732	0.0887114659569749	4	pfam07732 Cu-oxidase_3 Multicopper oxidase. This e
+359	pfam08245	0.0887114659569749	4	pfam08245 Mur_ligase_M Mur ligase middle domain. 
+360	pfam08240	0.0887114659569749	4	pfam08240 ADH_N Alcohol dehydrogenase GroES-like d
+361	pfam08666	0.0887114659569749	4	pfam08666 SAF SAF domain. This domain family inclu
+362	pfam02779	0.0887114659569749	4	pfam02779 Transket_pyr Transketolase, pyrimidine b
+363	pfam05048	0.0887114659569749	4	pfam05048 NosD Periplasmic copper-binding protein 
+364	pfam01408	0.0887114659569749	4	pfam01408 GFO_IDH_MocA Oxidoreductase family, NAD-
+365	pfam05947	0.0887114659569749	4	pfam05947 T6SS_VipB Type VI secretion system, ImpG
+366	pfam16591	0.0887114659569749	4	pfam16591 HBM Helical bimodular sensor domain. The
+367	pfam01346	0.0887114659569749	4	pfam01346 FKBP_N Domain amino terminal to FKBP-typ
+368	pfam00027	0.0887114659569749	4	pfam00027 cNMP_binding Cyclic nucleotide-binding d
+369	pfam01515	0.0887114659569749	4	pfam01515 PTA_PTB Phosphate acetyl/butaryl transfe
+370	pfam00771	0.0887114659569749	4	pfam00771 FHIPEP FHIPEP family. 
+371	pfam01144	0.0887114659569749	4	pfam01144 CoA_trans Coenzyme A transferase. 
+372	pfam11663	0.0887114659569749	4	pfam11663 Toxin_YhaV Toxin with endonuclease activ
+373	pfam00462	0.0887114659569749	4	pfam00462 Glutaredoxin Glutaredoxin. 
+374	pfam13535	0.0887114659569749	4	pfam13535 ATP-grasp_4 ATP-grasp domain. This famil
+375	pfam00849	0.0887114659569749	4	pfam00849 PseudoU_synth_2 RNA pseudouridylate synt
+376	pfam01497	0.0887114659569749	4	pfam01497 Peripla_BP_2 Periplasmic binding protein
+377	pfam01274	0.0887114659569749	4	pfam01274 Malate_synthase Malate synthase. 
+378	pfam13410	0.0887114659569749	4	pfam13410 GST_C_2 Glutathione S-transferase, C-ter
+379	pfam01070	0.0887114659569749	4	pfam01070 FMN_dh FMN-dependent dehydrogenase. 
+380	pfam00128	0.0887114659569749	4	pfam00128 Alpha-amylase Alpha amylase, catalytic d
+381	pfam02678	0.0887114659569749	4	pfam02678 Pirin Pirin. This family consists of Pir
+382	pfam02687	0.0887114659569749	4	pfam02687 FtsX FtsX-like permease family. This is 
+383	pfam03471	0.0887114659569749	4	pfam03471 CorC_HlyC Transporter associated domain.
+384	pfam01695	0.0887114659569749	4	pfam01695 IstB_IS21 IstB-like ATP binding protein.
+385	pfam13434	0.0887114659569749	4	pfam13434 K_oxygenase L-lysine 6-monooxygenase (NA
+386	pfam13379	0.0887114659569749	4	pfam13379 NMT1_2 NMT1-like family. This family is 
+387	pfam02719	0.0887114659569749	4	pfam02719 Polysacc_synt_2 Polysaccharide biosynthe
+388	pfam13237	0.0887114659569749	4	pfam13237 Fer4_10 4Fe-4S dicluster domain. This fa
+389	pfam00571	0.0887114659569749	4	pfam00571 CBS CBS domain. CBS domains are small in
+390	pfam13354	0.0887114659569749	4	pfam13354 Beta-lactamase2 Beta-lactamase enzyme fa
+391	pfam03814	0.0887114659569749	4	pfam03814 KdpA Potassium-transporting ATPase A sub
+392	pfam02583	0.0887114659569749	4	pfam02583 Trns_repr_metal Metal-sensitive transcri
+393	pfam13392	0.0887114659569749	4	pfam13392 HNH_3 HNH endonuclease. This is a zinc-b
+394	pfam08668	0.0887114659569749	4	pfam08668 HDOD HDOD domain. 
+395	pfam01551	0.0887114659569749	4	pfam01551 Peptidase_M23 Peptidase family M23. Memb
+396	pfam13091	0.0887114659569749	4	pfam13091 PLDc_2 PLD-like domain. 
+397	pfam02784	0.0887114659569749	4	pfam02784 Orn_Arg_deC_N Pyridoxal-dependent decarb
+398	pfam01118	0.0887114659569749	4	pfam01118 Semialdhyde_dh Semialdehyde dehydrogenas
+399	pfam10672	0.0887114659569749	4	pfam10672 Methyltrans_SAM S-adenosylmethionine-dep
+400	pfam01734	0.0887114659569749	4	pfam01734 Patatin Patatin-like phospholipase. This
+401	pfam00925	0.0887114659569749	4	pfam00925 GTP_cyclohydro2 GTP cyclohydrolase II. G
+402	pfam16750	0.0887114659569749	4	pfam16750 HK_sensor Sensor domain of 2-component h
+403	pfam00521	0.0887114659569749	4	pfam00521 DNA_topoisoIV DNA gyrase/topoisomerase I
+404	pfam01312	0.0887114659569749	4	pfam01312 Bac_export_2 FlhB HrpN YscU SpaS Family.
+405	pfam00255	0.0887114659569749	4	pfam00255 GSHPx Glutathione peroxidase. 
+406	pfam00491	0.0887114659569749	4	pfam00491 Arginase Arginase family. 
+407	pfam13463	0.0887114659569749	4	pfam13463 HTH_27 Winged helix DNA-binding domain. 
+408	pfam04116	0.0887114659569749	4	pfam04116 FA_hydroxylase Fatty acid hydroxylase su
+409	pfam03721	0.0887114659569749	4	pfam03721 UDPG_MGDP_dh_N UDP-glucose/GDP-mannose d
+410	pfam08494	0.0887114659569749	4	pfam08494 DEAD_assoc DEAD/H associated. This domai
+411	pfam05193	0.0887114659569749	4	pfam05193 Peptidase_M16_C Peptidase M16 inactive d
+412	pfam03746	0.0887114659569749	4	pfam03746 LamB_YcsF LamB/YcsF family. This family 
+413	pfam06609	0.0887114659569749	4	pfam06609 TRI12 Fungal trichothecene efflux pump (
+414	pfam03969	0.0887114659569749	4	pfam03969 AFG1_ATPase AFG1-like ATPase. This famil
+415	pfam13692	0.0887114659569749	4	pfam13692 Glyco_trans_1_4 Glycosyl transferases gr
+416	pfam01569	0.0887114659569749	4	pfam01569 PAP2 PAP2 superfamily. This family inclu
+417	pfam01235	0.0887114659569749	4	pfam01235 Na_Ala_symp Sodium:alanine symporter fam
+418	pfam09048	0.0887114659569749	4	pfam09048 Cro Cro. Members of this family are invo
+419	pfam00109	0.0887114659569749	4	pfam00109 ketoacyl-synt Beta-ketoacyl synthase, N-
+420	pfam13191	0.0887114659569749	4	pfam13191 AAA_16 AAA ATPase domain. This family of
+421	pfam01758	0.0887114659569749	4	pfam01758 SBF Sodium Bile acid symporter family. T
+422	pfam02472	0.0887114659569749	4	pfam02472 ExbD Biopolymer transport protein ExbD/T
+423	pfam00793	0.0887114659569749	4	pfam00793 DAHP_synth_1 DAHP synthetase I family. M
+424	pfam01636	0.0887114659569749	4	pfam01636 APH Phosphotransferase enzyme family. Th
+425	pfam13302	0.0887114659569749	4	pfam13302 Acetyltransf_3 Acetyltransferase (GNAT) 
+426	pfam11075	0.0887114659569749	4	pfam11075 DUF2780 Protein of unknown function VcgC
+427	pfam13229	0.0887114659569749	4	pfam13229 Beta_helix Right handed beta helix regio
+428	pfam04333	0.0887114659569749	4	pfam04333 MlaA MlaA lipoprotein. MlaA is a compone
+429	pfam01614	0.0887114659569749	4	pfam01614 IclR Bacterial transcriptional regulator
+430	pfam00133	0.0665335994677312	3	pfam00133 tRNA-synt_1 tRNA synthetases class I (I,
+431	pfam13620	0.0665335994677312	3	pfam13620 CarboxypepD_reg Carboxypeptidase regulat
+432	pfam01323	0.0665335994677312	3	pfam01323 DSBA DSBA-like thioredoxin domain. This 
+433	pfam01578	0.0665335994677312	3	pfam01578 Cytochrom_C_asm Cytochrome C assembly pr
+434	pfam04341	0.0665335994677312	3	pfam04341 DUF485 Protein of unknown function, DUF4
+435	pfam02900	0.0665335994677312	3	pfam02900 LigB Catalytic LigB subunit of aromatic 
+436	pfam01380	0.0665335994677312	3	pfam01380 SIS SIS domain. SIS (Sugar ISomerase) do
+437	pfam01970	0.0665335994677312	3	pfam01970 TctA Tripartite tricarboxylate transport
+438	pfam03328	0.0665335994677312	3	pfam03328 HpcH_HpaI HpcH/HpaI aldolase/citrate lya
+439	pfam01474	0.0665335994677312	3	pfam01474 DAHP_synth_2 Class-II DAHP synthetase fa
+440	pfam01040	0.0665335994677312	3	pfam01040 UbiA UbiA prenyltransferase family. 
+441	pfam04002	0.0665335994677312	3	pfam04002 RadC RadC-like JAB domain. A family of p
+442	pfam00070	0.0665335994677312	3	pfam00070 Pyr_redox Pyridine nucleotide-disulphide
+443	pfam01832	0.0665335994677312	3	pfam01832 Glucosaminidase Mannosyl-glycoprotein en
+444	pfam14579	0.0665335994677312	3	pfam14579 HHH_6 Helix-hairpin-helix motif. The HHH
+445	pfam02548	0.0665335994677312	3	pfam02548 Pantoate_transf Ketopantoate hydroxymeth
+446	pfam02754	0.0665335994677312	3	pfam02754 CCG Cysteine-rich domain. The key elemen
+447	pfam00012	0.0665335994677312	3	pfam00012 HSP70 Hsp70 protein. Hsp70 chaperones he
+448	pfam03544	0.0665335994677312	3	pfam03544 TonB_C Gram-negative bacterial TonB prot
+449	pfam13279	0.0665335994677312	3	pfam13279 4HBT_2 Thioesterase-like superfamily. Th
+450	pfam13646	0.0665335994677312	3	pfam13646 HEAT_2 HEAT repeats. This family include
+451	pfam10765	0.0665335994677312	3	pfam10765 DUF2591 Protein of unknown function (DUF
+452	pfam00698	0.0665335994677312	3	pfam00698 Acyl_transf_1 Acyl transferase domain. 
+453	pfam13484	0.0665335994677312	3	pfam13484 Fer4_16 4Fe-4S double cluster binding do
+454	pfam01478	0.0665335994677312	3	pfam01478 Peptidase_A24 Type IV leader peptidase f
+455	pfam00749	0.0665335994677312	3	pfam00749 tRNA-synt_1c tRNA synthetases class I (E
+456	pfam14351	0.0665335994677312	3	pfam14351 DUF4401 Domain of unknown function (DUF4
+457	pfam11162	0.0665335994677312	3	pfam11162 DUF2946 Protein of unknown function (DUF
+458	pfam13714	0.0665335994677312	3	pfam13714 PEP_mutase Phosphoenolpyruvate phosphomu
+459	pfam06039	0.0665335994677312	3	pfam06039 Mqo Malate:quinone oxidoreductase (Mqo).
+460	pfam00180	0.0665335994677312	3	pfam00180 Iso_dh Isocitrate/isopropylmalate dehydr
+461	pfam06965	0.0665335994677312	3	pfam06965 Na_H_antiport_1 Na+/H+ antiporter 1. Thi
+462	pfam04172	0.0665335994677312	3	pfam04172 LrgB LrgB-like family. The two products 
+463	pfam05591	0.0665335994677312	3	pfam05591 T6SS_VipA Type VI secretion system, VipA
+464	pfam02543	0.0665335994677312	3	pfam02543 Carbam_trans_N Carbamoyltransferase N-te
+465	pfam13454	0.0665335994677312	3	pfam13454 NAD_binding_9 FAD-NAD(P)-binding. 
+466	pfam01148	0.0665335994677312	3	pfam01148 CTP_transf_1 Cytidylyltransferase family
+467	pfam13098	0.0665335994677312	3	pfam13098 Thioredoxin_2 Thioredoxin-like domain. 
+468	pfam02397	0.0665335994677312	3	pfam02397 Bac_transf Bacterial sugar transferase. 
+469	pfam12852	0.0665335994677312	3	pfam12852 Cupin_6 Cupin. This is a family of bacte
+470	pfam02386	0.0665335994677312	3	pfam02386 TrkH Cation transport protein. This fami
+471	pfam06472	0.0665335994677312	3	pfam06472 ABC_membrane_2 ABC transporter transmemb
+472	pfam01852	0.0665335994677312	3	pfam01852 START START domain. 
+473	pfam01242	0.0665335994677312	3	pfam01242 PTPS 6-pyruvoyl tetrahydropterin synthas
+474	pfam02653	0.0665335994677312	3	pfam02653 BPD_transp_2 Branched-chain amino acid t
+475	pfam03695	0.0665335994677312	3	pfam03695 UPF0149 uncharacterized protein family (
+476	pfam13614	0.0665335994677312	3	pfam13614 AAA_31 AAA domain. This family includes 
+477	pfam01297	0.0665335994677312	3	pfam01297 ZnuA Zinc-uptake complex component A per
+478	pfam00586	0.0665335994677312	3	pfam00586 AIRS AIR synthase related protein, N-ter
+479	pfam01180	0.0665335994677312	3	pfam01180 DHO_dh Dihydroorotate dehydrogenase. 
+480	pfam01225	0.0665335994677312	3	pfam01225 Mur_ligase Mur ligase family, catalytic 
+481	pfam04444	0.0665335994677312	3	pfam04444 Dioxygenase_N Catechol dioxygenase N ter
+482	pfam02800	0.0665335994677312	3	pfam02800 Gp_dh_C Glyceraldehyde 3-phosphate dehyd
+483	pfam03060	0.0665335994677312	3	pfam03060 NMO Nitronate monooxygenase. Nitronate m
+484	pfam03796	0.0665335994677312	3	pfam03796 DnaB_C DnaB-like helicase C terminal dom
+485	pfam13280	0.0665335994677312	3	pfam13280 WYL WYL domain. This presumed domain is 
+486	pfam01272	0.0665335994677312	3	pfam01272 GreA_GreB Transcription elongation facto
+487	pfam02322	0.0665335994677312	3	pfam02322 Cyt_bd_oxida_II Cytochrome bd terminal o
+488	pfam01476	0.0665335994677312	3	pfam01476 LysM LysM domain. The LysM (lysin motif)
+489	pfam15919	0.0665335994677312	3	pfam15919 HicB_lk_antitox HicB_like antitoxin of b
+490	pfam12794	0.0665335994677312	3	pfam12794 MscS_TM Mechanosensitive ion channel inn
+491	pfam01077	0.0665335994677312	3	pfam01077 NIR_SIR Nitrite and sulphite reductase 4
+492	pfam01738	0.0665335994677312	3	pfam01738 DLH Dienelactone hydrolase family. 
+493	pfam06463	0.0665335994677312	3	pfam06463 Mob_synth_C Molybdenum Cofactor Synthesi
+494	pfam07885	0.0665335994677312	3	pfam07885 Ion_trans_2 Ion channel. This family inc
+495	pfam01740	0.0665335994677312	3	pfam01740 STAS STAS domain. The STAS (after Sulpha
+496	pfam13460	0.0665335994677312	3	pfam13460 NAD_binding_10 NAD(P)H-binding. 
+497	pfam02274	0.0665335994677312	3	pfam02274 Amidinotransf Amidinotransferase. This f
+498	pfam13534	0.0665335994677312	3	pfam13534 Fer4_17 4Fe-4S dicluster domain. This fa
+499	pfam09950	0.0665335994677312	3	pfam09950 DUF2184 Uncharacterized protein conserve
+500	pfam00464	0.0665335994677312	3	pfam00464 SHMT Serine hydroxymethyltransferase. 
+501	pfam13503	0.0665335994677312	3	pfam13503 DUF4123 Domain of unknown function (DUF4
+502	pfam16861	0.0665335994677312	3	pfam16861 Carbam_trans_C Carbamoyltransferase C-te
+503	pfam03098	0.0665335994677312	3	pfam03098 An_peroxidase Animal haem peroxidase. 
+504	pfam06744	0.0665335994677312	3	pfam06744 IcmF_C Type VI secretion protein IcmF C-
+505	pfam03992	0.0665335994677312	3	pfam03992 ABM Antibiotic biosynthesis monooxygenas
+506	pfam01882	0.0665335994677312	3	pfam01882 DUF58 Protein of unknown function DUF58.
+507	pfam06977	0.0665335994677312	3	pfam06977 SdiA-regulated SdiA-regulated. This fami
+508	pfam06719	0.0665335994677312	3	pfam06719 AraC_N AraC-type transcriptional regulat
+509	pfam03352	0.0665335994677312	3	pfam03352 Adenine_glyco Methyladenine glycosylase.
+510	pfam00085	0.0665335994677312	3	pfam00085 Thioredoxin Thioredoxin. Thioredoxins ar
+511	pfam07995	0.0665335994677312	3	pfam07995 GSDH Glucose / Sorbosone dehydrogenase. 
+512	pfam03180	0.0665335994677312	3	pfam03180 Lipoprotein_9 NLPA lipoprotein. This fam
+513	pfam00625	0.0665335994677312	3	pfam00625 Guanylate_kin Guanylate kinase. 
+514	pfam02163	0.0665335994677312	3	pfam02163 Peptidase_M50 Peptidase family M50. 
+515	pfam02239	0.0665335994677312	3	pfam02239 Cytochrom_D1 Cytochrome D1 heme domain. 
+516	pfam05170	0.0665335994677312	3	pfam05170 AsmA AsmA family. The AsmA gene, whose p
+517	pfam02599	0.0665335994677312	3	pfam02599 CsrA Global regulator protein family. Th
+518	pfam01590	0.0665335994677312	3	pfam01590 GAF GAF domain. This domain is present i
+519	pfam01796	0.0665335994677312	3	pfam01796 OB_aCoA_assoc DUF35 OB-fold domain, acyl
+520	pfam00813	0.0665335994677312	3	pfam00813 FliP FliP family. 
+521	pfam13740	0.0665335994677312	3	pfam13740 ACT_6 ACT domain. ACT domains bind to am
+522	pfam01500	0.0665335994677312	3	pfam01500 Keratin_B2 Keratin, high sulfur B2 prote
+523	pfam01124	0.0665335994677312	3	pfam01124 MAPEG MAPEG family. This family is has b
+524	pfam14316	0.0665335994677312	3	pfam14316 DUF4381 Domain of unknown function (DUF4
+525	pfam04095	0.0665335994677312	3	pfam04095 NAPRTase Nicotinate phosphoribosyltransf
+526	pfam03601	0.0665335994677312	3	pfam03601 Cons_hypoth698 Conserved hypothetical pr
+527	pfam02254	0.0665335994677312	3	pfam02254 TrkA_N TrkA-N domain. This domain is fou
+528	pfam01514	0.0665335994677312	3	pfam01514 YscJ_FliF Secretory protein of YscJ/FliF
+529	pfam02896	0.0665335994677312	3	pfam02896 PEP-utilizers_C PEP-utilizing enzyme, TI
+530	pfam01523	0.0665335994677312	3	pfam01523 PmbA_TldD Putative modulator of DNA gyra
+531	pfam01946	0.0665335994677312	3	pfam01946 Thi4 Thi4 family. This family includes S
+532	pfam12799	0.0665335994677312	3	pfam12799 LRR_4 Leucine Rich repeats (2 copies). L
+533	pfam10415	0.0665335994677312	3	pfam10415 FumaraseC_C Fumarase C C-terminus. Fumar
+534	pfam01627	0.0665335994677312	3	pfam01627 Hpt Hpt domain. The histidine-containing
+535	pfam00176	0.0665335994677312	3	pfam00176 SNF2_N SNF2 family N-terminal domain. Th
+536	pfam10150	0.0665335994677312	3	pfam10150 RNase_E_G Ribonuclease E/G family. Ribon
+537	pfam02774	0.0665335994677312	3	pfam02774 Semialdhyde_dhC Semialdehyde dehydrogena
+538	pfam06930	0.0665335994677312	3	pfam06930 DUF1282 Protein of unknown function (DUF
+539	pfam00479	0.0665335994677312	3	pfam00479 G6PD_N Glucose-6-phosphate dehydrogenase
+540	pfam11769	0.0665335994677312	3	pfam11769 DUF3313 Protein of unknown function (DUF
+541	pfam13328	0.0665335994677312	3	pfam13328 HD_4 HD domain. HD domains are metal dep
+542	pfam01327	0.0665335994677312	3	pfam01327 Pep_deformylase Polypeptide deformylase.
+543	pfam13671	0.0665335994677312	3	pfam13671 AAA_33 AAA domain. This family of domain
+544	pfam07733	0.0665335994677312	3	pfam07733 DNA_pol3_alpha Bacterial DNA polymerase 
+545	pfam06938	0.0665335994677312	3	pfam06938 DUF1285 Protein of unknown function (DUF
+546	pfam05232	0.0665335994677312	3	pfam05232 BTP Chlorhexidine efflux transporter. Th
+547	pfam12801	0.0665335994677312	3	pfam12801 Fer4_5 4Fe-4S binding domain. Superfamil
+548	pfam03641	0.0665335994677312	3	pfam03641 Lysine_decarbox Possible lysine decarbox
+549	pfam04073	0.0665335994677312	3	pfam04073 tRNA_edit Aminoacyl-tRNA editing domain.
+550	pfam02581	0.0665335994677312	3	pfam02581 TMP-TENI Thiamine monophosphate synthase
+551	pfam02308	0.0665335994677312	3	pfam02308 MgtC MgtC family. The MgtC protein is fo
+552	pfam07859	0.0665335994677312	3	pfam07859 Abhydrolase_3 alpha/beta hydrolase fold.
+553	pfam14696	0.0665335994677312	3	pfam14696 Glyoxalase_5 Hydroxyphenylpyruvate dioxy
+554	pfam05766	0.0665335994677312	3	pfam05766 NinG Bacteriophage Lambda NinG protein. 
+555	pfam02667	0.0665335994677312	3	pfam02667 SCFA_trans Short chain fatty acid transp
+556	pfam01488	0.0665335994677312	3	pfam01488 Shikimate_DH Shikimate / quinate 5-dehyd
+557	pfam13584	0.0665335994677312	3	pfam13584 BatD Oxygen tolerance. This family of pr
+558	pfam04893	0.0665335994677312	3	pfam04893 Yip1 Yip1 domain. The Yip1 integral memb
+559	pfam02127	0.0665335994677312	3	pfam02127 Peptidase_M18 Aminopeptidase I zinc meta
+560	pfam01653	0.0665335994677312	3	pfam01653 DNA_ligase_aden NAD-dependent DNA ligase
+561	pfam03070	0.0665335994677312	3	pfam03070 TENA_THI-4 TENA/THI-4/PQQC family. Membe
+562	pfam07731	0.0665335994677312	3	pfam07731 Cu-oxidase_2 Multicopper oxidase. This e
+563	pfam13544	0.0665335994677312	3	pfam13544 N_methyl_2 Type IV pilin N-term methylat
+564	pfam00117	0.0665335994677312	3	pfam00117 GATase Glutamine amidotransferase class-
+565	pfam01555	0.0665335994677312	3	pfam01555 N6_N4_Mtase DNA methylase. Members of th
+566	pfam03781	0.0665335994677312	3	pfam03781 FGE-sulfatase Sulfatase-modifying factor
+567	pfam01726	0.0665335994677312	3	pfam01726 LexA_DNA_bind LexA DNA binding domain. T
+568	pfam01035	0.0665335994677312	3	pfam01035 DNA_binding_1 6-O-methylguanine DNA meth
+569	pfam01220	0.0665335994677312	3	pfam01220 DHquinase_II Dehydroquinase class II. 
+570	pfam13429	0.0665335994677312	3	pfam13429 TPR_15 Tetratricopeptide repeat. 
+571	pfam00682	0.0665335994677312	3	pfam00682 HMGL-like HMGL-like. This family contain
+572	pfam12172	0.0665335994677312	3	pfam12172 DUF35_N Rubredoxin-like zinc ribbon doma
+573	pfam00239	0.0665335994677312	3	pfam00239 Resolvase Resolvase, N terminal domain. 
+574	pfam13087	0.0665335994677312	3	pfam13087 AAA_12 AAA domain. This family of domain
+575	pfam00694	0.0665335994677312	3	pfam00694 Aconitase_C Aconitase C-terminal domain.
+576	pfam01435	0.0665335994677312	3	pfam01435 Peptidase_M48 Peptidase family M48. Pept
+577	pfam07978	0.0665335994677312	3	pfam07978 NIPSNAP NIPSNAP. Members of this family 
+578	pfam05618	0.0665335994677312	3	pfam05618 Zn_protease Putative ATP-dependant zinc 
+579	pfam06996	0.0665335994677312	3	pfam06996 T6SS_VasB Type VI secretion, VasB, ImpH,
+580	pfam02729	0.0665335994677312	3	pfam02729 OTCace_N Aspartate/ornithine carbamoyltr
+581	pfam05145	0.0665335994677312	3	pfam05145 AmoA Putative ammonia monooxygenase. Thi
+582	pfam09278	0.0665335994677312	3	pfam09278 MerR-DNA-bind MerR, DNA binding. Members
+583	pfam12804	0.0665335994677312	3	pfam12804 NTP_transf_3 MobA-like NTP transferase d
+584	pfam07726	0.0665335994677312	3	pfam07726 AAA_3 ATPase family associated with vari
+585	pfam05857	0.0665335994677312	3	pfam05857 TraX TraX protein. This family consists 
+586	pfam01384	0.0665335994677312	3	pfam01384 PHO4 Phosphate transporter family. This 
+587	pfam02595	0.0665335994677312	3	pfam02595 Gly_kinase Glycerate kinase family. This
+588	pfam03349	0.0665335994677312	3	pfam03349 Toluene_X Outer membrane protein transpo
+589	pfam00902	0.0665335994677312	3	pfam00902 TatC Sec-independent protein translocase
+590	pfam00484	0.0665335994677312	3	pfam00484 Pro_CA Carbonic anhydrase. This family i
+591	pfam05957	0.0665335994677312	3	pfam05957 DUF883 Bacterial protein of unknown func
+592	pfam13746	0.0665335994677312	3	pfam13746 Fer4_18 4Fe-4S dicluster domain. This fa
+593	pfam14870	0.0665335994677312	3	pfam14870 PSII_BNR Photosynthesis system II assemb
+594	pfam11379	0.0665335994677312	3	pfam11379 DUF3182 Protein of unknown function (DUF
+595	pfam00984	0.0665335994677312	3	pfam00984 UDPG_MGDP_dh UDP-glucose/GDP-mannose deh
+596	pfam13500	0.0665335994677312	3	pfam13500 AAA_26 AAA domain. This domain is found 
+597	pfam01207	0.0665335994677312	3	pfam01207 Dus Dihydrouridine synthase (Dus). Membe
+598	pfam00044	0.0665335994677312	3	pfam00044 Gp_dh_N Glyceraldehyde 3-phosphate dehyd
+599	pfam13545	0.0665335994677312	3	pfam13545 HTH_Crp_2 Crp-like helix-turn-helix doma
+600	pfam02092	0.0665335994677312	3	pfam02092 tRNA_synt_2f Glycyl-tRNA synthetase beta
+601	pfam07238	0.0665335994677312	3	pfam07238 PilZ PilZ domain. PilZ is a c-di-GMP bin
+602	pfam16822	0.0665335994677312	3	pfam16822 ALGX SGNH hydrolase-like domain, acetylt
+603	pfam13622	0.0665335994677312	3	pfam13622 4HBT_3 Thioesterase-like superfamily. Th
+604	pfam00817	0.0665335994677312	3	pfam00817 IMS impB/mucB/samB family. These protein
+605	pfam11896	0.0665335994677312	3	pfam11896 DUF3416 Domain of unknown function (DUF3
+606	pfam05016	0.0665335994677312	3	pfam05016 ParE_toxin ParE toxin of type II toxin-a
+607	pfam03737	0.0665335994677312	3	pfam03737 Methyltransf_6 Demethylmenaquinone methy
+608	pfam03692	0.0665335994677312	3	pfam03692 CxxCxxCC Putative zinc- or iron-chelatin
+609	pfam00766	0.0665335994677312	3	pfam00766 ETF_alpha Electron transfer flavoprotein
+610	pfam07869	0.0665335994677312	3	pfam07869 DUF1656 Protein of unknown function (DUF
+611	pfam06821	0.0665335994677312	3	pfam06821 Ser_hydrolase Serine hydrolase. Members 
+612	pfam02366	0.0665335994677312	3	pfam02366 PMT Dolichyl-phosphate-mannose-protein m
+613	pfam00950	0.0665335994677312	3	pfam00950 ABC-3 ABC 3 transport family. 
+614	pfam04355	0.0665335994677312	3	pfam04355 SmpA_OmlA SmpA / OmlA family. Lipoprotei
+615	pfam00893	0.0665335994677312	3	pfam00893 Multi_Drug_Res Small Multidrug Resistanc
+616	pfam00975	0.0665335994677312	3	pfam00975 Thioesterase Thioesterase domain. Peptid
+617	pfam13452	0.0665335994677312	3	pfam13452 MaoC_dehydrat_N N-terminal half of MaoC 
+618	pfam02811	0.0665335994677312	3	pfam02811 PHP PHP domain. The PHP (Polymerase and 
+619	pfam12860	0.0665335994677312	3	pfam12860 PAS_7 PAS fold. The PAS fold corresponds
+620	pfam02558	0.0665335994677312	3	pfam02558 ApbA Ketopantoate reductase PanE/ApbA. T
+621	pfam01799	0.0665335994677312	3	pfam01799 Fer2_2 [2Fe-2S] binding domain. 
+622	pfam05118	0.0665335994677312	3	pfam05118 Asp_Arg_Hydrox Aspartyl/Asparaginyl beta
+623	pfam00436	0.0665335994677312	3	pfam00436 SSB Single-strand binding protein family
+624	pfam13231	0.0665335994677312	3	pfam13231 PMT_2 Dolichyl-phosphate-mannose-protein
+625	pfam02769	0.0665335994677312	3	pfam02769 AIRS_C AIR synthase related protein, C-t
+626	pfam01145	0.0665335994677312	3	pfam01145 Band_7 SPFH domain / Band 7 family. This
+627	pfam13406	0.0665335994677312	3	pfam13406 SLT_2 Transglycosylase SLT domain. This 
+628	pfam03928	0.0665335994677312	3	pfam03928 Haem_degrading Haem-degrading. Haem_bdg 
+629	pfam14346	0.0665335994677312	3	pfam14346 DUF4398 Domain of unknown function (DUF4
+630	pfam08546	0.0665335994677312	3	pfam08546 ApbA_C Ketopantoate reductase PanE/ApbA 
+631	pfam06155	0.0443557329784875	2	pfam06155 DUF971 Protein of unknown function (DUF9
+632	pfam13245	0.0443557329784875	2	pfam13245 AAA_19 Part of AAA domain. 
+633	pfam03818	0.0443557329784875	2	pfam03818 MadM Malonate/sodium symporter MadM subu
+634	pfam02657	0.0443557329784875	2	pfam02657 SufE Fe-S metabolizm associated domain. 
+635	pfam09346	0.0443557329784875	2	pfam09346 SMI1_KNR4 SMI1 / KNR4 family (SUKH-1). P
+636	pfam06649	0.0443557329784875	2	pfam06649 DUF1161 Protein of unknown function (DUF
+637	pfam01510	0.0443557329784875	2	pfam01510 Amidase_2 N-acetylmuramoyl-L-alanine ami
+638	pfam01467	0.0443557329784875	2	pfam01467 CTP_transf_like Cytidylyltransferase-lik
+639	pfam08446	0.0443557329784875	2	pfam08446 PAS_2 PAS fold. The PAS fold corresponds
+640	pfam13590	0.0443557329784875	2	pfam13590 DUF4136 Domain of unknown function (DUF4
+641	pfam09928	0.0443557329784875	2	pfam09928 DUF2160 Predicted small integral membran
+642	pfam13669	0.0443557329784875	2	pfam13669 Glyoxalase_4 Glyoxalase/Bleomycin resist
+643	pfam13905	0.0443557329784875	2	pfam13905 Thioredoxin_8 Thioredoxin-like. Thioredo
+644	pfam12276	0.0443557329784875	2	pfam12276 DUF3617 Protein of unknown function (DUF
+645	pfam00226	0.0443557329784875	2	pfam00226 DnaJ DnaJ domain. DnaJ domains (J-domain
+646	pfam03023	0.0443557329784875	2	pfam03023 MVIN MviN-like protein. Deletion of the 
+647	pfam03435	0.0443557329784875	2	pfam03435 Sacchrp_dh_NADP Saccharopine dehydrogena
+648	pfam02812	0.0443557329784875	2	pfam02812 ELFV_dehydrog_N Glu/Leu/Phe/Val dehydrog
+649	pfam02540	0.0443557329784875	2	pfam02540 NAD_synthase NAD synthase. NAD synthase 
+650	pfam00639	0.0443557329784875	2	pfam00639 Rotamase PPIC-type PPIASE domain. Rotama
+651	pfam01580	0.0443557329784875	2	pfam01580 FtsK_SpoIIIE FtsK/SpoIIIE family. FtsK h
+652	pfam07080	0.0443557329784875	2	pfam07080 DUF1348 Protein of unknown function (DUF
+653	pfam02823	0.0443557329784875	2	pfam02823 ATP-synt_DE_N ATP synthase, Delta/Epsilo
+654	pfam12730	0.0443557329784875	2	pfam12730 ABC2_membrane_4 ABC-2 family transporter
+655	pfam14622	0.0443557329784875	2	pfam14622 Ribonucleas_3_3 Ribonuclease-III-like. M
+656	pfam03616	0.0443557329784875	2	pfam03616 Glt_symporter Sodium/glutamate symporter
+657	pfam13187	0.0443557329784875	2	pfam13187 Fer4_9 4Fe-4S dicluster domain. 
+658	pfam03734	0.0443557329784875	2	pfam03734 YkuD L,D-transpeptidase catalytic domain
+659	pfam08541	0.0443557329784875	2	pfam08541 ACP_syn_III_C 3-Oxoacyl-[acyl-carrier-pr
+660	pfam05726	0.0443557329784875	2	pfam05726 Pirin_C Pirin C-terminal cupin domain. T
+661	pfam12698	0.0443557329784875	2	pfam12698 ABC2_membrane_3 ABC-2 family transporter
+662	pfam01263	0.0443557329784875	2	pfam01263 Aldose_epim Aldose 1-epimerase. 
+663	pfam00198	0.0443557329784875	2	pfam00198 2-oxoacid_dh 2-oxoacid dehydrogenases ac
+664	pfam01136	0.0443557329784875	2	pfam01136 Peptidase_U32 Peptidase family U32. 
+665	pfam11982	0.0443557329784875	2	pfam11982 DUF3483 Domain of unknown function (DUF3
+666	pfam05717	0.0443557329784875	2	pfam05717 TnpB_IS66 IS66 Orf2 like protein. This p
+667	pfam05840	0.0443557329784875	2	pfam05840 Phage_GPA Bacteriophage replication gene
+668	pfam00351	0.0443557329784875	2	pfam00351 Biopterin_H Biopterin-dependent aromatic
+669	pfam02786	0.0443557329784875	2	pfam02786 CPSase_L_D2 Carbamoyl-phosphate synthase
+670	pfam05114	0.0443557329784875	2	pfam05114 DUF692 Protein of unknown function (DUF6
+671	pfam12848	0.0443557329784875	2	pfam12848 ABC_tran_Xtn ABC transporter. This domai
+672	pfam08206	0.0443557329784875	2	pfam08206 OB_RNB Ribonuclease B OB domain. This fa
+673	pfam13303	0.0443557329784875	2	pfam13303 PTS_EIIC_2 Phosphotransferase system, EI
+674	pfam06325	0.0443557329784875	2	pfam06325 PrmA Ribosomal protein L11 methyltransfe
+675	pfam08291	0.0443557329784875	2	pfam08291 Peptidase_M15_3 Peptidase M15. 
+676	pfam03819	0.0443557329784875	2	pfam03819 MazG MazG nucleotide pyrophosphohydrolas
+677	pfam01139	0.0443557329784875	2	pfam01139 RtcB tRNA-splicing ligase RtcB. This fam
+678	pfam11700	0.0443557329784875	2	pfam11700 ATG22 Vacuole effluxer Atg22 like. Autop
+679	pfam07433	0.0443557329784875	2	pfam07433 DUF1513 Protein of unknown function (DUF
+680	pfam02606	0.0443557329784875	2	pfam02606 LpxK Tetraacyldisaccharide-1-P 4'-kinase
+681	pfam01612	0.0443557329784875	2	pfam01612 DNA_pol_A_exo1 3'-5' exonuclease. This d
+682	pfam04463	0.0443557329784875	2	pfam04463 DUF523 Protein of unknown function (DUF5
+683	pfam00136	0.0443557329784875	2	pfam00136 DNA_pol_B DNA polymerase family B. This 
+684	pfam12849	0.0443557329784875	2	pfam12849 PBP_like_2 PBP superfamily domain. This 
+685	pfam13582	0.0443557329784875	2	pfam13582 Reprolysin_3 Metallo-peptidase family M1
+686	pfam06293	0.0443557329784875	2	pfam06293 Kdo Lipopolysaccharide kinase (Kdo/WaaP)
+687	pfam06450	0.0443557329784875	2	pfam06450 NhaB Bacterial Na+/H+ antiporter B (NhaB
+688	pfam01068	0.0443557329784875	2	pfam01068 DNA_ligase_A_M ATP dependent DNA ligase 
+689	pfam03279	0.0443557329784875	2	pfam03279 Lip_A_acyltrans Bacterial lipid A biosyn
+690	pfam04138	0.0443557329784875	2	pfam04138 GtrA GtrA-like protein. Members of this 
+691	pfam00290	0.0443557329784875	2	pfam00290 Trp_syntA Tryptophan synthase alpha chai
+692	pfam13744	0.0443557329784875	2	pfam13744 HTH_37 Helix-turn-helix domain. Members 
+693	pfam11182	0.0443557329784875	2	pfam11182 AlgF Alginate O-acetyl transferase AlgF.
+694	pfam10982	0.0443557329784875	2	pfam10982 DUF2789 Protein of unknown function (DUF
+695	pfam03942	0.0443557329784875	2	pfam03942 DTW DTW domain. This presumed domain is 
+696	pfam02746	0.0443557329784875	2	pfam02746 MR_MLE_N Mandelate racemase / muconate l
+697	pfam00899	0.0443557329784875	2	pfam00899 ThiF ThiF family. This domain is found i
+698	pfam03960	0.0443557329784875	2	pfam03960 ArsC ArsC family. This family is related
+699	pfam12826	0.0443557329784875	2	pfam12826 HHH_2 Helix-hairpin-helix motif. The HhH
+700	pfam01709	0.0443557329784875	2	pfam01709 Transcrip_reg Transcriptional regulator.
+701	pfam13335	0.0443557329784875	2	pfam13335 Mg_chelatase_C Magnesium chelatase, subu
+702	pfam00768	0.0443557329784875	2	pfam00768 Peptidase_S11 D-alanyl-D-alanine carboxy
+703	pfam13090	0.0443557329784875	2	pfam13090 PP_kinase_C Polyphosphate kinase C-termi
+704	pfam12831	0.0443557329784875	2	pfam12831 FAD_oxidored FAD dependent oxidoreductas
+705	pfam09003	0.0443557329784875	2	pfam09003 Phage_integ_N Bacteriophage lambda integ
+706	pfam01321	0.0443557329784875	2	pfam01321 Creatinase_N Creatinase/Prolidase N-term
+707	pfam00773	0.0443557329784875	2	pfam00773 RNB RNB domain. This domain is the catal
+708	pfam06250	0.0443557329784875	2	pfam06250 DUF1016 Protein of unknown function (DUF
+709	pfam13180	0.0443557329784875	2	pfam13180 PDZ_2 PDZ domain. 
+710	pfam00425	0.0443557329784875	2	pfam00425 Chorismate_bind chorismate binding enzym
+711	pfam05036	0.0443557329784875	2	pfam05036 SPOR Sporulation related domain. This 70
+712	pfam11139	0.0443557329784875	2	pfam11139 SfLAP Sap, sulfolipid-1-addressing prote
+713	pfam01547	0.0443557329784875	2	pfam01547 SBP_bac_1 Bacterial extracellular solute
+714	pfam01243	0.0443557329784875	2	pfam01243 Pyridox_oxidase Pyridoxamine 5'-phosphat
+715	pfam08443	0.0443557329784875	2	pfam08443 RimK RimK-like ATP-grasp domain. This AT
+716	pfam14450	0.0443557329784875	2	pfam14450 FtsA Cell division protein FtsA. FtsA is
+717	pfam06912	0.0443557329784875	2	pfam06912 DUF1275 Protein of unknown function (DUF
+718	pfam07520	0.0443557329784875	2	pfam07520 SrfB Virulence factor SrfB. This family 
+719	pfam01019	0.0443557329784875	2	pfam01019 G_glu_transpept Gamma-glutamyltranspepti
+720	pfam03924	0.0443557329784875	2	pfam03924 CHASE CHASE domain. This domain is found
+721	pfam00216	0.0443557329784875	2	pfam00216 Bac_DNA_binding Bacterial DNA-binding pr
+722	pfam05106	0.0443557329784875	2	pfam05106 Phage_holin_3_1 Phage holin family (Lysi
+723	pfam08786	0.0443557329784875	2	pfam08786 DUF1795 Domain of unknown function (DUF1
+724	pfam02586	0.0443557329784875	2	pfam02586 SRAP SOS response associated peptidase (
+725	pfam11760	0.0443557329784875	2	pfam11760 CbiG_N Cobalamin synthesis G N-terminal.
+726	pfam07396	0.0443557329784875	2	pfam07396 Porin_O_P Phosphate-selective porin O an
+727	pfam09924	0.0443557329784875	2	pfam09924 DUF2156 Uncharacterized conserved protei
+728	pfam13307	0.0443557329784875	2	pfam13307 Helicase_C_2 Helicase C-terminal domain.
+729	pfam03572	0.0443557329784875	2	pfam03572 Peptidase_S41 Peptidase family S41. 
+730	pfam05426	0.0443557329784875	2	pfam05426 Alginate_lyase Alginate lyase. This fami
+731	pfam16113	0.0443557329784875	2	pfam16113 ECH_2 Enoyl-CoA hydratase/isomerase. Thi
+732	pfam01206	0.0443557329784875	2	pfam01206 TusA Sulfurtransferase TusA. This family
+733	pfam03459	0.0443557329784875	2	pfam03459 TOBE TOBE domain. The TOBE domain (Trans
+734	pfam04280	0.0443557329784875	2	pfam04280 Tim44 Tim44-like domain. Tim44 is an ess
+735	pfam10685	0.0443557329784875	2	pfam10685 KGG Stress-induced bacterial acidophilic
+736	pfam01960	0.0443557329784875	2	pfam01960 ArgJ ArgJ family. Members of the ArgJ fa
+737	pfam01471	0.0443557329784875	2	pfam01471 PG_binding_1 Putative peptidoglycan bind
+738	pfam02120	0.0443557329784875	2	pfam02120 Flg_hook Flagellar hook-length control p
+739	pfam13538	0.0443557329784875	2	pfam13538 UvrD_C_2 UvrD-like helicase C-terminal d
+740	pfam03653	0.0443557329784875	2	pfam03653 UPF0093 uncharacterized protein family (
+741	pfam04324	0.0443557329784875	2	pfam04324 Fer2_BFD BFD-like [2Fe-2S] binding domai
+742	pfam00472	0.0443557329784875	2	pfam00472 RF-1 RF-1 domain. This domain is found i
+743	pfam07867	0.0443557329784875	2	pfam07867 DUF1654 Protein of unknown function (DUF
+744	pfam11412	0.0443557329784875	2	pfam11412 DsbC Disulphide bond corrector protein D
+745	pfam04299	0.0443557329784875	2	pfam04299 FMN_bind_2 Putative FMN-binding domain. 
+746	pfam11462	0.0443557329784875	2	pfam11462 DUF3203 Protein of unknown function (DUF
+747	pfam13899	0.0443557329784875	2	pfam13899 Thioredoxin_7 Thioredoxin-like. Thioredo
+748	pfam13336	0.0443557329784875	2	pfam13336 AcetylCoA_hyd_C Acetyl-CoA hydrolase/tra
+749	pfam00872	0.0443557329784875	2	pfam00872 Transposase_mut Transposase, Mutator fam
+750	pfam02104	0.0443557329784875	2	pfam02104 SURF1 SURF1 family. 
+751	pfam03602	0.0443557329784875	2	pfam03602 Cons_hypoth95 Conserved hypothetical pro
+752	pfam01126	0.0443557329784875	2	pfam01126 Heme_oxygenase Heme oxygenase. 
+753	pfam04545	0.0443557329784875	2	pfam04545 Sigma70_r4 Sigma-70, region 4. Region 4 
+754	pfam00448	0.0443557329784875	2	pfam00448 SRP54 SRP54-type protein, GTPase domain.
+755	pfam03350	0.0443557329784875	2	pfam03350 UPF0114 Uncharacterized protein family, 
+756	pfam12796	0.0443557329784875	2	pfam12796 Ank_2 Ankyrin repeats (3 copies). 
+757	pfam03711	0.0443557329784875	2	pfam03711 OKR_DC_1_C Orn/Lys/Arg decarboxylase, C-
+758	pfam02096	0.0443557329784875	2	pfam02096 60KD_IMP 60Kd inner membrane protein. 
+759	pfam12850	0.0443557329784875	2	pfam12850 Metallophos_2 Calcineurin-like phosphoes
+760	pfam01209	0.0443557329784875	2	pfam01209 Ubie_methyltran ubiE/COQ5 methyltransfer
+761	pfam13476	0.0443557329784875	2	pfam13476 AAA_23 AAA domain. 
+762	pfam02597	0.0443557329784875	2	pfam02597 ThiS ThiS family. ThiS (thiaminS) is a 6
+763	pfam10417	0.0443557329784875	2	pfam10417 1-cysPrx_C C-terminal domain of 1-Cys pe
+764	pfam01131	0.0443557329784875	2	pfam01131 Topoisom_bac DNA topoisomerase. This sub
+765	pfam16448	0.0443557329784875	2	pfam16448 LapD_MoxY_N LapD/MoxY periplasmic domain
+766	pfam13628	0.0443557329784875	2	pfam13628 DUF4142 Domain of unknown function (DUF4
+767	pfam03460	0.0443557329784875	2	pfam03460 NIR_SIR_ferr Nitrite/Sulfite reductase f
+768	pfam04279	0.0443557329784875	2	pfam04279 IspA Intracellular septation protein A. 
+769	pfam01197	0.0443557329784875	2	pfam01197 Ribosomal_L31 Ribosomal protein L31. 
+770	pfam03702	0.0443557329784875	2	pfam03702 UPF0075 uncharacterized protein family (
+771	pfam00152	0.0443557329784875	2	pfam00152 tRNA-synt_2 tRNA synthetases class II (D
+772	pfam01923	0.0443557329784875	2	pfam01923 Cob_adeno_trans Cobalamin adenosyltransf
+773	pfam13588	0.0443557329784875	2	pfam13588 HSDR_N_2 Type I restriction enzyme R pro
+774	pfam13425	0.0443557329784875	2	pfam13425 O-antigen_lig O-antigen ligase like memb
+775	pfam05201	0.0443557329784875	2	pfam05201 GlutR_N Glutamyl-tRNAGlu reductase, N-te
+776	pfam07007	0.0443557329784875	2	pfam07007 DUF1311 Protein of unknown function (DUF
+777	pfam00669	0.0443557329784875	2	pfam00669 Flagellin_N Bacterial flagellin N-termin
+778	pfam08019	0.0443557329784875	2	pfam08019 DUF1705 Domain of unknown function (DUF1
+779	pfam09699	0.0443557329784875	2	pfam09699 Paired_CXXCH_1 Doubled CXXCH motif (Pair
+780	pfam00282	0.0443557329784875	2	pfam00282 Pyridoxal_deC Pyridoxal-dependent decarb
+781	pfam00814	0.0443557329784875	2	pfam00814 Peptidase_M22 Glycoprotease family. The 
+782	pfam01479	0.0443557329784875	2	pfam01479 S4 S4 domain. The S4 domain is a small d
+783	pfam02635	0.0443557329784875	2	pfam02635 DrsE DsrE/DsrF-like family. DsrE is a sm
+784	pfam11446	0.0443557329784875	2	pfam11446 DUF2897 Protein of unknown function (DUF
+785	pfam13348	0.0443557329784875	2	pfam13348 Y_phosphatase3C Tyrosine phosphatase fam
+786	pfam12836	0.0443557329784875	2	pfam12836 HHH_3 Helix-hairpin-helix motif. The HhH
+787	pfam04120	0.0443557329784875	2	pfam04120 Iron_permease Low affinity iron permease
+788	pfam03473	0.0443557329784875	2	pfam03473 MOSC MOSC domain. The MOSC (MOCO sulfura
+789	pfam13505	0.0443557329784875	2	pfam13505 OMP_b-brl Outer membrane protein beta-ba
+790	pfam09835	0.0443557329784875	2	pfam09835 DUF2062 Uncharacterized protein conserve
+791	pfam00962	0.0443557329784875	2	pfam00962 A_deaminase Adenosine/AMP deaminase. 
+792	pfam13541	0.0443557329784875	2	pfam13541 ChlI Subunit ChlI of Mg-chelatase. 
+793	pfam13537	0.0443557329784875	2	pfam13537 GATase_7 Glutamine amidotransferase doma
+794	pfam13185	0.0443557329784875	2	pfam13185 GAF_2 GAF domain. 
+795	pfam06353	0.0443557329784875	2	pfam06353 DUF1062 Protein of unknown function (DUF
+796	pfam00326	0.0443557329784875	2	pfam00326 Peptidase_S9 Prolyl oligopeptidase famil
+797	pfam03591	0.0443557329784875	2	pfam03591 AzlC AzlC protein. 
+798	pfam13679	0.0443557329784875	2	pfam13679 Methyltransf_32 Methyltransferase domain
+799	pfam05681	0.0443557329784875	2	pfam05681 Fumerase Fumarate hydratase (Fumerase). 
+800	pfam00723	0.0443557329784875	2	pfam00723 Glyco_hydro_15 Glycosyl hydrolases famil
+801	pfam13525	0.0443557329784875	2	pfam13525 YfiO Outer membrane lipoprotein. This ou
+802	pfam16881	0.0443557329784875	2	pfam16881 LIAS_N N-terminal domain of lipoyl synth
+803	pfam02219	0.0443557329784875	2	pfam02219 MTHFR Methylenetetrahydrofolate reductas
+804	pfam05597	0.0443557329784875	2	pfam05597 Phasin Poly(hydroxyalcanoate) granule as
+805	pfam08007	0.0443557329784875	2	pfam08007 Cupin_4 Cupin superfamily protein. This 
+806	pfam06127	0.0443557329784875	2	pfam06127 DUF962 Protein of unknown function (DUF9
+807	pfam01336	0.0443557329784875	2	pfam01336 tRNA_anti-codon OB-fold nucleic acid bin
+808	pfam02446	0.0443557329784875	2	pfam02446 Glyco_hydro_77 4-alpha-glucanotransferas
+809	pfam00190	0.0443557329784875	2	pfam00190 Cupin_1 Cupin. This family represents th
+810	pfam02233	0.0443557329784875	2	pfam02233 PNTB NAD(P) transhydrogenase beta subuni
+811	pfam13640	0.0443557329784875	2	pfam13640 2OG-FeII_Oxy_3 2OG-Fe(II) oxygenase supe
+812	pfam04551	0.0443557329784875	2	pfam04551 GcpE GcpE protein. In a variety of organ
+813	pfam00344	0.0443557329784875	2	pfam00344 SecY SecY translocase. 
+814	pfam11902	0.0443557329784875	2	pfam11902 DUF3422 Protein of unknown function (DUF
+815	pfam00343	0.0443557329784875	2	pfam00343 Phosphorylase Carbohydrate phosphorylase
+816	pfam11940	0.0443557329784875	2	pfam11940 DUF3458 Domain of unknown function (DUF3
+817	pfam13604	0.0443557329784875	2	pfam13604 AAA_30 AAA domain. This family of domain
+818	pfam06414	0.0443557329784875	2	pfam06414 Zeta_toxin Zeta toxin. This family consi
+819	pfam14252	0.0443557329784875	2	pfam14252 DUF4347 Domain of unknown function (DUF4
+820	pfam12795	0.0443557329784875	2	pfam12795 MscS_porin Mechanosensitive ion channel 
+821	pfam00160	0.0443557329784875	2	pfam00160 Pro_isomerase Cyclophilin type peptidyl-
+822	pfam00730	0.0443557329784875	2	pfam00730 HhH-GPD HhH-GPD superfamily base excisio
+823	pfam00478	0.0443557329784875	2	pfam00478 IMPDH IMP dehydrogenase / GMP reductase 
+824	pfam13522	0.0443557329784875	2	pfam13522 GATase_6 Glutamine amidotransferase doma
+825	pfam00360	0.0443557329784875	2	pfam00360 PHY Phytochrome region. Phytochromes are
+826	pfam15937	0.0443557329784875	2	pfam15937 PrlF_antitoxin prlF antitoxin for toxin 
+827	pfam02585	0.0443557329784875	2	pfam02585 PIG-L GlcNAc-PI de-N-acetylase. Members 
+828	pfam03235	0.0443557329784875	2	pfam03235 DUF262 Protein of unknown function DUF26
+829	pfam07717	0.0443557329784875	2	pfam07717 OB_NTP_bind Oligonucleotide/oligosacchar
+830	pfam04932	0.0443557329784875	2	pfam04932 Wzy_C O-Antigen ligase. This group of ba
+831	pfam09619	0.0443557329784875	2	pfam09619 YscW Type III secretion system lipoprote
+832	pfam06004	0.0443557329784875	2	pfam06004 DUF903 Bacterial protein of unknown func
+833	pfam14535	0.0443557329784875	2	pfam14535 AMP-binding_C_2 AMP-binding enzyme C-ter
+834	pfam01226	0.0443557329784875	2	pfam01226 Form_Nir_trans Formate/nitrite transport
+835	pfam02305	0.0443557329784875	2	pfam02305 Phage_F Capsid protein (F protein). This
+836	pfam12790	0.0443557329784875	2	pfam12790 T6SS-SciN Type VI secretion lipoprotein,
+837	pfam17092	0.0443557329784875	2	pfam17092 PCB_OB Penicillin-binding protein OB-lik
+838	pfam10609	0.0443557329784875	2	pfam10609 ParA NUBPL iron-transfer P-loop NTPase. 
+839	pfam09375	0.0443557329784875	2	pfam09375 Peptidase_M75 Imelysin. The imelysin pep
+840	pfam01062	0.0443557329784875	2	pfam01062 Bestrophin Bestrophin, RFP-TM, chloride 
+841	pfam08345	0.0443557329784875	2	pfam08345 YscJ_FliF_C Flagellar M-ring protein C-t
+842	pfam00877	0.0443557329784875	2	pfam00877 NLPC_P60 NlpC/P60 family. The function o
+843	pfam09694	0.0443557329784875	2	pfam09694 Gcw_chp Bacterial protein of unknown fun
+844	pfam12225	0.0443557329784875	2	pfam12225 MTHFR_C Methylene-tetrahydrofolate reduc
+845	pfam03880	0.0443557329784875	2	pfam03880 DbpA DbpA RNA binding domain. This RNA b
+846	pfam03807	0.0443557329784875	2	pfam03807 F420_oxidored NADP oxidoreductase coenzy
+847	pfam06812	0.0443557329784875	2	pfam06812 ImpA_N ImpA, N-terminal, type VI secreti
+848	pfam07681	0.0443557329784875	2	pfam07681 DoxX DoxX. These proteins appear to have
+849	pfam00463	0.0443557329784875	2	pfam00463 ICL Isocitrate lyase family. 
+850	pfam11804	0.0443557329784875	2	pfam11804 DUF3325 Protein of unknown function (DUF
+851	pfam13607	0.0443557329784875	2	pfam13607 Succ_CoA_lig Succinyl-CoA ligase like fl
+852	pfam05772	0.0443557329784875	2	pfam05772 NinB NinB protein. The ninR region of ph
+853	pfam00285	0.0443557329784875	2	pfam00285 Citrate_synt Citrate synthase. 
+854	pfam02690	0.0443557329784875	2	pfam02690 Na_Pi_cotrans Na+/Pi-cotransporter. This
+855	pfam03186	0.0443557329784875	2	pfam03186 CobD_Cbib CobD/Cbib protein. This family
+856	pfam11367	0.0443557329784875	2	pfam11367 DUF3168 Protein of unknown function (DUF
+857	pfam06097	0.0443557329784875	2	pfam06097 DUF945 Bacterial protein of unknown func
+858	pfam04304	0.0443557329784875	2	pfam04304 DUF454 Protein of unknown function (DUF4
+859	pfam10627	0.0443557329784875	2	pfam10627 CsgE Curli assembly protein CsgE. Curli 
+860	pfam05157	0.0443557329784875	2	pfam05157 T2SSE_N Type II secretion system (T2SS),
+861	pfam02803	0.0443557329784875	2	pfam02803 Thiolase_C Thiolase, C-terminal domain. 
+862	pfam05437	0.0443557329784875	2	pfam05437 AzlD Branched-chain amino acid transport
+863	pfam01564	0.0443557329784875	2	pfam01564 Spermine_synth Spermine/spermidine synth
+864	pfam02705	0.0443557329784875	2	pfam02705 K_trans K+ potassium transporter. This i
+865	pfam01245	0.0443557329784875	2	pfam01245 Ribosomal_L19 Ribosomal protein L19. 
+866	pfam02624	0.0443557329784875	2	pfam02624 YcaO YcaO-like family. 
+867	pfam13754	0.0443557329784875	2	pfam13754 Big_3_4 Bacterial Ig-like domain (group 
+868	pfam09984	0.0443557329784875	2	pfam09984 DUF2222 Uncharacterized signal transduct
+869	pfam00325	0.0443557329784875	2	pfam00325 Crp Bacterial regulatory proteins, crp f
+870	pfam16123	0.0443557329784875	2	pfam16123 HAGH_C Hydroxyacylglutathione hydrolase 
+871	pfam08348	0.0443557329784875	2	pfam08348 PAS_6 YheO-like PAS domain. This family 
+872	pfam04357	0.0443557329784875	2	pfam04357 DUF490 Family of unknown function (DUF49
+873	pfam01041	0.0443557329784875	2	pfam01041 DegT_DnrJ_EryC1 DegT/DnrJ/EryC1/StrS ami
+874	pfam07228	0.0443557329784875	2	pfam07228 SpoIIE Stage II sporulation protein E (S
+875	pfam01957	0.0443557329784875	2	pfam01957 NfeD NfeD-like C-terminal, partner-bindi
+876	pfam16968	0.0443557329784875	2	pfam16968 TadZ_N Pilus assembly protein TadZ N-ter
+877	pfam07927	0.0443557329784875	2	pfam07927 HicA_toxin HicA toxin of bacterial toxin
+878	pfam09482	0.0443557329784875	2	pfam09482 OrgA_MxiK Bacterial type III secretion a
+879	pfam09594	0.0443557329784875	2	pfam09594 DUF2029 Protein of unknown function (DUF
+880	pfam01544	0.0443557329784875	2	pfam01544 CorA CorA-like Mg2+ transporter protein.
+881	pfam08275	0.0443557329784875	2	pfam08275 Toprim_N DNA primase catalytic core, N-t
+882	pfam00224	0.0443557329784875	2	pfam00224 PK Pyruvate kinase, barrel domain. This 
+883	pfam09290	0.0443557329784875	2	pfam09290 AcetDehyd-dimer Prokaryotic acetaldehyde
+884	pfam02881	0.0443557329784875	2	pfam02881 SRP54_N SRP54-type protein, helical bund
+885	pfam08328	0.0443557329784875	2	pfam08328 ASL_C Adenylosuccinate lyase C-terminal.
+886	pfam01782	0.0443557329784875	2	pfam01782 RimM RimM N-terminal domain. The RimM pr
+887	pfam06123	0.0443557329784875	2	pfam06123 CreD Inner membrane protein CreD. This f
+888	pfam03783	0.0443557329784875	2	pfam03783 CsgG Curli production assembly/transport
+889	pfam11614	0.0443557329784875	2	pfam11614 FixG_C IG-like fold at C-terminal of Fix
+890	pfam06175	0.0443557329784875	2	pfam06175 MiaE tRNA-(MS[2]IO[6]A)-hydroxylase (Mia
+891	pfam05977	0.0443557329784875	2	pfam05977 MFS_3 Transmembrane secretion effector. 
+892	pfam00533	0.0443557329784875	2	pfam00533 BRCT BRCA1 C Terminus (BRCT) domain. The
+893	pfam11898	0.0443557329784875	2	pfam11898 DUF3418 Domain of unknown function (DUF3
+894	pfam00595	0.0443557329784875	2	pfam00595 PDZ PDZ domain (Also known as DHR or GLG
+895	pfam03331	0.0443557329784875	2	pfam03331 LpxC UDP-3-O-acyl N-acetylglycosamine de
+896	pfam00318	0.0443557329784875	2	pfam00318 Ribosomal_S2 Ribosomal protein S2. 
+897	pfam07905	0.0443557329784875	2	pfam07905 PucR Purine catabolism regulatory protei
+898	pfam04954	0.0443557329784875	2	pfam04954 SIP Siderophore-interacting protein. 
+899	pfam13577	0.0443557329784875	2	pfam13577 SnoaL_4 SnoaL-like domain. This family c
+900	pfam02355	0.0443557329784875	2	pfam02355 SecD_SecF Protein export membrane protei
+901	pfam01250	0.0443557329784875	2	pfam01250 Ribosomal_S6 Ribosomal protein S6. 
+902	pfam03717	0.0443557329784875	2	pfam03717 PBP_dimer Penicillin-binding Protein dim
+903	pfam03748	0.0443557329784875	2	pfam03748 FliL Flagellar basal body-associated pro
+904	pfam05943	0.0443557329784875	2	pfam05943 VipB Type VI secretion protein, EvpB/VC_
+905	pfam04221	0.0443557329784875	2	pfam04221 RelB RelB antitoxin. RelE and RelB form 
+906	pfam02682	0.0443557329784875	2	pfam02682 AHS1 Allophanate hydrolase subunit 1. Th
+907	pfam09327	0.0443557329784875	2	pfam09327 DUF1983 Domain of unknown function (DUF1
+908	pfam04909	0.0443557329784875	2	pfam04909 Amidohydro_2 Amidohydrolase. These prote
+909	pfam04828	0.0443557329784875	2	pfam04828 GFA Glutathione-dependent formaldehyde-a
+910	pfam04960	0.0443557329784875	2	pfam04960 Glutaminase Glutaminase. This family of 
+911	pfam03547	0.0443557329784875	2	pfam03547 Mem_trans Membrane transport protein. Th
+912	pfam00006	0.0443557329784875	2	pfam00006 ATP-synt_ab ATP synthase alpha/beta fami
+913	pfam09392	0.0443557329784875	2	pfam09392 T3SS_needle_F Type III secretion needle 
+914	pfam00275	0.0443557329784875	2	pfam00275 EPSP_synthase EPSP synthase (3-phosphosh
+915	pfam13333	0.0443557329784875	2	pfam13333 rve_2 Integrase core domain. 
+916	pfam05651	0.0443557329784875	2	pfam05651 Diacid_rec Putative sugar diacid recogni
+917	pfam11655	0.0443557329784875	2	pfam11655 DUF2589 Protein of unknown function (DUF
+918	pfam01554	0.0443557329784875	2	pfam01554 MatE MatE. The MatE domain
+919	pfam05524	0.0443557329784875	2	pfam05524 PEP-utilizers_N PEP-utilizing enzyme, N-
+920	pfam04307	0.0443557329784875	2	pfam04307 YdjM LexA-binding, inner membrane-associ
+921	pfam06537	0.0443557329784875	2	pfam06537 DHOR Di-haem oxidoreductase, putative pe
+922	pfam13291	0.0443557329784875	2	pfam13291 ACT_4 ACT domain. ACT domains bind to am
+923	pfam04231	0.0443557329784875	2	pfam04231 Endonuclease_1 Endonuclease I. Bacterial
+924	pfam13387	0.0443557329784875	2	pfam13387 DUF4105 Domain of unknown function (DUF4
+925	pfam00977	0.0443557329784875	2	pfam00977 His_biosynth Histidine biosynthesis prot
+926	pfam13523	0.0443557329784875	2	pfam13523 Acetyltransf_8 Acetyltransferase (GNAT) 
+927	pfam02545	0.0443557329784875	2	pfam02545 Maf Maf-like protein. Maf is a putative 
+928	pfam08774	0.0443557329784875	2	pfam08774 VRR_NUC VRR-NUC domain. 
+929	pfam10996	0.0443557329784875	2	pfam10996 Beta-Casp Beta-Casp domain. The beta-CAS
+930	pfam00731	0.0443557329784875	2	pfam00731 AIRC AIR carboxylase. Members of this fa
+931	pfam03706	0.0443557329784875	2	pfam03706 LPG_synthase_TM Lysylphosphatidylglycero
+932	pfam04816	0.0443557329784875	2	pfam04816 TrmK tRNA (adenine(22)-N(1))-methyltrans
+933	pfam03764	0.0443557329784875	2	pfam03764 EFG_IV Elongation factor G, domain IV. T
+934	pfam04546	0.0443557329784875	2	pfam04546 Sigma70_ner Sigma-70, non-essential regi
+935	pfam05359	0.0443557329784875	2	pfam05359 DUF748 Domain of Unknown Function (DUF74
+936	pfam07769	0.0443557329784875	2	pfam07769 PsiF_repeat psiF repeat. This region is 
+937	pfam00733	0.0443557329784875	2	pfam00733 Asn_synthase Asparagine synthase. This f
+938	pfam04214	0.0443557329784875	2	pfam04214 DUF411 Protein of unknown function, DUF.
+939	pfam13502	0.0443557329784875	2	pfam13502 AsmA_2 AsmA-like C-terminal region. This
+940	pfam04267	0.0443557329784875	2	pfam04267 SoxD Sarcosine oxidase, delta subunit fa
+941	pfam01098	0.0443557329784875	2	pfam01098 FTSW_RODA_SPOVE Cell cycle protein. This
+942	pfam07484	0.0443557329784875	2	pfam07484 Collar Phage Tail Collar Domain. This re
+943	pfam03631	0.0443557329784875	2	pfam03631 Virul_fac_BrkB Virulence factor BrkB. Th
+944	pfam02661	0.0443557329784875	2	pfam02661 Fic Fic/DOC family. This family consists
+945	pfam01055	0.0443557329784875	2	pfam01055 Glyco_hydro_31 Glycosyl hydrolases famil
+946	pfam02666	0.0443557329784875	2	pfam02666 PS_Dcarbxylase Phosphatidylserine decarb
+947	pfam13365	0.0443557329784875	2	pfam13365 Trypsin_2 Trypsin-like peptidase domain.
+948	pfam03886	0.0443557329784875	2	pfam03886 ABC_trans_aux ABC-type transport auxilia
+949	pfam04347	0.0443557329784875	2	pfam04347 FliO Flagellar biosynthesis protein, Fli
+950	pfam02875	0.0443557329784875	2	pfam02875 Mur_ligase_C Mur ligase family, glutamat
+951	pfam00696	0.0443557329784875	2	pfam00696 AA_kinase Amino acid kinase family. This
+952	pfam04239	0.0443557329784875	2	pfam04239 DUF421 Protein of unknown function (DUF4
+953	pfam00348	0.0443557329784875	2	pfam00348 polyprenyl_synt Polyprenyl synthetase. 
+954	pfam04751	0.0443557329784875	2	pfam04751 DUF615 Protein of unknown function (DUF6
+955	pfam01746	0.0443557329784875	2	pfam01746 tRNA_m1G_MT tRNA (Guanine-1)-methyltrans
+956	pfam04965	0.0443557329784875	2	pfam04965 GPW_gp25 Gene 25-like lysozyme. This fam
+957	pfam02785	0.0443557329784875	2	pfam02785 Biotin_carb_C Biotin carboxylase C-termi
+958	pfam02433	0.0443557329784875	2	pfam02433 FixO Cytochrome C oxidase, mono-heme sub
+959	pfam10139	0.0443557329784875	2	pfam10139 Virul_Fac Putative bacterial virulence f
+960	pfam02222	0.0443557329784875	2	pfam02222 ATP-grasp ATP-grasp domain. This family 
+961	pfam09480	0.0443557329784875	2	pfam09480 PrgH Type III secretion system protein P
+962	pfam01451	0.0443557329784875	2	pfam01451 LMWPc Low molecular weight phosphotyrosi
+963	pfam00342	0.0443557329784875	2	pfam00342 PGI Phosphoglucose isomerase. Phosphoglu
+964	pfam14518	0.0443557329784875	2	pfam14518 Haem_oxygenas_2 Iron-containing redox en
+965	pfam03120	0.0443557329784875	2	pfam03120 DNA_ligase_OB NAD-dependent DNA ligase O
+966	pfam05853	0.0443557329784875	2	pfam05853 Kce 3-keto-5-aminohexanoate cleavage enz
+967	pfam09335	0.0443557329784875	2	pfam09335 SNARE_assoc SNARE associated Golgi prote
+968	pfam06181	0.0443557329784875	2	pfam06181 DUF989 Protein of unknown function (DUF9
+969	pfam00278	0.0443557329784875	2	pfam00278 Orn_DAP_Arg_deC Pyridoxal-dependent deca
+970	pfam04391	0.0443557329784875	2	pfam04391 DUF533 Protein of unknown function (DUF5
+971	pfam05015	0.0443557329784875	2	pfam05015 HigB-like_toxin RelE-like toxin of type 
+972	pfam13618	0.0443557329784875	2	pfam13618 Gluconate_2-dh3 Gluconate 2-dehydrogenas
+973	pfam04076	0.0443557329784875	2	pfam04076 BOF Bacterial OB fold (BOF) protein. Pro
+974	pfam01063	0.0443557329784875	2	pfam01063 Aminotran_4 Amino-transferase class IV. 
+975	pfam05988	0.0443557329784875	2	pfam05988 DUF899 Bacterial protein of unknown func
+976	pfam11726	0.0443557329784875	2	pfam11726 DUF3296 Protein of unknown function (DUF
+977	pfam03476	0.0443557329784875	2	pfam03476 MOSC_N MOSC N-terminal beta barrel domai
+978	pfam01914	0.0443557329784875	2	pfam01914 MarC MarC family integral membrane prote
+979	pfam01230	0.0443557329784875	2	pfam01230 HIT HIT domain. 
+980	pfam11736	0.0443557329784875	2	pfam11736 DUF3299 Protein of unknown function (DUF
+981	pfam12156	0.0443557329784875	2	pfam12156 ATPase-cat_bd Putative metal-binding dom
+982	pfam02578	0.0443557329784875	2	pfam02578 Cu-oxidase_4 Multi-copper polyphenol oxi
+983	pfam02951	0.0443557329784875	2	pfam02951 GSH-S_N Prokaryotic glutathione syntheta
+984	pfam02631	0.0443557329784875	2	pfam02631 RecX RecX family. RecX is a putative bac
+985	pfam13478	0.0443557329784875	2	pfam13478 XdhC_C XdhC Rossmann domain. This entry 
+986	pfam01061	0.0443557329784875	2	pfam01061 ABC2_membrane ABC-2 type transporter. 
+987	pfam09588	0.0443557329784875	2	pfam09588 YqaJ YqaJ-like viral recombinase domain.
+988	pfam13532	0.0443557329784875	2	pfam13532 2OG-FeII_Oxy_2 2OG-Fe(II) oxygenase supe
+989	pfam00587	0.0443557329784875	2	pfam00587 tRNA-synt_2b tRNA synthetase class II co
+990	pfam16105	0.0443557329784875	2	pfam16105 DUF4823 Domain of unknown function (DUF4
+991	pfam03364	0.0443557329784875	2	pfam03364 Polyketide_cyc Polyketide cyclase / dehy
+992	pfam02190	0.0443557329784875	2	pfam02190 LON_substr_bdg ATP-dependent protease La
+993	pfam02955	0.0443557329784875	2	pfam02955 GSH-S_ATP Prokaryotic glutathione synthe
+994	pfam00579	0.0443557329784875	2	pfam00579 tRNA-synt_1b tRNA synthetases class I (W
+995	pfam08468	0.0443557329784875	2	pfam08468 MTS_N Methyltransferase small domain N-t
+996	pfam00308	0.0443557329784875	2	pfam00308 Bac_DnaA Bacterial dnaA protein. 
+997	pfam13350	0.0443557329784875	2	pfam13350 Y_phosphatase3 Tyrosine phosphatase fami
+998	pfam03652	0.0443557329784875	2	pfam03652 RuvX Holliday junction resolvase. This f
+999	pfam00475	0.0443557329784875	2	pfam00475 IGPD Imidazoleglycerol-phosphate dehydra
+1000	pfam06506	0.0443557329784875	2	pfam06506 PrpR_N Propionate catabolism activator. 
+1001	pfam09722	0.0443557329784875	2	pfam09722 DUF2384 Protein of unknown function (DUF
+1002	pfam11453	0.0443557329784875	2	pfam11453 DUF2950 Protein of unknown function (DUF
+1003	pfam04077	0.0443557329784875	2	pfam04077 DsrH DsrH like protein. DsrH is involved
+1004	pfam13407	0.0443557329784875	2	pfam13407 Peripla_BP_4 Periplasmic binding protein
+1005	pfam00294	0.0443557329784875	2	pfam00294 PfkB pfkB family carbohydrate kinase. Th
+1006	pfam01276	0.0443557329784875	2	pfam01276 OKR_DC_1 Orn/Lys/Arg decarboxylase, majo
+1007	pfam04339	0.0443557329784875	2	pfam04339 FemAB_like Peptidogalycan biosysnthesis/
+1008	pfam13443	0.0443557329784875	2	pfam13443 HTH_26 Cro/C1-type HTH DNA-binding domai
+1009	pfam09839	0.0443557329784875	2	pfam09839 DUF2066 Uncharacterized protein conserve
+1010	pfam02556	0.0443557329784875	2	pfam02556 SecB Preprotein translocase subunit SecB
+1011	pfam07730	0.0443557329784875	2	pfam07730 HisKA_3 Histidine kinase. This is the di
+1012	pfam00289	0.0443557329784875	2	pfam00289 CPSase_L_chain Carbamoyl-phosphate synth
+1013	pfam00588	0.0443557329784875	2	pfam00588 SpoU_methylase SpoU rRNA Methylase famil
+1014	pfam13514	0.0443557329784875	2	pfam13514 AAA_27 AAA domain. This domain is found 
+1015	pfam00345	0.0443557329784875	2	pfam00345 PapD_N Pili and flagellar-assembly chape
+1016	pfam05235	0.0443557329784875	2	pfam05235 CHAD CHAD domain. The CHAD domain is an 
+1017	pfam01513	0.0443557329784875	2	pfam01513 NAD_kinase ATP-NAD kinase. Members of th
+1018	pfam14022	0.0443557329784875	2	pfam14022 DUF4238 Protein of unknown function (DUF
+1019	pfam11776	0.0443557329784875	2	pfam11776 RcnB Nickel/cobalt transporter regulator
+1020	pfam08334	0.0443557329784875	2	pfam08334 T2SSG Type II secretion system (T2SS), p
+1021	pfam05496	0.0443557329784875	2	pfam05496 RuvB_N Holliday junction DNA helicase ru
+1022	pfam02119	0.0443557329784875	2	pfam02119 FlgI Flagellar P-ring protein. 
+1023	pfam11041	0.0443557329784875	2	pfam11041 DUF2612 Protein of unknown function (DUF
+1024	pfam12021	0.0443557329784875	2	pfam12021 DUF3509 Protein of unknown function (DUF
+1025	pfam07167	0.0443557329784875	2	pfam07167 PhaC_N Poly-beta-hydroxybutyrate polymer
+1026	pfam03937	0.0443557329784875	2	pfam03937 Sdh5 Flavinator of succinate dehydrogena
+1027	pfam08992	0.0443557329784875	2	pfam08992 QH-AmDH_gamma Quinohemoprotein amine deh
+1028	pfam02353	0.0443557329784875	2	pfam02353 CMAS Mycolic acid cyclopropane synthetas
+1029	pfam05275	0.0443557329784875	2	pfam05275 CopB Copper resistance protein B precurs
+1030	pfam00208	0.0443557329784875	2	pfam00208 ELFV_dehydrog Glutamate/Leucine/Phenylal
+1031	pfam01011	0.0443557329784875	2	pfam01011 PQQ PQQ enzyme repeat. The family repres
+1032	pfam00572	0.0443557329784875	2	pfam00572 Ribosomal_L13 Ribosomal protein L13. 
+1033	pfam06742	0.0443557329784875	2	pfam06742 DUF1214 Protein of unknown function (DUF
+1034	pfam01966	0.0443557329784875	2	pfam01966 HD HD domain. HD domains are metal depen
+1035	pfam08279	0.0443557329784875	2	pfam08279 HTH_11 HTH domain. This family includes 
+1036	pfam01208	0.0443557329784875	2	pfam01208 URO-D Uroporphyrinogen decarboxylase (UR
+1037	pfam09411	0.0443557329784875	2	pfam09411 PagL Lipid A 3-O-deacylase (PagL). PagL 
+1038	pfam04411	0.0443557329784875	2	pfam04411 PDDEXK_7 PD-(D/E)XK nuclease superfamily
+1039	pfam04107	0.0443557329784875	2	pfam04107 GCS2 Glutamate-cysteine ligase family 2(
+1040	pfam01790	0.0443557329784875	2	pfam01790 LGT Prolipoprotein diacylglyceryl transf
+1041	pfam00231	0.0443557329784875	2	pfam00231 ATP-synt ATP synthase. 
+1042	pfam03099	0.0443557329784875	2	pfam03099 BPL_LplA_LipB Biotin/lipoate A/B protein
+1043	pfam13795	0.0443557329784875	2	pfam13795 HupE_UreJ_2 HupE / UreJ protein. These p
+1044	pfam03705	0.0443557329784875	2	pfam03705 CheR_N CheR methyltransferase, all-alpha
+1045	pfam06243	0.0443557329784875	2	pfam06243 PaaB Phenylacetic acid degradation B. Ph
+1046	pfam10431	0.0443557329784875	2	pfam10431 ClpB_D2-small C-terminal, D2-small domai
+1047	pfam16930	0.0443557329784875	2	pfam16930 Porin_5 Putative porin. 
+1048	pfam03788	0.0443557329784875	2	pfam03788 LrgA LrgA family. This family is unchara
+1049	pfam09836	0.0443557329784875	2	pfam09836 DUF2063 Putative DNA-binding domain. Thi
+1050	pfam12128	0.0443557329784875	2	pfam12128 DUF3584 Protein of unknown function (DUF
+1051	pfam00676	0.0443557329784875	2	pfam00676 E1_dh Dehydrogenase E1 component. This f
+1052	pfam02882	0.0443557329784875	2	pfam02882 THF_DHG_CYH_C Tetrahydrofolate dehydroge
+1053	pfam13637	0.0443557329784875	2	pfam13637 Ank_4 Ankyrin repeats (many copies). 
+1054	pfam03795	0.0443557329784875	2	pfam03795 YCII YCII-related domain. The majority o
+1055	pfam03747	0.0443557329784875	2	pfam03747 ADP_ribosyl_GH ADP-ribosylglycohydrolase
+1056	pfam09334	0.0443557329784875	2	pfam09334 tRNA-synt_1g tRNA synthetases class I (M
+1057	pfam06684	0.0443557329784875	2	pfam06684 AA_synth Amino acid synthesis. This fami
+1058	pfam01189	0.0443557329784875	2	pfam01189 Nol1_Nop2_Fmu 16S rRNA methyltransferase
+1059	pfam13521	0.0443557329784875	2	pfam13521 AAA_28 AAA domain. 
+1060	pfam07143	0.0443557329784875	2	pfam07143 CrtC Hydroxyneurosporene synthase (CrtC)
+1061	pfam02562	0.0443557329784875	2	pfam02562 PhoH PhoH-like protein. PhoH is a cytopl
+1062	pfam03502	0.0443557329784875	2	pfam03502 Channel_Tsx Nucleoside-specific channel-
+1063	pfam05787	0.0443557329784875	2	pfam05787 DUF839 Bacterial protein of unknown func
+1064	pfam01138	0.0443557329784875	2	pfam01138 RNase_PH 3' exoribonuclease family, doma
+1065	pfam03446	0.0443557329784875	2	pfam03446 NAD_binding_2 NAD binding domain of 6-ph
+1066	pfam00246	0.0443557329784875	2	pfam00246 Peptidase_M14 Zinc carboxypeptidase. 
+1067	pfam08545	0.0443557329784875	2	pfam08545 ACP_syn_III 3-Oxoacyl-[acyl-carrier-prot
+1068	pfam05971	0.0443557329784875	2	pfam05971 Methyltransf_10 Protein of unknown funct
+1069	pfam01433	0.0443557329784875	2	pfam01433 Peptidase_M1 Peptidase family M1. Member
+1070	pfam00756	0.0443557329784875	2	pfam00756 Esterase Putative esterase. This family 
+1071	pfam00078	0.0443557329784875	2	pfam00078 RVT_1 Reverse transcriptase (RNA-depende
+1072	pfam06042	0.0443557329784875	2	pfam06042 NTP_transf_6 Nucleotidyltransferase. Thi
+1073	pfam00665	0.0443557329784875	2	pfam00665 rve Integrase core domain. Integrase med
+1074	pfam13474	0.0443557329784875	2	pfam13474 SnoaL_3 SnoaL-like domain. This family c
+1075	pfam13616	0.0443557329784875	2	pfam13616 Rotamase_3 PPIC-type PPIASE domain. Rota
+1076	pfam13954	0.0443557329784875	2	pfam13954 PapC_N PapC N-terminal domain. The PapC 
+1077	pfam05746	0.0443557329784875	2	pfam05746 DALR_1 DALR anticodon binding domain. Th
+1078	pfam07963	0.0443557329784875	2	pfam07963 N_methyl Prokaryotic N-terminal methylat
+1079	pfam01300	0.0443557329784875	2	pfam01300 Sua5_yciO_yrdC Telomere recombination. T
+1080	pfam06863	0.0443557329784875	2	pfam06863 DUF1254 Protein of unknown function (DUF
+1081	pfam13857	0.0443557329784875	2	pfam13857 Ank_5 Ankyrin repeats (many copies). 
+1082	pfam12840	0.0443557329784875	2	pfam12840 HTH_20 Helix-turn-helix domain. This dom
+1083	pfam08543	0.0443557329784875	2	pfam08543 Phos_pyr_kin Phosphomethylpyrimidine kin
+1084	pfam13435	0.0443557329784875	2	pfam13435 Cytochrome_C554 Cytochrome c554 and c-pr
+1085	pfam16327	0.0443557329784875	2	pfam16327 CcmF_C Cytochrome c-type biogenesis prot
+1086	pfam05154	0.0443557329784875	2	pfam05154 TM2 TM2 domain. This family is composed 
+1087	pfam00186	0.0443557329784875	2	pfam00186 DHFR_1 Dihydrofolate reductase. 
+1088	pfam04687	0.0443557329784875	2	pfam04687 Microvir_H Microvirus H protein (pilot p
+1089	pfam11158	0.0443557329784875	2	pfam11158 DUF2938 Protein of unknown function (DUF
+1090	pfam00933	0.0443557329784875	2	pfam00933 Glyco_hydro_3 Glycosyl hydrolase family 
+1091	pfam04748	0.0443557329784875	2	pfam04748 Polysacc_deac_2 Divergent polysaccharide
+1092	pfam13972	0.0443557329784875	2	pfam13972 TetR Bacterial transcriptional repressor
+1093	pfam08212	0.0443557329784875	2	pfam08212 Lipocalin_2 Lipocalin-like domain. Lipoc
+1094	pfam13487	0.0443557329784875	2	pfam13487 HD_5 HD domain. HD domains are metal dep
+1095	pfam01915	0.0221778664892437	1	pfam01915 Glyco_hydro_3_C Glycosyl hydrolase famil
+1096	pfam04996	0.0221778664892437	1	pfam04996 AstB Succinylarginine dihydrolase. This 
+1097	pfam00689	0.0221778664892437	1	pfam00689 Cation_ATPase_C Cation transporting ATPa
+1098	pfam02036	0.0221778664892437	1	pfam02036 SCP2 SCP-2 sterol transfer family. This 
+1099	pfam07836	0.0221778664892437	1	pfam07836 DmpG_comm DmpG-like communication domain
+1100	pfam05287	0.0221778664892437	1	pfam05287 PMG PMG protein. This family consists of
+1101	pfam02381	0.0221778664892437	1	pfam02381 MraZ MraZ protein, putative antitoxin-li
+1102	pfam10551	0.0221778664892437	1	pfam10551 MULE MULE transposase domain. This domai
+1103	pfam00411	0.0221778664892437	1	pfam00411 Ribosomal_S11 Ribosomal protein S11. 
+1104	pfam05690	0.0221778664892437	1	pfam05690 ThiG Thiazole biosynthesis protein ThiG.
+1105	pfam01883	0.0221778664892437	1	pfam01883 DUF59 Domain of unknown function DUF59. 
+1106	pfam05195	0.0221778664892437	1	pfam05195 AMP_N Aminopeptidase P, N-terminal domai
+1107	pfam07332	0.0221778664892437	1	pfam07332 Phage_holin_3_6 Putative Actinobacterial
+1108	pfam13677	0.0221778664892437	1	pfam13677 MotB_plug Membrane MotB of proton-channe
+1109	pfam01288	0.0221778664892437	1	pfam01288 HPPK 7,8-dihydro-6-hydroxymethylpterin-p
+1110	pfam00089	0.0221778664892437	1	pfam00089 Trypsin Trypsin. 
+1111	pfam01566	0.0221778664892437	1	pfam01566 Nramp Natural resistance-associated macr
+1112	pfam16732	0.0221778664892437	1	pfam16732 ComP_DUS Type IV minor pilin ComP, DNA u
+1113	pfam01218	0.0221778664892437	1	pfam01218 Coprogen_oxidas Coproporphyrinogen III o
+1114	pfam02551	0.0221778664892437	1	pfam02551 Acyl_CoA_thio Acyl-CoA thioesterase. Thi
+1115	pfam06877	0.0221778664892437	1	pfam06877 RraB Regulator of ribonuclease activity 
+1116	pfam08349	0.0221778664892437	1	pfam08349 DUF1722 Protein of unknown function (DUF
+1117	pfam10590	0.0221778664892437	1	pfam10590 PNPOx_C Pyridoxine 5'-phosphate oxidase 
+1118	pfam12843	0.0221778664892437	1	pfam12843 QSregVF_b Putative quorum-sensing-regula
+1119	pfam07865	0.0221778664892437	1	pfam07865 DUF1652 Protein of unknown function (DUF
+1120	pfam08223	0.0221778664892437	1	pfam08223 PaaX_C PaaX-like protein C-terminal doma
+1121	pfam02107	0.0221778664892437	1	pfam02107 FlgH Flagellar L-ring protein. 
+1122	pfam16703	0.0221778664892437	1	pfam16703 DUF5064 Domain of unknown function (DUF5
+1123	pfam01168	0.0221778664892437	1	pfam01168 Ala_racemase_N Alanine racemase, N-termi
+1124	pfam13567	0.0221778664892437	1	pfam13567 DUF4131 Domain of unknown function (DUF4
+1125	pfam06751	0.0221778664892437	1	pfam06751 EutB Ethanolamine ammonia lyase large su
+1126	pfam04186	0.0221778664892437	1	pfam04186 FxsA FxsA cytoplasmic membrane protein. 
+1127	pfam03831	0.0221778664892437	1	pfam03831 PhnA PhnA protein. 
+1128	pfam08014	0.0221778664892437	1	pfam08014 DUF1704 Domain of unknown function (DUF1
+1129	pfam01980	0.0221778664892437	1	pfam01980 UPF0066 uncharacterized protein family U
+1130	pfam03472	0.0221778664892437	1	pfam03472 Autoind_bind Autoinducer binding domain.
+1131	pfam03972	0.0221778664892437	1	pfam03972 MmgE_PrpD MmgE/PrpD family. This family 
+1132	pfam11967	0.0221778664892437	1	pfam11967 RecO_N Recombination protein O N termina
+1133	pfam02934	0.0221778664892437	1	pfam02934 GatB_N GatB/GatE catalytic domain. This 
+1134	pfam09100	0.0221778664892437	1	pfam09100 Qn_am_d_aIV Quinohemoprotein amine dehyd
+1135	pfam03552	0.0221778664892437	1	pfam03552 Cellulose_synt Cellulose synthase. Cellu
+1136	pfam09140	0.0221778664892437	1	pfam09140 MipZ ATPase MipZ. MipZ is an ATPase that
+1137	pfam01872	0.0221778664892437	1	pfam01872 RibD_C RibD C-terminal domain. The funct
+1138	pfam14410	0.0221778664892437	1	pfam14410 GH-E HNH/ENDO VII superfamily nuclease w
+1139	pfam00119	0.0221778664892437	1	pfam00119 ATP-synt_A ATP synthase A chain. 
+1140	pfam01027	0.0221778664892437	1	pfam01027 Bax1-I Inhibitor of apoptosis-promoting 
+1141	pfam16824	0.0221778664892437	1	pfam16824 CBM_26 C-terminal carbohydrate-binding m
+1142	pfam04101	0.0221778664892437	1	pfam04101 Glyco_tran_28_C Glycosyltransferase fami
+1143	pfam03167	0.0221778664892437	1	pfam03167 UDG Uracil DNA glycosylase superfamily. 
+1144	pfam14793	0.0221778664892437	1	pfam14793 DUF4478 Domain of unknown function (DUF4
+1145	pfam08021	0.0221778664892437	1	pfam08021 FAD_binding_9 Siderophore-interacting FA
+1146	pfam08980	0.0221778664892437	1	pfam08980 DUF1883 Domain of unknown function (DUF1
+1147	pfam16036	0.0221778664892437	1	pfam16036 Chalcone_3 Chalcone isomerase-like. Chal
+1148	pfam13742	0.0221778664892437	1	pfam13742 tRNA_anti_2 OB-fold nucleic acid binding
+1149	pfam00166	0.0221778664892437	1	pfam00166 Cpn10 Chaperonin 10 Kd subunit. This fam
+1150	pfam03009	0.0221778664892437	1	pfam03009 GDPD Glycerophosphoryl diester phosphodi
+1151	pfam14085	0.0221778664892437	1	pfam14085 DUF4265 Domain of unknown function (DUF4
+1152	pfam02306	0.0221778664892437	1	pfam02306 Phage_G Major spike protein (G protein).
+1153	pfam03413	0.0221778664892437	1	pfam03413 PepSY Peptidase propeptide and YPEB doma
+1154	pfam02696	0.0221778664892437	1	pfam02696 UPF0061 Uncharacterized ACR, YdiU/UPF006
+1155	pfam04127	0.0221778664892437	1	pfam04127 DFP DNA / pantothenate metabolizm flavop
+1156	pfam13482	0.0221778664892437	1	pfam13482 RNase_H_2 RNase_H superfamily. 
+1157	pfam03100	0.0221778664892437	1	pfam03100 CcmE CcmE. CcmE is the product of one of
+1158	pfam02954	0.0221778664892437	1	pfam02954 HTH_8 Bacterial regulatory protein, Fis 
+1159	pfam00573	0.0221778664892437	1	pfam00573 Ribosomal_L4 Ribosomal protein L4/L1 fam
+1160	pfam08388	0.0221778664892437	1	pfam08388 GIIM Group II intron, maturase-specific 
+1161	pfam05188	0.0221778664892437	1	pfam05188 MutS_II MutS domain II. This domain is f
+1162	pfam07714	0.0221778664892437	1	pfam07714 Pkinase_Tyr Protein tyrosine kinase. 
+1163	pfam13683	0.0221778664892437	1	pfam13683 rve_3 Integrase core domain. 
+1164	pfam10620	0.0221778664892437	1	pfam10620 MdcG Phosphoribosyl-dephospho-CoA transf
+1165	pfam04461	0.0221778664892437	1	pfam04461 DUF520 Protein of unknown function (DUF5
+1166	pfam09849	0.0221778664892437	1	pfam09849 DUF2076 Uncharacterized protein conserve
+1167	pfam05420	0.0221778664892437	1	pfam05420 BCSC_C Cellulose synthase operon protein
+1168	pfam09831	0.0221778664892437	1	pfam09831 DUF2058 Uncharacterized protein conserve
+1169	pfam08892	0.0221778664892437	1	pfam08892 YqcI_YcgG YqcI/YcgG family. This family 
+1170	pfam00069	0.0221778664892437	1	pfam00069 Pkinase Protein kinase domain. 
+1171	pfam11168	0.0221778664892437	1	pfam11168 DUF2955 Protein of unknown function (DUF
+1172	pfam02082	0.0221778664892437	1	pfam02082 Rrf2 Transcriptional regulator. This fam
+1173	pfam03550	0.0221778664892437	1	pfam03550 LolB Outer membrane lipoprotein LolB. 
+1174	pfam00081	0.0221778664892437	1	pfam00081 Sod_Fe_N Iron/manganese superoxide dismu
+1175	pfam01432	0.0221778664892437	1	pfam01432 Peptidase_M3 Peptidase family M3. This i
+1176	pfam01765	0.0221778664892437	1	pfam01765 RRF Ribosome recycling factor. The ribos
+1177	pfam13242	0.0221778664892437	1	pfam13242 Hydrolase_like HAD-hyrolase-like. 
+1178	pfam09905	0.0221778664892437	1	pfam09905 DUF2132 Uncharacterized conserved protei
+1179	pfam04115	0.0221778664892437	1	pfam04115 Ureidogly_hydro Ureidoglycolate hydrolas
+1180	pfam13358	0.0221778664892437	1	pfam13358 DDE_3 DDE superfamily endonuclease. This
+1181	pfam01475	0.0221778664892437	1	pfam01475 FUR Ferric uptake regulator family. This
+1182	pfam14819	0.0221778664892437	1	pfam14819 QueF_N Nitrile reductase, 7-cyano-7-deaz
+1183	pfam00562	0.0221778664892437	1	pfam00562 RNA_pol_Rpb2_6 RNA polymerase Rpb2, doma
+1184	pfam13722	0.0221778664892437	1	pfam13722 CstA_5TM 5TM C-terminal transporter carb
+1185	pfam01171	0.0221778664892437	1	pfam01171 ATP_bind_3 PP-loop family. This family o
+1186	pfam08402	0.0221778664892437	1	pfam08402 TOBE_2 TOBE domain. The TOBE domain (Tra
+1187	pfam04973	0.0221778664892437	1	pfam04973 NMN_transporter Nicotinamide mononucleot
+1188	pfam03109	0.0221778664892437	1	pfam03109 ABC1 ABC1 family. This family includes A
+1189	pfam04378	0.0221778664892437	1	pfam04378 RsmJ Ribosomal RNA large subunit methylt
+1190	pfam12769	0.0221778664892437	1	pfam12769 PNTB_4TM 4TM region of pyridine nucleoti
+1191	pfam00488	0.0221778664892437	1	pfam00488 MutS_V MutS domain V. This domain is fou
+1192	pfam04865	0.0221778664892437	1	pfam04865 Baseplate_J Baseplate J-like protein. Th
+1193	pfam11672	0.0221778664892437	1	pfam11672 DUF3268 Protein of unknown function (DUF
+1194	pfam02481	0.0221778664892437	1	pfam02481 DNA_processg_A DNA recombination-mediato
+1195	pfam02283	0.0221778664892437	1	pfam02283 CobU Cobinamide kinase / cobinamide phos
+1196	pfam08874	0.0221778664892437	1	pfam08874 DUF1835 Domain of unknown function (DUF1
+1197	pfam06210	0.0221778664892437	1	pfam06210 DUF1003 Protein of unknown function (DUF
+1198	pfam01649	0.0221778664892437	1	pfam01649 Ribosomal_S20p Ribosomal protein S20. Ba
+1199	pfam04552	0.0221778664892437	1	pfam04552 Sigma54_DBD Sigma-54, DNA binding domain
+1200	pfam08323	0.0221778664892437	1	pfam08323 Glyco_transf_5 Starch synthase catalytic
+1201	pfam04354	0.0221778664892437	1	pfam04354 ZipA_C ZipA, C-terminal FtsZ-binding dom
+1202	pfam11981	0.0221778664892437	1	pfam11981 DUF3482 Domain of unknown function (DUF3
+1203	pfam00743	0.0221778664892437	1	pfam00743 FMO-like Flavin-binding monooxygenase-li
+1204	pfam01193	0.0221778664892437	1	pfam01193 RNA_pol_L RNA polymerase Rpb3/Rpb11 dime
+1205	pfam02230	0.0221778664892437	1	pfam02230 Abhydrolase_2 Phospholipase/Carboxyleste
+1206	pfam13501	0.0221778664892437	1	pfam13501 SoxY Sulfur oxidation protein SoxY. This
+1207	pfam00306	0.0221778664892437	1	pfam00306 ATP-synt_ab_C ATP synthase alpha/beta ch
+1208	pfam10972	0.0221778664892437	1	pfam10972 CsiV Peptidoglycan-binding protein, CsiV
+1209	pfam14378	0.0221778664892437	1	pfam14378 PAP2_3 PAP2 superfamily. 
+1210	pfam12693	0.0221778664892437	1	pfam12693 GspL_C GspL periplasmic domain. This dom
+1211	pfam09285	0.0221778664892437	1	pfam09285 Elong-fact-P_C Elongation factor P, C-te
+1212	pfam03401	0.0221778664892437	1	pfam03401 TctC Tripartite tricarboxylate transport
+1213	pfam08298	0.0221778664892437	1	pfam08298 AAA_PrkA PrkA AAA domain. This is a fami
+1214	pfam03006	0.0221778664892437	1	pfam03006 HlyIII Haemolysin-III related. Members o
+1215	pfam02541	0.0221778664892437	1	pfam02541 Ppx-GppA Ppx/GppA phosphatase family. Th
+1216	pfam04174	0.0221778664892437	1	pfam04174 CP_ATPgrasp_1 A circularly permuted ATPg
+1217	pfam03461	0.0221778664892437	1	pfam03461 TRCF TRCF domain. 
+1218	pfam05544	0.0221778664892437	1	pfam05544 Pro_racemase Proline racemase. This fami
+1219	pfam05343	0.0221778664892437	1	pfam05343 Peptidase_M42 M42 glutamyl aminopeptidas
+1220	pfam04413	0.0221778664892437	1	pfam04413 Glycos_transf_N 3-Deoxy-D-manno-octuloso
+1221	pfam02514	0.0221778664892437	1	pfam02514 CobN-Mg_chel CobN/Magnesium Chelatase. T
+1222	pfam08340	0.0221778664892437	1	pfam08340 DUF1732 Domain of unknown function (DUF1
+1223	pfam04345	0.0221778664892437	1	pfam04345 Chor_lyase Chorismate lyase. Chorismate 
+1224	pfam05491	0.0221778664892437	1	pfam05491 RuvB_C Holliday junction DNA helicase ru
+1225	pfam01717	0.0221778664892437	1	pfam01717 Meth_synt_2 Cobalamin-independent syntha
+1226	pfam04964	0.0221778664892437	1	pfam04964 Flp_Fap Flp/Fap pilin component. 
+1227	pfam00809	0.0221778664892437	1	pfam00809 Pterin_bind Pterin binding enzyme. This 
+1228	pfam05721	0.0221778664892437	1	pfam05721 PhyH Phytanoyl-CoA dioxygenase (PhyH). T
+1229	pfam06832	0.0221778664892437	1	pfam06832 BiPBP_C Penicillin-Binding Protein C-ter
+1230	pfam05521	0.0221778664892437	1	pfam05521 Phage_H_T_join Phage head-tail joining p
+1231	pfam05403	0.0221778664892437	1	pfam05403 Plasmodium_HRP Plasmodium histidine-rich
+1232	pfam05545	0.0221778664892437	1	pfam05545 FixQ Cbb3-type cytochrome oxidase compon
+1233	pfam16656	0.0221778664892437	1	pfam16656 Pur_ac_phosph_N Purple acid Phosphatase,
+1234	pfam00438	0.0221778664892437	1	pfam00438 S-AdoMet_synt_N S-adenosylmethionine syn
+1235	pfam14488	0.0221778664892437	1	pfam14488 DUF4434 Domain of unknown function (DUF4
+1236	pfam05673	0.0221778664892437	1	pfam05673 DUF815 Protein of unknown function (DUF8
+1237	pfam13661	0.0221778664892437	1	pfam13661 2OG-FeII_Oxy_4 2OG-Fe(II) oxygenase supe
+1238	pfam05958	0.0221778664892437	1	pfam05958 tRNA_U5-meth_tr tRNA (Uracil-5-)-methylt
+1239	pfam06434	0.0221778664892437	1	pfam06434 Aconitase_2_N Aconitate hydratase 2 N-te
+1240	pfam00719	0.0221778664892437	1	pfam00719 Pyrophosphatase Inorganic pyrophosphatas
+1241	pfam03772	0.0221778664892437	1	pfam03772 Competence Competence protein. Members o
+1242	pfam04898	0.0221778664892437	1	pfam04898 Glu_syn_central Glutamate synthase centr
+1243	pfam16989	0.0221778664892437	1	pfam16989 T6SS_VasJ Type VI secretion, EvfE, EvfF,
+1244	pfam10263	0.0221778664892437	1	pfam10263 SprT-like SprT-like family. This family 
+1245	pfam09413	0.0221778664892437	1	pfam09413 DUF2007 Putative prokaryotic signal tran
+1246	pfam03412	0.0221778664892437	1	pfam03412 Peptidase_C39 Peptidase C39 family. Lant
+1247	pfam05258	0.0221778664892437	1	pfam05258 DUF721 Protein of unknown function (DUF7
+1248	pfam02368	0.0221778664892437	1	pfam02368 Big_2 Bacterial Ig-like domain (group 2)
+1249	pfam04377	0.0221778664892437	1	pfam04377 ATE_C Arginine-tRNA-protein transferase,
+1250	pfam04337	0.0221778664892437	1	pfam04337 DUF480 Protein of unknown function, DUF4
+1251	pfam03799	0.0221778664892437	1	pfam03799 FtsQ Cell division protein FtsQ. FtsQ is
+1252	pfam07486	0.0221778664892437	1	pfam07486 Hydrolase_2 Cell Wall Hydrolase. These e
+1253	pfam11720	0.0221778664892437	1	pfam11720 Inhibitor_I78 Peptidase inhibitor I78 fa
+1254	pfam01874	0.0221778664892437	1	pfam01874 CitG ATP:dephospho-CoA triphosphoribosyl
+1255	pfam12633	0.0221778664892437	1	pfam12633 Adenyl_cycl_N Adenylate cyclase NT domai
+1256	pfam07670	0.0221778664892437	1	pfam07670 Gate Nucleoside recognition. This region
+1257	pfam00542	0.0221778664892437	1	pfam00542 Ribosomal_L12 Ribosomal protein L7/L12 C
+1258	pfam07385	0.0221778664892437	1	pfam07385 DUF1498 Protein of unknown function (DUF
+1259	pfam00416	0.0221778664892437	1	pfam00416 Ribosomal_S13 Ribosomal protein S13/S18.
+1260	pfam08614	0.0221778664892437	1	pfam08614 ATG16 Autophagy protein 16 (ATG16). Auto
+1261	pfam11906	0.0221778664892437	1	pfam11906 DUF3426 Protein of unknown function (DUF
+1262	pfam00842	0.0221778664892437	1	pfam00842 Ala_racemase_C Alanine racemase, C-termi
+1263	pfam07317	0.0221778664892437	1	pfam07317 YcgR Flagellar regulator YcgR. This doma
+1264	pfam09811	0.0221778664892437	1	pfam09811 Yae1_N Essential protein Yae1, N termina
+1265	pfam02049	0.0221778664892437	1	pfam02049 FliE Flagellar hook-basal body complex p
+1266	pfam02482	0.0221778664892437	1	pfam02482 Ribosomal_S30AE Sigma 54 modulation prot
+1267	pfam13480	0.0221778664892437	1	pfam13480 Acetyltransf_6 Acetyltransferase (GNAT) 
+1268	pfam02789	0.0221778664892437	1	pfam02789 Peptidase_M17_N Cytosol aminopeptidase f
+1269	pfam11067	0.0221778664892437	1	pfam11067 DUF2868 Protein of unknown function (DUF
+1270	pfam06167	0.0221778664892437	1	pfam06167 Peptidase_M90 Glucose-regulated metallo-
+1271	pfam07786	0.0221778664892437	1	pfam07786 DUF1624 Protein of unknown function (DUF
+1272	pfam02535	0.0221778664892437	1	pfam02535 Zip ZIP Zinc transporter. The ZIP family
+1273	pfam01729	0.0221778664892437	1	pfam01729 QRPTase_C Quinolinate phosphoribosyl tra
+1274	pfam10397	0.0221778664892437	1	pfam10397 ADSL_C Adenylosuccinate lyase C-terminus
+1275	pfam00091	0.0221778664892437	1	pfam00091 Tubulin Tubulin/FtsZ family, GTPase doma
+1276	pfam02686	0.0221778664892437	1	pfam02686 Glu-tRNAGln Glu-tRNAGln amidotransferase
+1277	pfam01967	0.0221778664892437	1	pfam01967 MoaC MoaC family. Members of this family
+1278	pfam00700	0.0221778664892437	1	pfam00700 Flagellin_C Bacterial flagellin C-termin
+1279	pfam02684	0.0221778664892437	1	pfam02684 LpxB Lipid-A-disaccharide synthetase. Th
+1280	pfam00023	0.0221778664892437	1	pfam00023 Ank Ankyrin repeat. Ankyrins are multifu
+1281	pfam14842	0.0221778664892437	1	pfam14842 FliG_N FliG N-terminal domain. This is t
+1282	pfam00565	0.0221778664892437	1	pfam00565 SNase Staphylococcal nuclease homologue.
+1283	pfam00303	0.0221778664892437	1	pfam00303 Thymidylat_synt Thymidylate synthase. Th
+1284	pfam05164	0.0221778664892437	1	pfam05164 ZapA Cell division protein ZapA. ZapA is
+1285	pfam16460	0.0221778664892437	1	pfam16460 Phage_TTP_11 Phage tail tube, TTP, lambd
+1286	pfam08411	0.0221778664892437	1	pfam08411 Exonuc_X-T_C Exonuclease C-terminal. Thi
+1287	pfam05088	0.0221778664892437	1	pfam05088 Bac_GDH Bacterial NAD-glutamate dehydrog
+1288	pfam12805	0.0221778664892437	1	pfam12805 FUSC-like FUSC-like inner membrane prote
+1289	pfam06267	0.0221778664892437	1	pfam06267 DUF1028 Family of unknown function (DUF1
+1290	pfam13086	0.0221778664892437	1	pfam13086 AAA_11 AAA domain. This family of domain
+1291	pfam01322	0.0221778664892437	1	pfam01322 Cytochrom_C_2 Cytochrome C'. 
+1292	pfam01699	0.0221778664892437	1	pfam01699 Na_Ca_ex Sodium/calcium exchanger protei
+1293	pfam03971	0.0221778664892437	1	pfam03971 IDH Monomeric isocitrate dehydrogenase. 
+1294	pfam06035	0.0221778664892437	1	pfam06035 Peptidase_C93 Bacterial transglutaminase
+1295	pfam13624	0.0221778664892437	1	pfam13624 SurA_N_3 SurA N-terminal domain. This do
+1296	pfam02749	0.0221778664892437	1	pfam02749 QRPTase_N Quinolinate phosphoribosyl tra
+1297	pfam05661	0.0221778664892437	1	pfam05661 DUF808 Protein of unknown function (DUF8
+1298	pfam01409	0.0221778664892437	1	pfam01409 tRNA-synt_2d tRNA synthetases class II c
+1299	pfam00815	0.0221778664892437	1	pfam00815 Histidinol_dh Histidinol dehydrogenase. 
+1300	pfam01411	0.0221778664892437	1	pfam01411 tRNA-synt_2c tRNA synthetases class II (
+1301	pfam06833	0.0221778664892437	1	pfam06833 MdcE Malonate decarboxylase gamma subuni
+1302	pfam14561	0.0221778664892437	1	pfam14561 TPR_20 Tetratricopeptide repeat. 
+1303	pfam02504	0.0221778664892437	1	pfam02504 FA_synthesis Fatty acid synthesis protei
+1304	pfam03775	0.0221778664892437	1	pfam03775 MinC_C Septum formation inhibitor MinC, 
+1305	pfam01281	0.0221778664892437	1	pfam01281 Ribosomal_L9_N Ribosomal protein L9, N-t
+1306	pfam14414	0.0221778664892437	1	pfam14414 WHH A nuclease of the HNH/ENDO VII super
+1307	pfam12002	0.0221778664892437	1	pfam12002 MgsA_C MgsA AAA+ ATPase C terminal. The 
+1308	pfam03597	0.0221778664892437	1	pfam03597 FixS Cytochrome oxidase maturation prote
+1309	pfam13581	0.0221778664892437	1	pfam13581 HATPase_c_2 Histidine kinase-like ATPase
+1310	pfam00591	0.0221778664892437	1	pfam00591 Glycos_transf_3 Glycosyl transferase fam
+1311	pfam07152	0.0221778664892437	1	pfam07152 YaeQ YaeQ protein. This family consists 
+1312	pfam09898	0.0221778664892437	1	pfam09898 DUF2125 Uncharacterized protein conserve
+1313	pfam13433	0.0221778664892437	1	pfam13433 Peripla_BP_5 Periplasmic binding protein
+1314	pfam07055	0.0221778664892437	1	pfam07055 Eno-Rase_FAD_bd Enoyl reductase FAD bind
+1315	pfam00939	0.0221778664892437	1	pfam00939 Na_sulph_symp Sodium:sulfate symporter t
+1316	pfam03719	0.0221778664892437	1	pfam03719 Ribosomal_S5_C Ribosomal protein S5, C-t
+1317	pfam02601	0.0221778664892437	1	pfam02601 Exonuc_VII_L Exonuclease VII, large subu
+1318	pfam05050	0.0221778664892437	1	pfam05050 Methyltransf_21 Methyltransferase FkbM d
+1319	pfam07045	0.0221778664892437	1	pfam07045 DUF1330 Domain of unknown function (DUF1
+1320	pfam04352	0.0221778664892437	1	pfam04352 ProQ ProQ/FINO family. This family inclu
+1321	pfam07521	0.0221778664892437	1	pfam07521 RMMBL RNA-metabolizing metallo-beta-lact
+1322	pfam04449	0.0221778664892437	1	pfam04449 Fimbrial_CS1 CS1 type fimbrial major sub
+1323	pfam01817	0.0221778664892437	1	pfam01817 CM_2 Chorismate mutase type II. Chorisma
+1324	pfam07759	0.0221778664892437	1	pfam07759 DUF1615 Protein of unknown function (DUF
+1325	pfam06445	0.0221778664892437	1	pfam06445 GyrI-like GyrI-like small molecule bindi
+1326	pfam05565	0.0221778664892437	1	pfam05565 Sipho_Gp157 Siphovirus Gp157. This famil
+1327	pfam14697	0.0221778664892437	1	pfam14697 Fer4_21 4Fe-4S dicluster domain. Superfa
+1328	pfam13413	0.0221778664892437	1	pfam13413 HTH_25 Helix-turn-helix domain. This dom
+1329	pfam03449	0.0221778664892437	1	pfam03449 GreA_GreB_N Transcription elongation fac
+1330	pfam13591	0.0221778664892437	1	pfam13591 MerR_2 MerR HTH family regulatory protei
+1331	pfam13726	0.0221778664892437	1	pfam13726 Na_H_antiport_2 Na+-H+ antiporter family
+1332	pfam09098	0.0221778664892437	1	pfam09098 Dehyd-heme_bind Quinohemoprotein amine d
+1333	pfam02550	0.0221778664892437	1	pfam02550 AcetylCoA_hydro Acetyl-CoA hydrolase/tra
+1334	pfam07876	0.0221778664892437	1	pfam07876 Dabb Stress responsive A/B Barrel Domain
+1335	pfam09371	0.0221778664892437	1	pfam09371 Tex_N Tex-like protein N-terminal domain
+1336	pfam03845	0.0221778664892437	1	pfam03845 Spore_permease Spore germination protein
+1337	pfam05728	0.0221778664892437	1	pfam05728 UPF0227 uncharacterized protein family (
+1338	pfam01161	0.0221778664892437	1	pfam01161 PBP Phosphatidylethanolamine-binding pro
+1339	pfam01807	0.0221778664892437	1	pfam01807 zf-CHC2 CHC2 zinc finger. This domain is
+1340	pfam13589	0.0221778664892437	1	pfam13589 HATPase_c_3 Histidine kinase-, DNA gyras
+1341	pfam02223	0.0221778664892437	1	pfam02223 Thymidylate_kin Thymidylate kinase. 
+1342	pfam10396	0.0221778664892437	1	pfam10396 TrmE_N GTP-binding protein TrmE N-termin
+1343	pfam08267	0.0221778664892437	1	pfam08267 Meth_synt_1 Cobalamin-independent syntha
+1344	pfam04191	0.0221778664892437	1	pfam04191 PEMT Phospholipid methyltransferase. The
+1345	pfam04102	0.0221778664892437	1	pfam04102 SlyX SlyX. The SlyX protein has no known
+1346	pfam12261	0.0221778664892437	1	pfam12261 T_hemolysin Thermostable hemolysin. This
+1347	pfam01769	0.0221778664892437	1	pfam01769 MgtE Divalent cation transporter. This r
+1348	pfam08497	0.0221778664892437	1	pfam08497 Radical_SAM_N Radical SAM N-terminal. Th
+1349	pfam00185	0.0221778664892437	1	pfam00185 OTCace Aspartate/ornithine carbamoyltran
+1350	pfam07549	0.0221778664892437	1	pfam07549 Sec_GG SecD/SecF GG Motif. This family c
+1351	pfam11737	0.0221778664892437	1	pfam11737 DUF3300 Protein of unknown function (DUF
+1352	pfam13932	0.0221778664892437	1	pfam13932 GIDA_assoc GidA associated domain. The G
+1353	pfam06745	0.0221778664892437	1	pfam06745 KaiC KaiC. This family represents a cons
+1354	pfam04262	0.0221778664892437	1	pfam04262 Glu_cys_ligase Glutamate-cysteine ligase
+1355	pfam02670	0.0221778664892437	1	pfam02670 DXP_reductoisom 1-deoxy-D-xylulose 5-pho
+1356	pfam08327	0.0221778664892437	1	pfam08327 AHSA1 Activator of Hsp90 ATPase homolog 
+1357	pfam13438	0.0221778664892437	1	pfam13438 DUF4113 Domain of unknown function (DUF4
+1358	pfam01379	0.0221778664892437	1	pfam01379 Porphobil_deam Porphobilinogen deaminase
+1359	pfam00816	0.0221778664892437	1	pfam00816 Histone_HNS H-NS histone family. 
+1360	pfam08238	0.0221778664892437	1	pfam08238 Sel1 Sel1 repeat. This short repeat is f
+1361	pfam06029	0.0221778664892437	1	pfam06029 AlkA_N AlkA N-terminal domain. 
+1362	pfam01078	0.0221778664892437	1	pfam01078 Mg_chelatase Magnesium chelatase, subuni
+1363	pfam14310	0.0221778664892437	1	pfam14310 Fn3-like Fibronectin type III-like domai
+1364	pfam03739	0.0221778664892437	1	pfam03739 YjgP_YjgQ Predicted permease YjgP/YjgQ f
+1365	pfam09634	0.0221778664892437	1	pfam09634 DUF2025 Protein of unknown function (DUF
+1366	pfam13689	0.0221778664892437	1	pfam13689 DUF4154 Domain of unknown function (DUF4
+1367	pfam02739	0.0221778664892437	1	pfam02739 5_3_exonuc_N 5'-3' exonuclease, N-termin
+1368	pfam04228	0.0221778664892437	1	pfam04228 Zn_peptidase Putative neutral zinc metal
+1369	pfam06934	0.0221778664892437	1	pfam06934 CTI Fatty acid cis/trans isomerase (CTI)
+1370	pfam04168	0.0221778664892437	1	pfam04168 Alpha-E A predicted alpha-helical domain
+1371	pfam02302	0.0221778664892437	1	pfam02302 PTS_IIB PTS system, Lactose/Cellobiose s
+1372	pfam04397	0.0221778664892437	1	pfam04397 LytTR LytTr DNA-binding domain. This dom
+1373	pfam02348	0.0221778664892437	1	pfam02348 CTP_transf_3 Cytidylyltransferase. This 
+1374	pfam00707	0.0221778664892437	1	pfam00707 IF3_C Translation initiation factor IF-3
+1375	pfam00380	0.0221778664892437	1	pfam00380 Ribosomal_S9 Ribosomal protein S9/S16. T
+1376	pfam03454	0.0221778664892437	1	pfam03454 MoeA_C MoeA C-terminal region (domain IV
+1377	pfam12048	0.0221778664892437	1	pfam12048 DUF3530 Protein of unknown function (DUF
+1378	pfam05221	0.0221778664892437	1	pfam05221 AdoHcyase S-adenosyl-L-homocysteine hydr
+1379	pfam02245	0.0221778664892437	1	pfam02245 Pur_DNA_glyco Methylpurine-DNA glycosyla
+1380	pfam12320	0.0221778664892437	1	pfam12320 SbcD_C Type 5 capsule protein repressor 
+1381	pfam12708	0.0221778664892437	1	pfam12708 Pectate_lyase_3 Pectate lyase superfamil
+1382	pfam10615	0.0221778664892437	1	pfam10615 DUF2470 Protein of unknown function (DUF
+1383	pfam02600	0.0221778664892437	1	pfam02600 DsbB Disulfide bond formation protein Ds
+1384	pfam02403	0.0221778664892437	1	pfam02403 Seryl_tRNA_N Seryl-tRNA synthetase N-ter
+1385	pfam13304	0.0221778664892437	1	pfam13304 AAA_21 AAA domain, putative AbiEii toxin
+1386	pfam03951	0.0221778664892437	1	pfam03951 Gln-synt_N Glutamine synthetase, beta-Gr
+1387	pfam03255	0.0221778664892437	1	pfam03255 ACCA Acetyl co-enzyme A carboxylase carb
+1388	pfam13711	0.0221778664892437	1	pfam13711 DUF4160 Domain of unknown function (DUF4
+1389	pfam05698	0.0221778664892437	1	pfam05698 Trigger_C Bacterial trigger factor prote
+1390	pfam00311	0.0221778664892437	1	pfam00311 PEPcase Phosphoenolpyruvate carboxylase.
+1391	pfam02405	0.0221778664892437	1	pfam02405 MlaE Permease MlaE. MlaE is a permease w
+1392	pfam14760	0.0221778664892437	1	pfam14760 Rnk_N Rnk N-terminus. This domain occurs
+1393	pfam09500	0.0221778664892437	1	pfam09500 YiiD_C Putative thioesterase (yiiD_Cterm
+1394	pfam09948	0.0221778664892437	1	pfam09948 DUF2182 Predicted metal-binding integral
+1395	pfam00177	0.0221778664892437	1	pfam00177 Ribosomal_S7 Ribosomal protein S7p/S5e. 
+1396	pfam03168	0.0221778664892437	1	pfam03168 LEA_2 Late embryogenesis abundant protei
+1397	pfam00297	0.0221778664892437	1	pfam00297 Ribosomal_L3 Ribosomal protein L3. 
+1398	pfam03606	0.0221778664892437	1	pfam03606 DcuC C4-dicarboxylate anaerobic carrier.
+1399	pfam01345	0.0221778664892437	1	pfam01345 DUF11 Domain of unknown function DUF11. 
+1400	pfam12392	0.0221778664892437	1	pfam12392 DUF3656 Collagenase. This domain family 
+1401	pfam00141	0.0221778664892437	1	pfam00141 peroxidase Peroxidase. 
+1402	pfam13507	0.0221778664892437	1	pfam13507 GATase_5 CobB/CobQ-like glutamine amidot
+1403	pfam15685	0.0221778664892437	1	pfam15685 GGN Gametogenetin. GGN is a family of pr
+1404	pfam01977	0.0221778664892437	1	pfam01977 UbiD 3-octaprenyl-4-hydroxybenzoate carb
+1405	pfam02571	0.0221778664892437	1	pfam02571 CbiJ Precorrin-6x reductase CbiJ/CobK. T
+1406	pfam04386	0.0221778664892437	1	pfam04386 SspB Stringent starvation protein B. Esc
+1407	pfam03458	0.0221778664892437	1	pfam03458 UPF0126 UPF0126 domain. Domain always fo
+1408	pfam03974	0.0221778664892437	1	pfam03974 Ecotin Ecotin. Ecotin is a broad range s
+1409	pfam16653	0.0221778664892437	1	pfam16653 Sacchrp_dh_C Saccharopine dehydrogenase 
+1410	pfam16916	0.0221778664892437	1	pfam16916 ZT_dimer Dimerization domain of Zinc Tra
+1411	pfam06381	0.0221778664892437	1	pfam06381 DUF1073 Protein of unknown function (DUF
+1412	pfam06803	0.0221778664892437	1	pfam06803 DUF1232 Protein of unknown function (DUF
+1413	pfam04348	0.0221778664892437	1	pfam04348 LppC LppC putative lipoprotein. This fam
+1414	pfam02151	0.0221778664892437	1	pfam02151 UVR UvrB/uvrC motif. 
+1415	pfam00384	0.0221778664892437	1	pfam00384 Molybdopterin Molybdopterin oxidoreducta
+1416	pfam07311	0.0221778664892437	1	pfam07311 Dodecin Dodecin. Dodecin is a flavin-bin
+1417	pfam00154	0.0221778664892437	1	pfam00154 RecA recA bacterial DNA recombination pr
+1418	pfam07103	0.0221778664892437	1	pfam07103 DUF1365 Protein of unknown function (DUF
+1419	pfam06865	0.0221778664892437	1	pfam06865 DUF1255 Protein of unknown function (DUF
+1420	pfam06429	0.0221778664892437	1	pfam06429 Flg_bbr_C Flagellar basal body rod FlgEF
+1421	pfam04982	0.0221778664892437	1	pfam04982 HPP HPP family. These proteins are integ
+1422	pfam13400	0.0221778664892437	1	pfam13400 Tad Putative Flp pilus-assembly TadE/G-l
+1423	pfam01668	0.0221778664892437	1	pfam01668 SmpB SmpB protein. 
+1424	pfam00772	0.0221778664892437	1	pfam00772 DnaB DnaB-like helicase N terminal domai
+1425	pfam11818	0.0221778664892437	1	pfam11818 DUF3340 C-terminal domain of tail specif
+1426	pfam03239	0.0221778664892437	1	pfam03239 FTR1 Iron permease FTR1 family. 
+1427	pfam11454	0.0221778664892437	1	pfam11454 DUF3016 Protein of unknown function (DUF
+1428	pfam04353	0.0221778664892437	1	pfam04353 Rsd_AlgQ Regulator of RNA polymerase sig
+1429	pfam00281	0.0221778664892437	1	pfam00281 Ribosomal_L5 Ribosomal protein L5. 
+1430	pfam08816	0.0221778664892437	1	pfam08816 Ivy Inhibitor of vertebrate lysozyme (Iv
+1431	pfam02609	0.0221778664892437	1	pfam02609 Exonuc_VII_S Exonuclease VII small subun
+1432	pfam03922	0.0221778664892437	1	pfam03922 OmpW OmpW family. This family includes o
+1433	pfam06798	0.0221778664892437	1	pfam06798 PrkA PrkA serine protein kinase C-termin
+1434	pfam01169	0.0221778664892437	1	pfam01169 UPF0016 Uncharacterized protein family U
+1435	pfam01008	0.0221778664892437	1	pfam01008 IF-2B Initiation factor 2 subunit family
+1436	pfam04216	0.0221778664892437	1	pfam04216 FdhE Protein involved in formate dehydro
+1437	pfam01842	0.0221778664892437	1	pfam01842 ACT ACT domain. This family of domains g
+1438	pfam10423	0.0221778664892437	1	pfam10423 AMNp_N Bacterial AMP nucleoside phosphor
+1439	pfam11319	0.0221778664892437	1	pfam11319 VasI Type VI secretion system VasI, EvfG
+1440	pfam10045	0.0221778664892437	1	pfam10045 DUF2280 Uncharacterized conserved protei
+1441	pfam16967	0.0221778664892437	1	pfam16967 TcfC Fimbrial, FimD or usher-like. TcfC 
+1442	pfam02772	0.0221778664892437	1	pfam02772 S-AdoMet_synt_M S-adenosylmethionine syn
+1443	pfam03668	0.0221778664892437	1	pfam03668 ATP_bind_2 P-loop ATPase protein family.
+1444	pfam13175	0.0221778664892437	1	pfam13175 AAA_15 AAA ATPase domain. This family of
+1445	pfam02580	0.0221778664892437	1	pfam02580 Tyr_Deacylase D-Tyr-tRNA(Tyr) deacylase.
+1446	pfam05992	0.0221778664892437	1	pfam05992 SbmA_BacA SbmA/BacA-like family. The Rhi
+1447	pfam00163	0.0221778664892437	1	pfam00163 Ribosomal_S4 Ribosomal protein S4/S9 N-t
+1448	pfam08335	0.0221778664892437	1	pfam08335 GlnD_UR_UTase GlnD PII-uridylyltransfera
+1449	pfam06725	0.0221778664892437	1	pfam06725 3D 3D domain. This short presumed domain
+1450	pfam03949	0.0221778664892437	1	pfam03949 Malic_M Malic enzyme, NAD binding domain
+1451	pfam13652	0.0221778664892437	1	pfam13652 QSregVF Putative quorum-sensing-regulate
+1452	pfam03725	0.0221778664892437	1	pfam03725 RNase_PH_C 3' exoribonuclease family, do
+1453	pfam13393	0.0221778664892437	1	pfam13393 tRNA-synt_His Histidyl-tRNA synthetase. 
+1454	pfam09907	0.0221778664892437	1	pfam09907 HigB_toxin HigB_toxin, RelE-like toxic c
+1455	pfam07478	0.0221778664892437	1	pfam07478 Dala_Dala_lig_C D-ala D-ala ligase C-ter
+1456	pfam01706	0.0221778664892437	1	pfam01706 FliG_C FliG C-terminal domain. FliG is a
+1457	pfam06057	0.0221778664892437	1	pfam06057 VirJ Bacterial virulence protein (VirJ).
+1458	pfam01406	0.0221778664892437	1	pfam01406 tRNA-synt_1e tRNA synthetases class I (C
+1459	pfam06827	0.0221778664892437	1	pfam06827 zf-FPG_IleRS Zinc finger found in FPG an
+1460	pfam02091	0.0221778664892437	1	pfam02091 tRNA-synt_2e Glycyl-tRNA synthetase alph
+1461	pfam04241	0.0221778664892437	1	pfam04241 DUF423 Protein of unknown function (DUF4
+1462	pfam04261	0.0221778664892437	1	pfam04261 Dyp_perox Dyp-type peroxidase family. Th
+1463	pfam09349	0.0221778664892437	1	pfam09349 OHCU_decarbox OHCU decarboxylase. The pr
+1464	pfam13288	0.0221778664892437	1	pfam13288 DXPR_C DXP reductoisomerase C-terminal d
+1465	pfam03749	0.0221778664892437	1	pfam03749 SfsA Sugar fermentation stimulation prot
+1466	pfam13473	0.0221778664892437	1	pfam13473 Cupredoxin_1 Cupredoxin-like domain. The
+1467	pfam08856	0.0221778664892437	1	pfam08856 DUF1826 Protein of unknown function (DUF
+1468	pfam07195	0.0221778664892437	1	pfam07195 FliD_C Flagellar hook-associated protein
+1469	pfam12266	0.0221778664892437	1	pfam12266 DUF3613 Protein of unknown function (DUF
+1470	pfam01050	0.0221778664892437	1	pfam01050 MannoseP_isomer Mannose-6-phosphate isom
+1471	pfam00107	0.0221778664892437	1	pfam00107 ADH_zinc_N Zinc-binding dehydrogenase. 
+1472	pfam03592	0.0221778664892437	1	pfam03592 Terminase_2 Terminase small subunit. Pac
+1473	pfam05130	0.0221778664892437	1	pfam05130 FlgN FlgN protein. This family includes 
+1474	pfam09209	0.0221778664892437	1	pfam09209 DUF1956 Domain of unknown function (DUF1
+1475	pfam01163	0.0221778664892437	1	pfam01163 RIO1 RIO1 family. This is a family of at
+1476	pfam06723	0.0221778664892437	1	pfam06723 MreB_Mbl MreB/Mbl protein. This family c
+1477	pfam03050	0.0221778664892437	1	pfam03050 DDE_Tnp_IS66 Transposase IS66 family. Tr
+1478	pfam03330	0.0221778664892437	1	pfam03330 DPBB_1 Rare lipoprotein A (RlpA)-like do
+1479	pfam13377	0.0221778664892437	1	pfam13377 Peripla_BP_3 Periplasmic binding protein
+1480	pfam09848	0.0221778664892437	1	pfam09848 DUF2075 Uncharacterized conserved protei
+1481	pfam02113	0.0221778664892437	1	pfam02113 Peptidase_S13 D-Ala-D-Ala carboxypeptida
+1482	pfam04675	0.0221778664892437	1	pfam04675 DNA_ligase_A_N DNA ligase N terminus. Th
+1483	pfam08808	0.0221778664892437	1	pfam08808 RES RES domain. This presumed domain con
+1484	pfam06826	0.0221778664892437	1	pfam06826 Asp-Al_Ex Predicted Permease Membrane Re
+1485	pfam06794	0.0221778664892437	1	pfam06794 UPF0270 uncharacterized protein family (
+1486	pfam10093	0.0221778664892437	1	pfam10093 DUF2331 Uncharacterized protein conserve
+1487	pfam08888	0.0221778664892437	1	pfam08888 HopJ HopJ type III effector protein. Pat
+1488	pfam05985	0.0221778664892437	1	pfam05985 EutC Ethanolamine ammonia-lyase light ch
+1489	pfam04393	0.0221778664892437	1	pfam04393 DUF535 Protein of unknown function (DUF5
+1490	pfam02501	0.0221778664892437	1	pfam02501 T2SSI Type II secretion system (T2SS), p
+1491	pfam11220	0.0221778664892437	1	pfam11220 DUF3015 Protein of unknown function (DUF
+1492	pfam00490	0.0221778664892437	1	pfam00490 ALAD Delta-aminolevulinic acid dehydrata
+1493	pfam00891	0.0221778664892437	1	pfam00891 Methyltransf_2 O-methyltransferase. This
+1494	pfam01256	0.0221778664892437	1	pfam01256 Carb_kinase Carbohydrate kinase. This fa
+1495	pfam08659	0.0221778664892437	1	pfam08659 KR KR domain. This enzymatic domain is p
+1496	pfam02926	0.0221778664892437	1	pfam02926 THUMP THUMP domain. The THUMP domain is 
+1497	pfam04264	0.0221778664892437	1	pfam04264 YceI YceI-like domain. E. coli YceI is a
+1498	pfam08436	0.0221778664892437	1	pfam08436 DXP_redisom_C 1-deoxy-D-xylulose 5-phosp
+1499	pfam01507	0.0221778664892437	1	pfam01507 PAPS_reduct Phosphoadenosine phosphosulf
+1500	pfam00075	0.0221778664892437	1	pfam00075 RNase_H RNase H. RNase H digests the RNA
+1501	pfam06961	0.0221778664892437	1	pfam06961 DUF1294 Protein of unknown function (DUF
+1502	pfam01502	0.0221778664892437	1	pfam01502 PRA-CH Phosphoribosyl-AMP cyclohydrolase
+1503	pfam02333	0.0221778664892437	1	pfam02333 Phytase Phytase. Phytase is a secreted e
+1504	pfam02391	0.0221778664892437	1	pfam02391 MoaE MoaE protein. This family contains 
+1505	pfam10262	0.0221778664892437	1	pfam10262 Rdx Rdx family. This entry is an approxi
+1506	pfam07517	0.0221778664892437	1	pfam07517 SecA_DEAD SecA DEAD-like domain. SecA pr
+1507	pfam05127	0.0221778664892437	1	pfam05127 Helicase_RecD Helicase. This domain cont
+1508	pfam06853	0.0221778664892437	1	pfam06853 DUF1249 Protein of unknown function (DUF
+1509	pfam00958	0.0221778664892437	1	pfam00958 GMP_synt_C GMP synthase C terminal domai
+1510	pfam01177	0.0221778664892437	1	pfam01177 Asp_Glu_race Asp/Glu/Hydantoin racemase.
+1511	pfam03869	0.0221778664892437	1	pfam03869 Arc Arc-like DNA binding domain. Arc rep
+1512	pfam13226	0.0221778664892437	1	pfam13226 DUF4034 Domain of unknown function (DUF4
+1513	pfam00011	0.0221778664892437	1	pfam00011 HSP20 Hsp20/alpha crystallin family. Not
+1514	pfam02554	0.0221778664892437	1	pfam02554 CstA Carbon starvation protein CstA. Thi
+1515	pfam11937	0.0221778664892437	1	pfam11937 DUF3455 Protein of unknown function (DUF
+1516	pfam00673	0.0221778664892437	1	pfam00673 Ribosomal_L5_C ribosomal L5P family C-te
+1517	pfam08331	0.0221778664892437	1	pfam08331 DUF1730 Domain of unknown function (DUF1
+1518	pfam08682	0.0221778664892437	1	pfam08682 DUF1780 Putative endonuclease, protein o
+1519	pfam09314	0.0221778664892437	1	pfam09314 DUF1972 Domain of unknown function (DUF1
+1520	pfam01227	0.0221778664892437	1	pfam01227 GTP_cyclohydroI GTP cyclohydrolase I. Th
+1521	pfam04344	0.0221778664892437	1	pfam04344 CheZ Chemotaxis phosphatase, CheZ. This 
+1522	pfam12832	0.0221778664892437	1	pfam12832 MFS_1_like MFS_1 like family. In fungal 
+1523	pfam08495	0.0221778664892437	1	pfam08495 FIST FIST N domain. The FIST N domain is
+1524	pfam06857	0.0221778664892437	1	pfam06857 ACP Malonate decarboxylase delta subunit
+1525	pfam02735	0.0221778664892437	1	pfam02735 Ku Ku70/Ku80 beta-barrel domain. The Ku 
+1526	pfam15617	0.0221778664892437	1	pfam15617 C-C_Bond_Lyase C-C_Bond_Lyase of the TIM
+1527	pfam01774	0.0221778664892437	1	pfam01774 UreD UreD urease accessory protein. UreD
+1528	pfam09842	0.0221778664892437	1	pfam09842 DUF2069 Predicted membrane protein (DUF2
+1529	pfam01512	0.0221778664892437	1	pfam01512 Complex1_51K Respiratory-chain NADH dehy
+1530	pfam02897	0.0221778664892437	1	pfam02897 Peptidase_S9_N Prolyl oligopeptidase, N-
+1531	pfam01654	0.0221778664892437	1	pfam01654 Cyt_bd_oxida_I Cytochrome bd terminal ox
+1532	pfam04245	0.0221778664892437	1	pfam04245 NA37 37-kD nucleoid-associated bacterial
+1533	pfam09107	0.0221778664892437	1	pfam09107 SelB-wing_3 Elongation factor SelB, wing
+1534	pfam11784	0.0221778664892437	1	pfam11784 DUF3320 Protein of unknown function (DUF
+1535	pfam11741	0.0221778664892437	1	pfam11741 AMIN AMIN domain. This N-terminal domain
+1536	pfam03888	0.0221778664892437	1	pfam03888 MucB_RseB MucB/RseB family. Members of t
+1537	pfam02777	0.0221778664892437	1	pfam02777 Sod_Fe_C Iron/manganese superoxide dismu
+1538	pfam01888	0.0221778664892437	1	pfam01888 CbiD CbiD. CbiD is essential for cobalam
+1539	pfam01135	0.0221778664892437	1	pfam01135 PCMT Protein-L-isoaspartate(D-aspartate)
+1540	pfam13638	0.0221778664892437	1	pfam13638 PIN_4 PIN domain. Members of this family
+1541	pfam09867	0.0221778664892437	1	pfam09867 DUF2094 Uncharacterized protein conserve
+1542	pfam10117	0.0221778664892437	1	pfam10117 McrBC McrBC 5-methylcytosine restriction
+1543	pfam06791	0.0221778664892437	1	pfam06791 TMP_2 Prophage tail length tape measure 
+1544	pfam07685	0.0221778664892437	1	pfam07685 GATase_3 CobB/CobQ-like glutamine amidot
+1545	pfam14681	0.0221778664892437	1	pfam14681 UPRTase Uracil phosphoribosyltransferase
+1546	pfam13481	0.0221778664892437	1	pfam13481 AAA_25 AAA domain. This AAA domain is fo
+1547	pfam02817	0.0221778664892437	1	pfam02817 E3_binding e3 binding domain. This famil
+1548	pfam06073	0.0221778664892437	1	pfam06073 DUF934 Bacterial protein of unknown func
+1549	pfam01641	0.0221778664892437	1	pfam01641 SelR SelR domain. Methionine sulfoxide r
+1550	pfam02367	0.0221778664892437	1	pfam02367 TsaE Threonylcarbamoyl adenosine biosynt
+1551	pfam03102	0.0221778664892437	1	pfam03102 NeuB NeuB family. NeuB is the prokaryoti
+1552	pfam00221	0.0221778664892437	1	pfam00221 Lyase_aromatic Aromatic amino acid lyase
+1553	pfam00657	0.0221778664892437	1	pfam00657 Lipase_GDSL GDSL-like Lipase/Acylhydrola
+1554	pfam02464	0.0221778664892437	1	pfam02464 CinA Competence-damaged protein. CinA is
+1555	pfam14815	0.0221778664892437	1	pfam14815 NUDIX_4 NUDIX domain. 
+1556	pfam00830	0.0221778664892437	1	pfam00830 Ribosomal_L28 Ribosomal L28 family. The 
+1557	pfam01891	0.0221778664892437	1	pfam01891 CbiM Cobalt uptake substrate-specific tr
+1558	pfam02922	0.0221778664892437	1	pfam02922 CBM_48 Carbohydrate-binding module 48 (I
+1559	pfam01904	0.0221778664892437	1	pfam01904 DUF72 Protein of unknown function DUF72.
+1560	pfam12728	0.0221778664892437	1	pfam12728 HTH_17 Helix-turn-helix domain. This dom
+1561	pfam16325	0.0221778664892437	1	pfam16325 Peptidase_U32_C Peptidase family U32 C-t
+1562	pfam00466	0.0221778664892437	1	pfam00466 Ribosomal_L10 Ribosomal protein L10. 
+1563	pfam05277	0.0221778664892437	1	pfam05277 DUF726 Protein of unknown function (DUF7
+1564	pfam02685	0.0221778664892437	1	pfam02685 Glucokinase Glucokinase. This is a famil
+1565	pfam07536	0.0221778664892437	1	pfam07536 HWE_HK HWE histidine kinase. Two-compone
+1566	pfam05523	0.0221778664892437	1	pfam05523 FdtA WxcM-like, C-terminal. This family 
+1567	pfam01493	0.0221778664892437	1	pfam01493 GXGXG GXGXG motif. This domain is found 
+1568	pfam02861	0.0221778664892437	1	pfam02861 Clp_N Clp amino terminal domain, pathoge
+1569	pfam13645	0.0221778664892437	1	pfam13645 YkuD_2 L,D-transpeptidase catalytic doma
+1570	pfam01262	0.0221778664892437	1	pfam01262 AlaDh_PNT_C Alanine dehydrogenase/PNT, C
+1571	pfam03447	0.0221778664892437	1	pfam03447 NAD_binding_3 Homoserine dehydrogenase, 
+1572	pfam02021	0.0221778664892437	1	pfam02021 UPF0102 uncharacterized protein family U
+1573	pfam02559	0.0221778664892437	1	pfam02559 CarD_CdnL_TRCF CarD-like/TRCF domain. Ca
+1574	pfam07012	0.0221778664892437	1	pfam07012 Curlin_rpt Curlin associated repeat. Thi
+1575	pfam13806	0.0221778664892437	1	pfam13806 Rieske_2 Rieske-like [2Fe-2S] domain. 
+1576	pfam03576	0.0221778664892437	1	pfam03576 Peptidase_S58 Peptidase family S58. 
+1577	pfam13089	0.0221778664892437	1	pfam13089 PP_kinase_N Polyphosphate kinase N-termi
+1578	pfam00861	0.0221778664892437	1	pfam00861 Ribosomal_L18p Ribosomal L18p/L5e family
+1579	pfam04560	0.0221778664892437	1	pfam04560 RNA_pol_Rpb2_7 RNA polymerase Rpb2, doma
+1580	pfam05768	0.0221778664892437	1	pfam05768 DUF836 Glutaredoxin-like domain (DUF836)
+1581	pfam07308	0.0221778664892437	1	pfam07308 DUF1456 Protein of unknown function (DUF
+1582	pfam05425	0.0221778664892437	1	pfam05425 CopD Copper resistance protein D. Copper
+1583	pfam01624	0.0221778664892437	1	pfam01624 MutS_I MutS domain I. This domain is fou
+1584	pfam04577	0.0221778664892437	1	pfam04577 DUF563 Protein of unknown function (DUF5
+1585	pfam11278	0.0221778664892437	1	pfam11278 DUF3079 Protein of unknown function (DUF
+1586	pfam00883	0.0221778664892437	1	pfam00883 Peptidase_M17 Cytosol aminopeptidase fam
+1587	pfam06769	0.0221778664892437	1	pfam06769 YoeB_toxin YoeB-like toxin of bacterial 
+1588	pfam04316	0.0221778664892437	1	pfam04316 FlgM Anti-sigma-28 factor, FlgM. FlgM bi
+1589	pfam02673	0.0221778664892437	1	pfam02673 BacA Bacitracin resistance protein BacA.
+1590	pfam02503	0.0221778664892437	1	pfam02503 PP_kinase Polyphosphate kinase middle do
+1591	pfam03445	0.0221778664892437	1	pfam03445 DUF294 Putative nucleotidyltransferase D
+1592	pfam08906	0.0221778664892437	1	pfam08906 DUF1851 Domain of unknown function (DUF1
+1593	pfam15902	0.0221778664892437	1	pfam15902 Sortilin-Vps10 Sortilin, neurotensin rec
+1594	pfam02424	0.0221778664892437	1	pfam02424 ApbE ApbE family. This prokaryotic famil
+1595	pfam01841	0.0221778664892437	1	pfam01841 Transglut_core Transglutaminase-like sup
+1596	pfam08220	0.0221778664892437	1	pfam08220 HTH_DeoR DeoR-like helix-turn-helix doma
+1597	pfam00381	0.0221778664892437	1	pfam00381 PTS-HPr PTS HPr component phosphorylatio
+1598	pfam08502	0.0221778664892437	1	pfam08502 LeuA_dimer LeuA allosteric (dimerization
+1599	pfam01648	0.0221778664892437	1	pfam01648 ACPS 4'-phosphopantetheinyl transferase 
+1600	pfam13371	0.0221778664892437	1	pfam13371 TPR_9 Tetratricopeptide repeat. 
+1601	pfam00923	0.0221778664892437	1	pfam00923 Transaldolase Transaldolase. 
+1602	pfam06026	0.0221778664892437	1	pfam06026 Rib_5-P_isom_A Ribose 5-phosphate isomer
+1603	pfam13464	0.0221778664892437	1	pfam13464 DUF4115 Domain of unknown function (DUF4
+1604	pfam14567	0.0221778664892437	1	pfam14567 SUKH_5 SMI1-KNR4 cell-wall. Members of t
+1605	pfam06750	0.0221778664892437	1	pfam06750 DiS_P_DiS Bacterial Peptidase A24 N-term
+1606	pfam03116	0.0221778664892437	1	pfam03116 NQR2_RnfD_RnfE NQR2, RnfD, RnfE family. 
+1607	pfam04561	0.0221778664892437	1	pfam04561 RNA_pol_Rpb2_2 RNA polymerase Rpb2, doma
+1608	pfam13633	0.0221778664892437	1	pfam13633 N_methyl_3 Prokaryotic N-terminal methyl
+1609	pfam00298	0.0221778664892437	1	pfam00298 Ribosomal_L11 Ribosomal protein L11, RNA
+1610	pfam03448	0.0221778664892437	1	pfam03448 MgtE_N MgtE intracellular N domain. This
+1611	pfam09317	0.0221778664892437	1	pfam09317 DUF1974 Domain of unknown function (DUF1
+1612	pfam06904	0.0221778664892437	1	pfam06904 Extensin-like_C Extensin-like protein C-
+1613	pfam13621	0.0221778664892437	1	pfam13621 Cupin_8 Cupin-like domain. This cupin li
+1614	pfam05137	0.0221778664892437	1	pfam05137 PilN Fimbrial assembly protein (PilN). 
+1615	pfam08269	0.0221778664892437	1	pfam08269 Cache_2 Cache domain. 
+1616	pfam06295	0.0221778664892437	1	pfam06295 DUF1043 Protein of unknown function (DUF
+1617	pfam12088	0.0221778664892437	1	pfam12088 DUF3565 Protein of unknown function (DUF
+1618	pfam01556	0.0221778664892437	1	pfam01556 DnaJ_C DnaJ C terminal domain. This fami
+1619	pfam00670	0.0221778664892437	1	pfam00670 AdoHcyase_NAD S-adenosyl-L-homocysteine 
+1620	pfam02699	0.0221778664892437	1	pfam02699 YajC Preprotein translocase subunit. See
+1621	pfam14400	0.0221778664892437	1	pfam14400 Transglut_i_TM Inactive transglutaminase
+1622	pfam04952	0.0221778664892437	1	pfam04952 AstE_AspA Succinylglutamate desuccinylas
+1623	pfam05228	0.0221778664892437	1	pfam05228 CHASE4 CHASE4 domain. CHASE4. This is an
+1624	pfam04349	0.0221778664892437	1	pfam04349 MdoG Periplasmic glucan biosynthesis pro
+1625	pfam07063	0.0221778664892437	1	pfam07063 DUF1338 Domain of unknown function (DUF1
+1626	pfam00338	0.0221778664892437	1	pfam00338 Ribosomal_S10 Ribosomal protein S10p/S20
+1627	pfam04381	0.0221778664892437	1	pfam04381 RdgC Putative exonuclease, RdgC. Members
+1628	pfam00390	0.0221778664892437	1	pfam00390 malic Malic enzyme, N-terminal domain. 
+1629	pfam00750	0.0221778664892437	1	pfam00750 tRNA-synt_1d tRNA synthetases class I (R
+1630	pfam13885	0.0221778664892437	1	pfam13885 Keratin_B2_2 Keratin, high sulfur B2 pro
+1631	pfam06144	0.0221778664892437	1	pfam06144 DNA_pol3_delta DNA polymerase III, delta
+1632	pfam06271	0.0221778664892437	1	pfam06271 RDD RDD family. This family of proteins 
+1633	pfam00118	0.0221778664892437	1	pfam00118 Cpn60_TCP1 TCP-1/cpn60 chaperonin family
+1634	pfam09995	0.0221778664892437	1	pfam09995 DUF2236 Uncharacterized protein conserve
+1635	pfam08907	0.0221778664892437	1	pfam08907 DUF1853 Domain of unknown function (DUF1
+1636	pfam05742	0.0221778664892437	1	pfam05742 TANGO2 Transport and Golgi organization 
+1637	pfam10995	0.0221778664892437	1	pfam10995 CBP_GIL GGDEF I-site like or GIL domain.
+1638	pfam13578	0.0221778664892437	1	pfam13578 Methyltransf_24 Methyltransferase domain
+1639	pfam02374	0.0221778664892437	1	pfam02374 ArsA_ATPase Anion-transporting ATPase. T
+1640	pfam01679	0.0221778664892437	1	pfam01679 Pmp3 Proteolipid membrane potential modu
+1641	pfam04565	0.0221778664892437	1	pfam04565 RNA_pol_Rpb2_3 RNA polymerase Rpb2, doma
+1642	pfam08521	0.0221778664892437	1	pfam08521 2CSK_N Two-component sensor kinase N-ter
+1643	pfam01430	0.0221778664892437	1	pfam01430 HSP33 Hsp33 protein. Hsp33 is a molecula
+1644	pfam07703	0.0221778664892437	1	pfam07703 A2M_N_2 Alpha-2-macroglobulin family N-t
+1645	pfam02978	0.0221778664892437	1	pfam02978 SRP_SPB Signal peptide binding domain. 
+1646	pfam02604	0.0221778664892437	1	pfam02604 PhdYeFM_antitox Antitoxin Phd_YefM, type
+1647	pfam08479	0.0221778664892437	1	pfam08479 POTRA_2 POTRA domain, ShlB-type. The POT
+1648	pfam13823	0.0221778664892437	1	pfam13823 ADH_N_assoc Alcohol dehydrogenase GroES-
+1649	pfam02622	0.0221778664892437	1	pfam02622 DUF179 Uncharacterized ACR, COG1678. 
+1650	pfam02426	0.0221778664892437	1	pfam02426 MIase Muconolactone delta-isomerase. Thi
+1651	pfam13670	0.0221778664892437	1	pfam13670 PepSY_2 Peptidase propeptide and YPEB do
+1652	pfam07201	0.0221778664892437	1	pfam07201 HrpJ HrpJ-like domain. This family repre
+1653	pfam04285	0.0221778664892437	1	pfam04285 DUF444 Protein of unknown function (DUF4
+1654	pfam05013	0.0221778664892437	1	pfam05013 FGase N-formylglutamate amidohydrolase. 
+1655	pfam13466	0.0221778664892437	1	pfam13466 STAS_2 STAS domain. The STAS (after Sulp
+1656	pfam01116	0.0221778664892437	1	pfam01116 F_bP_aldolase Fructose-bisphosphate aldo
+1657	pfam02547	0.0221778664892437	1	pfam02547 Queuosine_synth Queuosine biosynthesis p
+1658	pfam02203	0.0221778664892437	1	pfam02203 TarH Tar ligand binding domain homologue
+1659	pfam08478	0.0221778664892437	1	pfam08478 POTRA_1 POTRA domain, FtsQ-type. FtsQ/Di
+1660	pfam12391	0.0221778664892437	1	pfam12391 PCDO_beta_N Protocatechuate 3,4-dioxygen
+1661	pfam03883	0.0221778664892437	1	pfam03883 DUF328 Protein of unknown function (DUF3
+1662	pfam11391	0.0221778664892437	1	pfam11391 DUF2798 Protein of unknown function (DUF
+1663	pfam01264	0.0221778664892437	1	pfam01264 Chorismate_synt Chorismate synthase. 
+1664	pfam06415	0.0221778664892437	1	pfam06415 iPGM_N BPG-independent PGAM N-terminus (
+1665	pfam11157	0.0221778664892437	1	pfam11157 DUF2937 Protein of unknown function (DUF
+1666	pfam03480	0.0221778664892437	1	pfam03480 DctP Bacterial extracellular solute-bind
+1667	pfam01326	0.0221778664892437	1	pfam01326 PPDK_N Pyruvate phosphate dikinase, PEP/
+1668	pfam03054	0.0221778664892437	1	pfam03054 tRNA_Me_trans tRNA methyl transferase. T
+1669	pfam08946	0.0221778664892437	1	pfam08946 Osmo_CC Osmosensory transporter coiled c
+1670	pfam12846	0.0221778664892437	1	pfam12846 AAA_10 AAA-like domain. This family of d
+1671	pfam01311	0.0221778664892437	1	pfam01311 Bac_export_1 Bacterial export proteins, 
+1672	pfam05401	0.0221778664892437	1	pfam05401 NodS Nodulation protein S (NodS). This f
+1673	pfam12631	0.0221778664892437	1	pfam12631 MnmE_helical MnmE helical domain. The tR
+1674	pfam03618	0.0221778664892437	1	pfam03618 Kinase-PPPase Kinase/pyrophosphorylase. 
+1675	pfam04657	0.0221778664892437	1	pfam04657 DMT_YdcZ Putative inner membrane exporte
+1676	pfam13603	0.0221778664892437	1	pfam13603 tRNA-synt_1_2 Leucyl-tRNA synthetase, Do
+1677	pfam01661	0.0221778664892437	1	pfam01661 Macro Macro domain. This domain is an AD
+1678	pfam02625	0.0221778664892437	1	pfam02625 XdhC_CoxI XdhC and CoxI family. This dom
+1679	pfam01784	0.0221778664892437	1	pfam01784 NIF3 NIF3 (NGG1p interacting factor 3). 
+1680	pfam01820	0.0221778664892437	1	pfam01820 Dala_Dala_lig_N D-ala D-ala ligase N-ter
+1681	pfam02563	0.0221778664892437	1	pfam02563 Poly_export Polysaccharide biosynthesis/
+1682	pfam03548	0.0221778664892437	1	pfam03548 LolA Outer membrane lipoprotein carrier 
+1683	pfam00941	0.0221778664892437	1	pfam00941 FAD_binding_5 FAD binding domain in moly
+1684	pfam02016	0.0221778664892437	1	pfam02016 Peptidase_S66 LD-carboxypeptidase. Muram
+1685	pfam00376	0.0221778664892437	1	pfam00376 MerR MerR family regulatory protein. 
+1686	pfam01293	0.0221778664892437	1	pfam01293 PEPCK_ATP Phosphoenolpyruvate carboxykin
+1687	pfam05190	0.0221778664892437	1	pfam05190 MutS_IV MutS family domain IV. This doma
+1688	pfam04380	0.0221778664892437	1	pfam04380 BMFP Membrane fusogenic activity. BMFP c
+1689	pfam13675	0.0221778664892437	1	pfam13675 PilJ Type IV pili methyl-accepting chemo
+1690	pfam09994	0.0221778664892437	1	pfam09994 DUF2235 Uncharacterized alpha/beta hydro
+1691	pfam01028	0.0221778664892437	1	pfam01028 Topoisom_I Eukaryotic DNA topoisomerase 
+1692	pfam02637	0.0221778664892437	1	pfam02637 GatB_Yqey GatB domain. This domain is fo
+1693	pfam16921	0.0221778664892437	1	pfam16921 Tex_YqgF Tex protein YqgF-like domain. T
+1694	pfam01808	0.0221778664892437	1	pfam01808 AICARFT_IMPCHas AICARFT/IMPCHase bienzym
+1695	pfam07264	0.0221778664892437	1	pfam07264 EI24 Etoposide-induced protein 2.4 (EI24
+1696	pfam14849	0.0221778664892437	1	pfam14849 YidC_periplas YidC periplasmic domain. T
+1697	pfam01018	0.0221778664892437	1	pfam01018 GTP1_OBG GTP1/OBG. The N-terminal domain
+1698	pfam00764	0.0221778664892437	1	pfam00764 Arginosuc_synth Arginosuccinate synthase
+1699	pfam07719	0.0221778664892437	1	pfam07719 TPR_2 Tetratricopeptide repeat. This Pfa
+1700	pfam12525	0.0221778664892437	1	pfam12525 DUF3726 Protein of unknown function (DUF
+1701	pfam14833	0.0221778664892437	1	pfam14833 NAD_binding_11 NAD-binding of NADP-depen
+1702	pfam02887	0.0221778664892437	1	pfam02887 PK_C Pyruvate kinase, alpha/beta domain.
+1703	pfam03062	0.0221778664892437	1	pfam03062 MBOAT MBOAT, membrane-bound O-acyltransf
+1704	pfam13807	0.0221778664892437	1	pfam13807 GNVR G-rich domain on putative tyrosine 
+1705	pfam00636	0.0221778664892437	1	pfam00636 Ribonuclease_3 Ribonuclease III domain. 
+1706	pfam12137	0.0221778664892437	1	pfam12137 RapA_C RNA polymerase recycling family C
+1707	pfam02527	0.0221778664892437	1	pfam02527 GidB rRNA small subunit methyltransferas
+1708	pfam11969	0.0221778664892437	1	pfam11969 DcpS_C Scavenger mRNA decapping enzyme C
+1709	pfam14255	0.0221778664892437	1	pfam14255 Cys_rich_CPXG Cysteine-rich CPXCG. This 
+1710	pfam01330	0.0221778664892437	1	pfam01330 RuvA_N RuvA N terminal domain. The N ter
+1711	pfam10096	0.0221778664892437	1	pfam10096 DUF2334 Uncharacterized protein conserve
+1712	pfam03485	0.0221778664892437	1	pfam03485 Arg_tRNA_synt_N Arginyl tRNA synthetase 
+1713	pfam14698	0.0221778664892437	1	pfam14698 ASL_C2 Argininosuccinate lyase C-termina
+1714	pfam03817	0.0221778664892437	1	pfam03817 MadL Malonate transporter MadL subunit. 
+1715	pfam02773	0.0221778664892437	1	pfam02773 S-AdoMet_synt_C S-adenosylmethionine syn
+1716	pfam13340	0.0221778664892437	1	pfam13340 DUF4096 Putative transposase of IS4/5 fa
+1717	pfam16189	0.0221778664892437	1	pfam16189 Creatinase_N_2 Creatinase/Prolidase N-te
+1718	pfam01203	0.0221778664892437	1	pfam01203 T2SSN Type II secretion system (T2SS), p
+1719	pfam13292	0.0221778664892437	1	pfam13292 DXP_synthase_N 1-deoxy-D-xylulose-5-phos
+1720	pfam08943	0.0221778664892437	1	pfam08943 CsiD CsiD. This family consists of vario
+1721	pfam04963	0.0221778664892437	1	pfam04963 Sigma54_CBD Sigma-54 factor, core bindin
+1722	pfam02050	0.0221778664892437	1	pfam02050 FliJ Flagellar FliJ protein. 
+1723	pfam00218	0.0221778664892437	1	pfam00218 IGPS Indole-3-glycerol phosphate synthas
+1724	pfam07105	0.0221778664892437	1	pfam07105 DUF1367 Protein of unknown function (DUF
+1725	pfam01795	0.0221778664892437	1	pfam01795 Methyltransf_5 MraW methylase family. Me
+1726	pfam16658	0.0221778664892437	1	pfam16658 RF3_C Class II release factor RF3, C-ter
+1727	pfam01418	0.0221778664892437	1	pfam01418 HTH_6 Helix-turn-helix domain, rpiR fami
+1728	pfam08887	0.0221778664892437	1	pfam08887 GAD-like GAD-like domain. This domain is
+1729	pfam09650	0.0221778664892437	1	pfam09650 PHA_gran_rgn Putative polyhydroxyalkanoi
+1730	pfam00745	0.0221778664892437	1	pfam00745 GlutR_dimer Glutamyl-tRNAGlu reductase, 
+1731	pfam05065	0.0221778664892437	1	pfam05065 Phage_capsid Phage capsid family. Family
+1732	pfam08770	0.0221778664892437	1	pfam08770 SoxZ Sulphur oxidation protein SoxZ. Sox
+1733	pfam00453	0.0221778664892437	1	pfam00453 Ribosomal_L20 Ribosomal protein L20. 
+1734	pfam09537	0.0221778664892437	1	pfam09537 DUF2383 Domain of unknown function (DUF2
+1735	pfam01176	0.0221778664892437	1	pfam01176 eIF-1a Translation initiation factor 1A 
+1736	pfam01722	0.0221778664892437	1	pfam01722 BolA BolA-like protein. This family cons
+1737	pfam02646	0.0221778664892437	1	pfam02646 RmuC RmuC family. This family contains s
+1738	pfam10385	0.0221778664892437	1	pfam10385 RNA_pol_Rpb2_45 RNA polymerase beta subu
+1739	pfam02574	0.0221778664892437	1	pfam02574 S-methyl_trans Homocysteine S-methyltran
+1740	pfam00449	0.0221778664892437	1	pfam00449 Urease_alpha Urease alpha-subunit, N-ter
+1741	pfam07993	0.0221778664892437	1	pfam07993 NAD_binding_4 Male sterility protein. Th
+1742	pfam05430	0.0221778664892437	1	pfam05430 Methyltransf_30 S-adenosyl-L-methionine-
+1743	pfam06532	0.0221778664892437	1	pfam06532 DUF1109 Protein of unknown function (DUF
+1744	pfam01835	0.0221778664892437	1	pfam01835 A2M_N MG2 domain. This is the MG2 (macro
+1745	pfam13721	0.0221778664892437	1	pfam13721 SecD-TM1 SecD export protein N-terminal 
+1746	pfam02511	0.0221778664892437	1	pfam02511 Thy1 Thymidylate synthase complementing 
+1747	pfam03755	0.0221778664892437	1	pfam03755 YicC_N YicC-like family, N-terminal regi
+1748	pfam08274	0.0221778664892437	1	pfam08274 PhnA_Zn_Ribbon PhnA Zinc-Ribbon. 
+1749	pfam13449	0.0221778664892437	1	pfam13449 Phytase-like Esterase-like activity of p
+1750	pfam05239	0.0221778664892437	1	pfam05239 PRC PRC-barrel domain. The PRC-barrel is
+1751	pfam09000	0.0221778664892437	1	pfam09000 Cytotoxic Cytotoxic. The cytotoxic domai
+1752	pfam03825	0.0221778664892437	1	pfam03825 Nuc_H_symport Nucleoside H+ symporter. 
+1753	pfam06418	0.0221778664892437	1	pfam06418 CTP_synth_N CTP synthase N-terminus. Thi
+1754	pfam06835	0.0221778664892437	1	pfam06835 LptC Lipopolysaccharide-assembly, LptC-r
+1755	pfam05751	0.0221778664892437	1	pfam05751 FixH FixH. This family consists of sever
+1756	pfam04362	0.0221778664892437	1	pfam04362 Iron_traffic Bacterial Fe(2+) traffickin
+1757	pfam00258	0.0221778664892437	1	pfam00258 Flavodoxin_1 Flavodoxin. 
+1758	pfam15538	0.0221778664892437	1	pfam15538 Ntox46 Bacterial toxin 46. A predicted t
+1759	pfam01741	0.0221778664892437	1	pfam01741 MscL Large-conductance mechanosensitive 
+1760	pfam01156	0.0221778664892437	1	pfam01156 IU_nuc_hydro Inosine-uridine preferring 
+1761	pfam08908	0.0221778664892437	1	pfam08908 DUF1852 Domain of unknown function (DUF1
+1762	pfam00687	0.0221778664892437	1	pfam00687 Ribosomal_L1 Ribosomal protein L1p/L10e 
+1763	pfam01609	0.0221778664892437	1	pfam01609 DDE_Tnp_1 Transposase DDE domain. Transp
+1764	pfam01258	0.0221778664892437	1	pfam01258 zf-dskA_traR Prokaryotic dksA/traR C4-ty
+1765	pfam02834	0.0221778664892437	1	pfam02834 LigT_PEase LigT like Phosphoesterase. Me
+1766	pfam09397	0.0221778664892437	1	pfam09397 Ftsk_gamma Ftsk gamma domain. This domai
+1767	pfam01000	0.0221778664892437	1	pfam01000 RNA_pol_A_bac RNA polymerase Rpb3/RpoA i
+1768	pfam14715	0.0221778664892437	1	pfam14715 FixP_N N-terminal domain of cytochrome o
+1769	pfam00828	0.0221778664892437	1	pfam00828 Ribosomal_L18e Ribosomal protein L18e/L1
+1770	pfam11738	0.0221778664892437	1	pfam11738 DUF3298 Protein of unknown function (DUF
+1771	pfam04356	0.0221778664892437	1	pfam04356 DUF489 Protein of unknown function (DUF4
+1772	pfam04293	0.0221778664892437	1	pfam04293 SpoVR SpoVR like protein. One family mem
+1773	pfam13386	0.0221778664892437	1	pfam13386 DsbD_2 Cytochrome C biogenesis protein t
+1774	pfam10411	0.0221778664892437	1	pfam10411 DsbC_N Disulfide bond isomerase protein 
+1775	pfam11604	0.0221778664892437	1	pfam11604 CusF_Ec Copper binding periplasmic prote
+1776	pfam05935	0.0221778664892437	1	pfam05935 Arylsulfotrans Arylsulfotransferase (ASS
+1777	pfam02401	0.0221778664892437	1	pfam02401 LYTB LytB protein. The mevalonate-indepe
+1778	pfam01071	0.0221778664892437	1	pfam01071 GARS_A Phosphoribosylglycinamide synthet
+1779	pfam04607	0.0221778664892437	1	pfam04607 RelA_SpoT Region found in RelA / SpoT pr
+1780	pfam00677	0.0221778664892437	1	pfam00677 Lum_binding Lumazine binding domain. Thi
+1781	pfam11791	0.0221778664892437	1	pfam11791 Aconitase_B_N Aconitate B N-terminal dom
+1782	pfam07578	0.0221778664892437	1	pfam07578 LAB_N Lipid A Biosynthesis N-terminal do
+1783	pfam05872	0.0221778664892437	1	pfam05872 DUF853 Bacterial protein of unknown func
+1784	pfam07696	0.0221778664892437	1	pfam07696 7TMR-DISMED2 7TMR-DISM extracellular 2. 
+1785	pfam09954	0.0221778664892437	1	pfam09954 DUF2188 Uncharacterized protein conserve
+1786	pfam07695	0.0221778664892437	1	pfam07695 7TMR-DISM_7TM 7TM diverse intracellular 
+1787	pfam02441	0.0221778664892437	1	pfam02441 Flavoprotein Flavoprotein. This family c
+1788	pfam03453	0.0221778664892437	1	pfam03453 MoeA_N MoeA N-terminal region (domain I 
+1789	pfam08338	0.0221778664892437	1	pfam08338 DUF1731 Domain of unknown function (DUF1
+1790	pfam04320	0.0221778664892437	1	pfam04320 DUF469 Protein with unknown function (DU
+1791	pfam04338	0.0221778664892437	1	pfam04338 DUF481 Protein of unknown function, DUF4
+1792	pfam04257	0.0221778664892437	1	pfam04257 Exonuc_V_gamma Exodeoxyribonuclease V, g
+1793	pfam13462	0.0221778664892437	1	pfam13462 Thioredoxin_4 Thioredoxin. 
+1794	pfam05134	0.0221778664892437	1	pfam05134 T2SSL Type II secretion system (T2SS), p
+1795	pfam05962	0.0221778664892437	1	pfam05962 HutD HutD. HutD from Pseudomonas fluores
+1796	pfam07943	0.0221778664892437	1	pfam07943 PBP5_C Penicillin-binding protein 5, C-t
+1797	pfam02272	0.0221778664892437	1	pfam02272 DHHA1 DHHA1 domain. This domain is often
+1798	pfam00037	0.0221778664892437	1	pfam00037 Fer4 4Fe-4S binding domain. Superfamily 
+1799	pfam01625	0.0221778664892437	1	pfam01625 PMSR Peptide methionine sulfoxide reduct
+1800	pfam13241	0.0221778664892437	1	pfam13241 NAD_binding_7 Putative NAD(P)-binding. T
+1801	pfam04995	0.0221778664892437	1	pfam04995 CcmD Heme exporter protein D (CcmD). The
+1802	pfam01964	0.0221778664892437	1	pfam01964 ThiC_Rad_SAM Radical SAM ThiC family. Th
+1803	pfam02867	0.0221778664892437	1	pfam02867 Ribonuc_red_lgC Ribonucleotide reductase
+1804	pfam04244	0.0221778664892437	1	pfam04244 DPRP Deoxyribodipyrimidine photo-lyase-r
+1805	pfam05724	0.0221778664892437	1	pfam05724 TPMT Thiopurine S-methyltransferase (TPM
+1806	pfam02572	0.0221778664892437	1	pfam02572 CobA_CobO_BtuR ATP:corrinoid adenosyltra
+1807	pfam00310	0.0221778664892437	1	pfam00310 GATase_2 Glutamine amidotransferases cla
+1808	pfam10095	0.0221778664892437	1	pfam10095 DUF2333 Uncharacterized protein conserve
+1809	pfam01210	0.0221778664892437	1	pfam01210 NAD_Gly3P_dh_N NAD-dependent glycerol-3-
+1810	pfam00699	0.0221778664892437	1	pfam00699 Urease_beta Urease beta subunit. This su
+1811	pfam13491	0.0221778664892437	1	pfam13491 FtsK_4TM 4TM region of DNA translocase F
+1812	pfam00114	0.0221778664892437	1	pfam00114 Pilin Pilin (bacterial filament). Protei
+1813	pfam06470	0.0221778664892437	1	pfam06470 SMC_hinge SMC proteins Flexible Hinge Do
+1814	pfam09099	0.0221778664892437	1	pfam09099 Qn_am_d_aIII Quinohemoprotein amine dehy
+1815	pfam03154	0.0221778664892437	1	pfam03154 Atrophin-1 Atrophin-1 family. Atrophin-1
+1816	pfam00227	0.0221778664892437	1	pfam00227 Proteasome Proteasome subunit. The prote
+1817	pfam12973	0.0221778664892437	1	pfam12973 Cupin_7 ChrR Cupin-like domain. Members 
+1818	pfam05532	0.0221778664892437	1	pfam05532 CsbD CsbD-like. CsbD is a bacterial gene
+1819	pfam11390	0.0221778664892437	1	pfam11390 FdsD NADH-dependant formate dehydrogenas
+1820	pfam03232	0.0221778664892437	1	pfam03232 COQ7 Ubiquinone biosynthesis protein COQ
+1821	pfam03808	0.0221778664892437	1	pfam03808 Glyco_tran_WecB Glycosyl transferase Wec
+1822	pfam01022	0.0221778664892437	1	pfam01022 HTH_5 Bacterial regulatory protein, arsR
+1823	pfam03948	0.0221778664892437	1	pfam03948 Ribosomal_L9_C Ribosomal protein L9, C-t
+1824	pfam02350	0.0221778664892437	1	pfam02350 Epimerase_2 UDP-N-acetylglucosamine 2-ep
+1825	pfam13629	0.0221778664892437	1	pfam13629 T2SS-T3SS_pil_N Pilus formation protein 
+1826	pfam00889	0.0221778664892437	1	pfam00889 EF_TS Elongation factor TS. 
+1827	pfam02962	0.0221778664892437	1	pfam02962 CHMI 5-carboxymethyl-2-hydroxymuconate i
+1828	pfam04999	0.0221778664892437	1	pfam04999 FtsL Cell division protein FtsL. In Esch
+1829	pfam02570	0.0221778664892437	1	pfam02570 CbiC Precorrin-8X methylmutase. This is 
+1830	pfam09298	0.0221778664892437	1	pfam09298 FAA_hydrolase_N Fumarylacetoacetase N-te
+1831	pfam07638	0.0221778664892437	1	pfam07638 Sigma70_ECF ECF sigma factor. These prot
+1832	pfam13778	0.0221778664892437	1	pfam13778 DUF4174 Domain of unknown function (DUF4
+1833	pfam00032	0.0221778664892437	1	pfam00032 Cytochrom_B_C Cytochrome b(C-terminal)/b
+1834	pfam03889	0.0221778664892437	1	pfam03889 DUF331 Domain of unknown function. Membe
+1835	pfam06906	0.0221778664892437	1	pfam06906 DUF1272 Protein of unknown function (DUF
+1836	pfam02108	0.0221778664892437	1	pfam02108 FliH Flagellar assembly protein FliH. 
+1837	pfam05187	0.0221778664892437	1	pfam05187 ETF_QO Electron transfer flavoprotein-ub
+1838	pfam00238	0.0221778664892437	1	pfam00238 Ribosomal_L14 Ribosomal protein L14p/L23
+1839	pfam06508	0.0221778664892437	1	pfam06508 QueC Queuosine biosynthesis protein QueC
+1840	pfam00886	0.0221778664892437	1	pfam00886 Ribosomal_S16 Ribosomal protein S16. 
+1841	pfam00444	0.0221778664892437	1	pfam00444 Ribosomal_L36 Ribosomal protein L36. 
+1842	pfam04340	0.0221778664892437	1	pfam04340 DUF484 Protein of unknown function, DUF4
+1843	pfam04957	0.0221778664892437	1	pfam04957 RMF Ribosome modulation factor. This pro
+1844	pfam12557	0.0221778664892437	1	pfam12557 Co_AT_N Cob(I)alamin adenosyltransferase
+1845	pfam00875	0.0221778664892437	1	pfam00875 DNA_photolyase DNA photolyase. This doma
+1846	pfam02965	0.0221778664892437	1	pfam02965 Met_synt_B12 Vitamin B12 dependent methi
+1847	pfam14492	0.0221778664892437	1	pfam14492 EFG_II Elongation Factor G, domain II. T
+1848	pfam17113	0.0221778664892437	1	pfam17113 AmpE Regulatory signalling modulator pro
+1849	pfam08875	0.0221778664892437	1	pfam08875 DUF1833 Domain of unknown function (DUF1
+1850	pfam08003	0.0221778664892437	1	pfam08003 Methyltransf_9 Protein of unknown functi
+1851	pfam03918	0.0221778664892437	1	pfam03918 CcmH Cytochrome C biogenesis protein. Me
+1852	pfam13276	0.0221778664892437	1	pfam13276 HTH_21 HTH-like domain. This domain cont
+1853	pfam07221	0.0221778664892437	1	pfam07221 GlcNAc_2-epim N-acylglucosamine 2-epimer
+1854	pfam13566	0.0221778664892437	1	pfam13566 DUF4130 Domain of unknown function (DUF4
+1855	pfam02465	0.0221778664892437	1	pfam02465 FliD_N Flagellar hook-associated protein
+1856	pfam11661	0.0221778664892437	1	pfam11661 DUF2986 Protein of unknown function (DUF
+1857	pfam03646	0.0221778664892437	1	pfam03646 FlaG FlaG protein. Although important fo
+1858	pfam09394	0.0221778664892437	1	pfam09394 Inhibitor_I42 Chagasin family peptidase 
+1859	pfam02378	0.0221778664892437	1	pfam02378 PTS_EIIC Phosphotransferase system, EIIC
+1860	pfam01016	0.0221778664892437	1	pfam01016 Ribosomal_L27 Ribosomal L27 protein. 
+1861	pfam07331	0.0221778664892437	1	pfam07331 TctB Tripartite tricarboxylate transport
+1862	pfam08207	0.0221778664892437	1	pfam08207 EFP_N Elongation factor P (EF-P) KOW-lik
+1863	pfam12327	0.0221778664892437	1	pfam12327 FtsZ_C FtsZ family, C-terminal domain. T
+1864	pfam10442	0.0221778664892437	1	pfam10442 FIST_C FIST C domain. The FIST C domain 
+1865	pfam14821	0.0221778664892437	1	pfam14821 Thr_synth_N Threonine synthase N terminu
+1866	pfam00113	0.0221778664892437	1	pfam00113 Enolase_C Enolase, C-terminal TIM barrel
+1867	pfam01434	0.0221778664892437	1	pfam01434 Peptidase_M41 Peptidase family M41. 
+1868	pfam12242	0.0221778664892437	1	pfam12242 Eno-Rase_NADH_b NAD(P)H binding domain o
+1869	pfam01149	0.0221778664892437	1	pfam01149 Fapy_DNA_glyco Formamidopyrimidine-DNA g
+1870	pfam02885	0.0221778664892437	1	pfam02885 Glycos_trans_3N Glycosyl transferase fam
+1871	pfam12532	0.0221778664892437	1	pfam12532 DUF3732 Protein of unknown function (DUF
+1872	pfam01844	0.0221778664892437	1	pfam01844 HNH HNH endonuclease. 
+1873	pfam00697	0.0221778664892437	1	pfam00697 PRAI N-(5'phosphoribosyl)anthranilate (P
+1874	pfam03237	0.0221778664892437	1	pfam03237 Terminase_6 Terminase-like family. This 
+1875	pfam04364	0.0221778664892437	1	pfam04364 DNA_pol3_chi DNA polymerase III chi subu
+1876	pfam04225	0.0221778664892437	1	pfam04225 OapA Opacity-associated protein A LysM-l
+1877	pfam04166	0.0221778664892437	1	pfam04166 PdxA Pyridoxal phosphate biosynthetic pr
+1878	pfam11842	0.0221778664892437	1	pfam11842 DUF3362 Domain of unknown function (DUF3
+1879	pfam10981	0.0221778664892437	1	pfam10981 DUF2788 Protein of unknown function (DUF
+1880	pfam02660	0.0221778664892437	1	pfam02660 G3P_acyltransf Glycerol-3-phosphate acyl
+1881	pfam07510	0.0221778664892437	1	pfam07510 DUF1524 Protein of unknown function (DUF
+1882	pfam04328	0.0221778664892437	1	pfam04328 DUF466 Protein of unknown function (DUF4
+1883	pfam06114	0.0221778664892437	1	pfam06114 DUF955 Domain of unknown function (DUF95
+1884	pfam06476	0.0221778664892437	1	pfam06476 DUF1090 Protein of unknown function (DUF
+1885	pfam03621	0.0221778664892437	1	pfam03621 MbtH MbtH-like protein. This domain is f
+1886	pfam09382	0.0221778664892437	1	pfam09382 RQC RQC domain. This DNA-binding domain 
+1887	pfam03562	0.0221778664892437	1	pfam03562 MltA MltA specific insert domain. This b
+1888	pfam02805	0.0221778664892437	1	pfam02805 Ada_Zn_binding Metal binding domain of A
+1889	pfam03193	0.0221778664892437	1	pfam03193 DUF258 Protein of unknown function, DUF2
+1890	pfam16234	0.0221778664892437	1	pfam16234 DUF4892 Domain of unknown function (DUF4
+1891	pfam12607	0.0221778664892437	1	pfam12607 DUF3772 Protein of unknown function (DUF
+1892	pfam13549	0.0221778664892437	1	pfam13549 ATP-grasp_5 ATP-grasp domain. This famil
+1893	pfam05708	0.0221778664892437	1	pfam05708 Peptidase_C92 Permuted papain-like amida
+1894	pfam11799	0.0221778664892437	1	pfam11799 IMS_C impB/mucB/samB family C-terminal d
+1895	pfam10135	0.0221778664892437	1	pfam10135 Rod-binding Rod binding protein. Members
+1896	pfam04608	0.0221778664892437	1	pfam04608 PgpA Phosphatidylglycerophosphatase A. T
+1897	pfam01975	0.0221778664892437	1	pfam01975 SurE Survival protein SurE. E. coli cell
+1898	pfam05697	0.0221778664892437	1	pfam05697 Trigger_N Bacterial trigger factor prote
+1899	pfam03724	0.0221778664892437	1	pfam03724 META META domain. Small domain family fo
+1900	pfam13512	0.0221778664892437	1	pfam13512 TPR_18 Tetratricopeptide repeat. 
+1901	pfam13145	0.0221778664892437	1	pfam13145 Rotamase_2 PPIC-type PPIASE domain. 
+1902	pfam10614	0.0221778664892437	1	pfam10614 CsgF Type VIII secretion system (T8SS), 
+1903	pfam06197	0.0221778664892437	1	pfam06197 DUF998 Protein of unknown function (DUF9
+1904	pfam00398	0.0221778664892437	1	pfam00398 RrnaAD Ribosomal RNA adenine dimethylase
+1905	pfam04313	0.0221778664892437	1	pfam04313 HSDR_N Type I restriction enzyme R prote
+1906	pfam08379	0.0221778664892437	1	pfam08379 Bact_transglu_N Bacterial transglutamina
+1907	pfam01257	0.0221778664892437	1	pfam01257 2Fe-2S_thioredx Thioredoxin-like [2Fe-2S
+1908	pfam12679	0.0221778664892437	1	pfam12679 ABC2_membrane_2 ABC-2 family transporter
+1909	pfam01702	0.0221778664892437	1	pfam01702 TGT Queuine tRNA-ribosyltransferase. Thi
+1910	pfam02628	0.0221778664892437	1	pfam02628 COX15-CtaA Cytochrome oxidase assembly p
+1911	pfam04358	0.0221778664892437	1	pfam04358 DsrC DsrC like protein. Family member ds
+1912	pfam10335	0.0221778664892437	1	pfam10335 DUF294_C Putative nucleotidyltransferase
+1913	pfam03334	0.0221778664892437	1	pfam03334 PhaG_MnhG_YufB Na+/H+ antiporter subunit
+1914	pfam16124	0.0221778664892437	1	pfam16124 RecQ_Zn_bind RecQ zinc-binding. This dom
+1915	pfam00276	0.0221778664892437	1	pfam00276 Ribosomal_L23 Ribosomal protein L23. 
+1916	pfam04563	0.0221778664892437	1	pfam04563 RNA_pol_Rpb2_1 RNA polymerase beta subun
+1917	pfam02702	0.0221778664892437	1	pfam02702 KdpD Osmosensitive K+ channel His kinase
+1918	pfam03033	0.0221778664892437	1	pfam03033 Glyco_transf_28 Glycosyltransferase fami
+1919	pfam00316	0.0221778664892437	1	pfam00316 FBPase Fructose-1-6-bisphosphatase. 
+1920	pfam02561	0.0221778664892437	1	pfam02561 FliS Flagellar protein FliS. FliS is cod
+1921	pfam11141	0.0221778664892437	1	pfam11141 DUF2914 Protein of unknown function (DUF
+1922	pfam08971	0.0221778664892437	1	pfam08971 GlgS Glycogen synthesis protein. Members
+1923	pfam13085	0.0221778664892437	1	pfam13085 Fer2_3 2Fe-2S iron-sulfur cluster bindin
+1924	pfam07848	0.0221778664892437	1	pfam07848 PaaX PaaX-like protein. This family cont
+1925	pfam13144	0.0221778664892437	1	pfam13144 ChapFlgA Chaperone for flagella basal bo
+1926	pfam04402	0.0221778664892437	1	pfam04402 SIMPL Protein of unknown function (DUF54
+1927	pfam04376	0.0221778664892437	1	pfam04376 ATE_N Arginine-tRNA-protein transferase,
+1928	pfam06564	0.0221778664892437	1	pfam06564 CBP_BcsQ Cellulose biosynthesis protein 
+1929	pfam02565	0.0221778664892437	1	pfam02565 RecO_C Recombination protein O C termina
+1930	pfam13177	0.0221778664892437	1	pfam13177 DNA_pol3_delta2 DNA polymerase III, delt
+1931	pfam03441	0.0221778664892437	1	pfam03441 FAD_binding_7 FAD binding domain of DNA 
+1932	pfam02634	0.0221778664892437	1	pfam02634 FdhD-NarQ FdhD/NarQ family. A pan-bacter
+1933	pfam13602	0.0221778664892437	1	pfam13602 ADH_zinc_N_2 Zinc-binding dehydrogenase.
+1934	pfam03551	0.0221778664892437	1	pfam03551 PadR Transcriptional regulator PadR-like
+1935	pfam03841	0.0221778664892437	1	pfam03841 SelA L-seryl-tRNA selenium transferase. 
+1936	pfam02195	0.0221778664892437	1	pfam02195 ParBc ParB-like nuclease domain. 
+1937	pfam06067	0.0221778664892437	1	pfam06067 DUF932 Domain of unknown function (DUF93
+1938	pfam02683	0.0221778664892437	1	pfam02683 DsbD Cytochrome C biogenesis protein tra
+1939	pfam14333	0.0221778664892437	1	pfam14333 DUF4389 Domain of unknown function (DUF4
+1940	pfam02915	0.0221778664892437	1	pfam02915 Rubrerythrin Rubrerythrin. This domain h
+1941	pfam14487	0.0221778664892437	1	pfam14487 DUF4433 Domain of unknown function (DUF4
+1942	pfam12727	0.0221778664892437	1	pfam12727 PBP_like PBP superfamily domain. This fa
+1943	pfam00162	0.0221778664892437	1	pfam00162 PGK Phosphoglycerate kinase. 
+1944	pfam03934	0.0221778664892437	1	pfam03934 T2SSK Type II secretion system (T2SS), p
+1945	pfam01075	0.0221778664892437	1	pfam01075 Glyco_transf_9 Glycosyltransferase famil
+1946	pfam11743	0.0221778664892437	1	pfam11743 DUF3301 Protein of unknown function (DUF
+1947	pfam11892	0.0221778664892437	1	pfam11892 DUF3412 Domain of unknown function (DUF3
+1948	pfam09823	0.0221778664892437	1	pfam09823 DUF2357 Domain of unknown function (DUF2
+1949	pfam03709	0.0221778664892437	1	pfam03709 OKR_DC_1_N Orn/Lys/Arg decarboxylase, N-
+1950	pfam02154	0.0221778664892437	1	pfam02154 FliM Flagellar motor switch protein FliM
+1951	pfam04994	0.0221778664892437	1	pfam04994 TfoX_C TfoX C-terminal domain. TfoX may 
+1952	pfam04452	0.0221778664892437	1	pfam04452 Methyltrans_RNA RNA methyltransferase. R
+1953	pfam16320	0.0221778664892437	1	pfam16320 Ribosomal_L12_N Ribosomal protein L7/L12
+1954	pfam07866	0.0221778664892437	1	pfam07866 DUF1653 Protein of unknown function (DUF
+1955	pfam05209	0.0221778664892437	1	pfam05209 MinC_N Septum formation inhibitor MinC, 
+1956	pfam10987	0.0221778664892437	1	pfam10987 DUF2806 Protein of unknown function (DUF
+1957	pfam01121	0.0221778664892437	1	pfam01121 CoaE Dephospho-CoA kinase. This family c
+1958	pfam01219	0.0221778664892437	1	pfam01219 DAGK_prokar Prokaryotic diacylglycerol k
+1959	pfam13483	0.0221778664892437	1	pfam13483 Lactamase_B_3 Beta-lactamase superfamily
+1960	pfam13195	0.0221778664892437	1	pfam13195 DUF4011 Protein of unknown function (DUF
+1961	pfam14537	0.0221778664892437	1	pfam14537 Cytochrom_c3_2 Cytochrome c3. 
+1962	pfam00574	0.0221778664892437	1	pfam00574 CLP_protease Clp protease. The Clp prote
+1963	pfam03170	0.0221778664892437	1	pfam03170 BcsB Bacterial cellulose synthase subuni
+1964	pfam11658	0.0221778664892437	1	pfam11658 CBP_BcsG Cellulose biosynthesis protein 
+1965	pfam12277	0.0221778664892437	1	pfam12277 DUF3618 Protein of unknown function (DUF
+1966	pfam07568	0.0221778664892437	1	pfam07568 HisKA_2 Histidine kinase. This is the di
+1967	pfam00175	0.0221778664892437	1	pfam00175 NAD_binding_1 Oxidoreductase NAD-binding
+1968	pfam03483	0.0221778664892437	1	pfam03483 B3_4 B3/4 domain. This domain is found i
+1969	pfam01255	0.0221778664892437	1	pfam01255 Prenyltransf Putative undecaprenyl dipho
+1970	pfam13369	0.0221778664892437	1	pfam13369 Transglut_core2 Transglutaminase-like su
+1971	pfam01928	0.0221778664892437	1	pfam01928 CYTH CYTH domain. These sequences are fu
+1972	pfam10023	0.0221778664892437	1	pfam10023 Aminopep Putative aminopeptidase. This f
+1973	pfam04014	0.0221778664892437	1	pfam04014 MazE_antitoxin Antidote-toxin recognitio
+1974	pfam13188	0.0221778664892437	1	pfam13188 PAS_8 PAS domain. 
+1975	pfam02911	0.0221778664892437	1	pfam02911 Formyl_trans_C Formyl transferase, C-ter
+1976	pfam11342	0.0221778664892437	1	pfam11342 DUF3144 Protein of unknown function (DUF
+1977	pfam01761	0.0221778664892437	1	pfam01761 DHQ_synthase 3-dehydroquinate synthase. 
+1978	pfam00543	0.0221778664892437	1	pfam00543 P-II Nitrogen regulatory protein P-II. P
+1979	pfam14718	0.0221778664892437	1	pfam14718 SLT_L Soluble lytic murein transglycosyl
+1980	pfam01295	0.0221778664892437	1	pfam01295 Adenylate_cycl Adenylate cyclase, class-
+1981	pfam13738	0.0221778664892437	1	pfam13738 Pyr_redox_3 Pyridine nucleotide-disulphi
+1982	pfam03354	0.0221778664892437	1	pfam03354 Terminase_1 Phage Terminase. The majorit
+1983	pfam01797	0.0221778664892437	1	pfam01797 Y1_Tnp Transposase IS200 like. Transposa
+1984	pfam07120	0.0221778664892437	1	pfam07120 DUF1376 Protein of unknown function (DUF
+1985	pfam02542	0.0221778664892437	1	pfam02542 YgbB YgbB family. The ygbB protein is a 
+1986	pfam07021	0.0221778664892437	1	pfam07021 MetW Methionine biosynthesis protein Met
+1987	pfam01343	0.0221778664892437	1	pfam01343 Peptidase_S49 Peptidase family S49. 
+1988	pfam13599	0.0221778664892437	1	pfam13599 Pentapeptide_4 Pentapeptide repeats (9 c
+1989	pfam00805	0.0221778664892437	1	pfam00805 Pentapeptide Pentapeptide repeats (8 cop
+1990	pfam03968	0.0221778664892437	1	pfam03968 OstA OstA-like protein. This family of p
+1991	pfam10048	0.0221778664892437	1	pfam10048 DUF2282 Predicted integral membrane prot
+1992	pfam13380	0.0221778664892437	1	pfam13380 CoA_binding_2 CoA binding domain. This d
+1993	pfam01142	0.0221778664892437	1	pfam01142 TruD tRNA pseudouridine synthase D (TruD
+1994	pfam06041	0.0221778664892437	1	pfam06041 DUF924 Bacterial protein of unknown func
+1995	pfam06628	0.0221778664892437	1	pfam06628 Catalase-rel Catalase-related immune-res
+1996	pfam13745	0.0221778664892437	1	pfam13745 HxxPF_rpt HxxPF-repeated domain. This fa
+1997	pfam02895	0.0221778664892437	1	pfam02895 H-kinase_dim Signal transducing histidin
+1998	pfam00359	0.0221778664892437	1	pfam00359 PTS_EIIA_2 Phosphoenolpyruvate-dependent
+1999	pfam04209	0.0221778664892437	1	pfam04209 HgmA homogentisate 1,2-dioxygenase. Homo
+2000	pfam13396	0.0221778664892437	1	pfam13396 PLDc_N Phospholipase_D-nuclease N-termin
+2001	pfam15604	0.0221778664892437	1	pfam15604 Ntox15 Novel toxin 15. A predicted RNase
+2002	pfam01170	0.0221778664892437	1	pfam01170 UPF0020 Putative RNA methylase family UP
+2003	pfam00829	0.0221778664892437	1	pfam00829 Ribosomal_L21p Ribosomal prokaryotic L21
+2004	pfam16188	0.0221778664892437	1	pfam16188 Peptidase_M24_C C-terminal region of pep
+2005	pfam16473	0.0221778664892437	1	pfam16473 DUF5051 Domain of unknown function (DUF5
+2006	pfam10082	0.0221778664892437	1	pfam10082 BBP2_2 Putative beta-barrel porin 2. Thi
+2007	pfam13776	0.0221778664892437	1	pfam13776 DUF4172 Domain of unknown function (DUF4
+2008	pfam10617	0.0221778664892437	1	pfam10617 DUF2474 Protein of unknown function (DUF
+2009	pfam01743	0.0221778664892437	1	pfam01743 PolyA_pol Poly A polymerase head domain.
+2010	pfam00866	0.0221778664892437	1	pfam00866 Ring_hydroxyl_B Ring hydroxylating beta 
+2011	pfam01259	0.0221778664892437	1	pfam01259 SAICAR_synt SAICAR synthetase. Also know
+2012	pfam03726	0.0221778664892437	1	pfam03726 PNPase Polyribonucleotide nucleotidyltra
+2013	pfam04268	0.0221778664892437	1	pfam04268 SoxG Sarcosine oxidase, gamma subunit fa
+2014	pfam02639	0.0221778664892437	1	pfam02639 DUF188 Uncharacterized BCR, YaiI/YqxD fa
+2015	pfam03588	0.0221778664892437	1	pfam03588 Leu_Phe_trans Leucyl/phenylalanyl-tRNA p
+2016	pfam02569	0.0221778664892437	1	pfam02569 Pantoate_ligase Pantoate-beta-alanine li
+2017	pfam11863	0.0221778664892437	1	pfam11863 DUF3383 Protein of unknown function (DUF
+2018	pfam02277	0.0221778664892437	1	pfam02277 DBI_PRT Phosphoribosyltransferase. This 
+2019	pfam12915	0.0221778664892437	1	pfam12915 DUF3833 Protein of unknown function (DUF
+2020	pfam01368	0.0221778664892437	1	pfam01368 DHH DHH family. It is predicted that thi
+2021	pfam13579	0.0221778664892437	1	pfam13579 Glyco_trans_4_4 Glycosyl transferase 4-l
+2022	pfam06983	0.0221778664892437	1	pfam06983 3-dmu-9_3-mt 3-demethylubiquinone-9 3-me
+2023	pfam11316	0.0221778664892437	1	pfam11316 Rhamno_transf Putative rhamnosyl transfe
+2024	pfam01676	0.0221778664892437	1	pfam01676 Metalloenzyme Metalloenzyme superfamily.
+2025	pfam00825	0.0221778664892437	1	pfam00825 Ribonuclease_P Ribonuclease P. 
+2026	pfam09523	0.0221778664892437	1	pfam09523 DUF2390 Protein of unknown function (DUF
+2027	pfam14930	0.0221778664892437	1	pfam14930 Qn_am_d_aII Quinohemoprotein amine dehyd
+2028	pfam05230	0.0221778664892437	1	pfam05230 MASE2 MASE2 domain. Predicted integral m
+2029	pfam03946	0.0221778664892437	1	pfam03946 Ribosomal_L11_N Ribosomal protein L11, N
+2030	pfam13431	0.0221778664892437	1	pfam13431 TPR_17 Tetratricopeptide repeat. 
+2031	pfam05109	0.0221778664892437	1	pfam05109 Herpes_BLLF1 Herpes virus major outer en
+2032	pfam00959	0.0221778664892437	1	pfam00959 Phage_lysozyme Phage lysozyme. This fami
+2033	pfam02491	0.0221778664892437	1	pfam02491 SHS2_FTSA SHS2 domain inserted in FTSA. 
+2034	pfam13230	0.0221778664892437	1	pfam13230 GATase_4 Glutamine amidotransferases cla
+2035	pfam01619	0.0221778664892437	1	pfam01619 Pro_dh Proline dehydrogenase. 
+2036	pfam11356	0.0221778664892437	1	pfam11356 T4SC Type IV pilus biogenesis. Type IV p
+2037	pfam03710	0.0221778664892437	1	pfam03710 GlnE Glutamate-ammonia ligase adenylyltr
+2038	pfam02567	0.0221778664892437	1	pfam02567 PhzC-PhzF Phenazine biosynthesis-like pr
+2039	pfam04314	0.0221778664892437	1	pfam04314 DUF461 Protein of unknown function (DUF4
+2040	pfam13283	0.0221778664892437	1	pfam13283 NfrA_C Bacteriophage N adsorption protei
+2041	pfam09312	0.0221778664892437	1	pfam09312 SurA_N SurA N-terminal domain. This doma
+2042	pfam13586	0.0221778664892437	1	pfam13586 DDE_Tnp_1_2 Transposase DDE domain. Tran
+2043	pfam13007	0.0221778664892437	1	pfam13007 LZ_Tnp_IS66 Transposase C of IS166 homeo
+2044	pfam07085	0.0221778664892437	1	pfam07085 DRTGG DRTGG domain. This presumed domain
+2045	pfam13852	0.0221778664892437	1	pfam13852 DUF4197 Protein of unknown function (DUF
+2046	pfam13556	0.0221778664892437	1	pfam13556 HTH_30 PucR C-terminal helix-turn-helix 
+2047	pfam13699	0.0221778664892437	1	pfam13699 DUF4157 Domain of unknown function (DUF4
+2048	pfam03707	0.0221778664892437	1	pfam03707 MHYT Bacterial signalling protein N term
+2049	pfam04536	0.0221778664892437	1	pfam04536 TPM TLP18.3, Psb32 and MOLO-1 founding p
+2050	pfam04336	0.0221778664892437	1	pfam04336 DUF479 Protein of unknown function, DUF4
+2051	pfam11066	0.0221778664892437	1	pfam11066 DUF2867 Protein of unknown function (DUF
+2052	pfam02824	0.0221778664892437	1	pfam02824 TGS TGS domain. The TGS domain is named 
+2053	pfam01134	0.0221778664892437	1	pfam01134 GIDA Glucose inhibited division protein 
+2054	pfam06611	0.0221778664892437	1	pfam06611 DUF1145 Protein of unknown function (DUF
+2055	pfam04079	0.0221778664892437	1	pfam04079 DUF387 Putative transcriptional regulato
+2056	pfam01943	0.0221778664892437	1	pfam01943 Polysacc_synt Polysaccharide biosynthesi
+2057	pfam06844	0.0221778664892437	1	pfam06844 DUF1244 Protein of unknown function (DUF
+2058	pfam11104	0.0221778664892437	1	pfam11104 PilM_2 Type IV pilus assembly protein Pi
+2059	pfam01205	0.0221778664892437	1	pfam01205 UPF0029 Uncharacterized protein family U
+2060	pfam13986	0.0221778664892437	1	pfam13986 DUF4224 Domain of unknown function (DUF4
+2061	pfam13427	0.0221778664892437	1	pfam13427 DUF4111 Domain of unknown function (DUF4
+2062	pfam12147	0.0221778664892437	1	pfam12147 Methyltransf_20 Putative methyltransfera
+2063	pfam14347	0.0221778664892437	1	pfam14347 DUF4399 Domain of unknown function (DUF4
+2064	pfam10001	0.0221778664892437	1	pfam10001 DUF2242 Uncharacterized protein conserve
+2065	pfam03884	0.0221778664892437	1	pfam03884 DUF329 Domain of unknown function (DUF32
+2066	pfam00781	0.0221778664892437	1	pfam00781 DAGK_cat Diacylglycerol kinase catalytic
+2067	pfam00471	0.0221778664892437	1	pfam00471 Ribosomal_L33 Ribosomal protein L33. 
+2068	pfam01491	0.0221778664892437	1	pfam01491 Frataxin_Cyay Frataxin-like domain. This
+2069	pfam12349	0.0221778664892437	1	pfam12349 Sterol-sensing Sterol-sensing domain of 
+2070	pfam04230	0.0221778664892437	1	pfam04230 PS_pyruv_trans Polysaccharide pyruvyl tr
+2071	pfam07479	0.0221778664892437	1	pfam07479 NAD_Gly3P_dh_C NAD-dependent glycerol-3-
+2072	pfam00370	0.0221778664892437	1	pfam00370 FGGY_N FGGY family of carbohydrate kinas
+2073	pfam05534	0.0221778664892437	1	pfam05534 HicB HicB family. This family consists o
+2074	pfam05368	0.0221778664892437	1	pfam05368 NmrA NmrA-like family. NmrA is a negativ
+2075	pfam01678	0.0221778664892437	1	pfam01678 DAP_epimerase Diaminopimelate epimerase.
+2076	pfam10589	0.0221778664892437	1	pfam10589 NADH_4Fe-4S NADH-ubiquinone oxidoreducta
+2077	pfam02390	0.0221778664892437	1	pfam02390 Methyltransf_4 Putative methyltransferas
+2078	pfam02652	0.0221778664892437	1	pfam02652 Lactate_perm L-lactate permease. L-lacta
+2079	pfam12344	0.0221778664892437	1	pfam12344 UvrB Ultra-violet resistance protein B. 
+2080	pfam01728	0.0221778664892437	1	pfam01728 FtsJ FtsJ-like methyltransferase. This f
+2081	pfam01329	0.0221778664892437	1	pfam01329 Pterin_4a Pterin 4 alpha carbinolamine d
+2082	pfam04066	0.0221778664892437	1	pfam04066 MrpF_PhaF Multiple resistance and pH reg
+2083	pfam04375	0.0221778664892437	1	pfam04375 HemX HemX. This family consists of sever
+2084	pfam00082	0.0221778664892437	1	pfam00082 Peptidase_S8 Subtilase family. Subtilase
+2085	pfam10686	0.0221778664892437	1	pfam10686 DUF2493 Protein of unknown function (DUF
+2086	pfam00762	0.0221778664892437	1	pfam00762 Ferrochelatase Ferrochelatase. 
+2087	pfam14397	0.0221778664892437	1	pfam14397 ATPgrasp_ST Sugar-transfer associated AT
+2088	pfam02669	0.0221778664892437	1	pfam02669 KdpC K+-transporting ATPase, c chain. Th
+2089	pfam11740	0.0221778664892437	1	pfam11740 KfrA_N Plasmid replication region DNA-bi
+2090	pfam03979	0.0221778664892437	1	pfam03979 Sigma70_r1_1 Sigma-70 factor, region 1.1
+2091	pfam02463	0.0221778664892437	1	pfam02463 SMC_N RecF/RecN/SMC N terminal domain. T
+2092	pfam04860	0.0221778664892437	1	pfam04860 Phage_portal Phage portal protein. Bacte
+2093	pfam01084	0.0221778664892437	1	pfam01084 Ribosomal_S18 Ribosomal protein S18. 
+2094	pfam01878	0.0221778664892437	1	pfam01878 EVE EVE domain. This domain was formerly
+2095	pfam08496	0.0221778664892437	1	pfam08496 Peptidase_S49_N Peptidase family S49 N-t
+2096	pfam10604	0.0221778664892437	1	pfam10604 Polyketide_cyc2 Polyketide cyclase / deh
+2097	pfam03253	0.0221778664892437	1	pfam03253 UT Urea transporter. Members of this fam
+2098	pfam14841	0.0221778664892437	1	pfam14841 FliG_M FliG middle domain. This is the m
+2099	pfam05981	0.0221778664892437	1	pfam05981 CreA CreA protein. This family consists 
+2100	pfam04143	0.0221778664892437	1	pfam04143 Sulf_transp Sulphur transport. This is a
+2101	pfam05736	0.0221778664892437	1	pfam05736 OprF OprF membrane domain. This domain r
+2102	pfam15976	0.0221778664892437	1	pfam15976 CooC_C CS1-pili formation C-terminal. Co
+2103	pfam00419	0.0221778664892437	1	pfam00419 Fimbrial Fimbrial protein. 
+2104	pfam14803	0.0221778664892437	1	pfam14803 Nudix_N_2 Nudix N-terminal. Ths domain o
+2105	pfam03129	0.0221778664892437	1	pfam03129 HGTP_anticodon Anticodon binding domain.
+2106	pfam10945	0.0221778664892437	1	pfam10945 CBP_BcsR Cellulose biosynthesis protein 
+2107	pfam12241	0.0221778664892437	1	pfam12241 Enoyl_reductase Trans-2-enoyl-CoA reduct
+2108	pfam02618	0.0221778664892437	1	pfam02618 YceG YceG-like family. This family of pr
+2109	pfam06315	0.0221778664892437	1	pfam06315 AceK Isocitrate dehydrogenase kinase/pho
+2110	pfam04445	0.0221778664892437	1	pfam04445 SAM_MT Putative SAM-dependent methyltran
+2111	pfam02655	0.0221778664892437	1	pfam02655 ATP-grasp_3 ATP-grasp domain. No functio
+2112	pfam03640	0.0221778664892437	1	pfam03640 Lipoprotein_15 Secreted repeat of unknow
+2113	pfam16459	0.0221778664892437	1	pfam16459 Phage_TAC_13 Phage tail assembly chapero
+2114	pfam00268	0.0221778664892437	1	pfam00268 Ribonuc_red_sm Ribonucleotide reductase,
+2115	pfam14402	0.0221778664892437	1	pfam14402 7TM_transglut 7 transmembrane helices us
+2116	pfam00391	0.0221778664892437	1	pfam00391 PEP-utilizers PEP-utilizing enzyme, mobi
+2117	pfam07196	0.0221778664892437	1	pfam07196 Flagellin_IN Flagellin hook IN motif. Th
+2118	pfam03899	0.0221778664892437	1	pfam03899 ATP-synt_I ATP synthase I chain. The atp
+2119	pfam05227	0.0221778664892437	1	pfam05227 CHASE3 CHASE3 domain. CHASE3 is an extra
+2120	pfam13444	0.0221778664892437	1	pfam13444 Acetyltransf_5 Acetyltransferase (GNAT) 
+2121	pfam01595	0.0221778664892437	1	pfam01595 DUF21 Domain of unknown function DUF21. 
+2122	pfam08218	0.0221778664892437	1	pfam08218 Citrate_ly_lig Citrate lyase ligase C-te
+2123	pfam01899	0.0221778664892437	1	pfam01899 MNHE Na+/H+ ion antiporter subunit. Subu
+2124	pfam01270	0.0221778664892437	1	pfam01270 Glyco_hydro_8 Glycosyl hydrolases family
+2125	pfam07395	0.0221778664892437	1	pfam07395 Mig-14 Mig-14. This family contains a nu
+2126	pfam01597	0.0221778664892437	1	pfam01597 GCV_H Glycine cleavage H-protein. This i
+2127	pfam02620	0.0221778664892437	1	pfam02620 DUF177 Uncharacterized ACR, COG1399. 
+2128	pfam10986	0.0221778664892437	1	pfam10986 DUF2796 Protein of unknown function (DUF
+2129	pfam02894	0.0221778664892437	1	pfam02894 GFO_IDH_MocA_C Oxidoreductase family, C-
+2130	pfam04351	0.0221778664892437	1	pfam04351 PilP Pilus assembly protein, PilP. The P
+2131	pfam03740	0.0221778664892437	1	pfam03740 PdxJ Pyridoxal phosphate biosynthesis pr
+2132	pfam02447	0.0221778664892437	1	pfam02447 GntP_permease GntP family permease. This
+2133	pfam13654	0.0221778664892437	1	pfam13654 AAA_32 AAA domain. This family includes 
+2134	pfam03079	0.0221778664892437	1	pfam03079 ARD ARD/ARD' family. The two acireducton
+2135	pfam00183	0.0221778664892437	1	pfam00183 HSP90 Hsp90 protein. 
+2136	pfam11354	0.0221778664892437	1	pfam11354 DUF3156 Protein of unknown function (DUF
+2137	pfam10861	0.0221778664892437	1	pfam10861 DUF2784 Protein of Unknown function (DUF
+2138	pfam00406	0.0221778664892437	1	pfam00406 ADK Adenylate kinase. 
+2139	pfam13298	0.0221778664892437	1	pfam13298 LigD_N DNA polymerase Ligase (LigD). Thi
+2140	pfam00520	0.0221778664892437	1	pfam00520 Ion_trans Ion transport protein. This fa
+2141	pfam13088	0.0221778664892437	1	pfam13088 BNR_2 BNR repeat-like domain. This famil
+2142	pfam10977	0.0221778664892437	1	pfam10977 DUF2797 Protein of unknown function (DUF
+2143	pfam11086	0.0221778664892437	1	pfam11086 DUF2878 Protein of unknown function (DUF
+2144	pfam02806	0.0221778664892437	1	pfam02806 Alpha-amylase_C Alpha amylase, C-termina
+2145	pfam00264	0.0221778664892437	1	pfam00264 Tyrosinase Common central domain of tyro
+2146	pfam02498	0.0221778664892437	1	pfam02498 Bro-N BRO family, N-terminal domain. Thi
+2147	pfam07693	0.0221778664892437	1	pfam07693 KAP_NTPase KAP family P-loop domain. The
+2148	pfam10052	0.0221778664892437	1	pfam10052 DUF2288 Protein of unknown function (DUF
+2149	pfam00035	0.0221778664892437	1	pfam00035 dsrm Double-stranded RNA binding motif. 
+2150	pfam00456	0.0221778664892437	1	pfam00456 Transketolase_N Transketolase, thiamine 
+2151	pfam13309	0.0221778664892437	1	pfam13309 HTH_22 HTH domain. This domain is a heli
+2152	pfam16263	0.0221778664892437	1	pfam16263 DUF4917 Domain of unknown function (DUF4
+2153	pfam00515	0.0221778664892437	1	pfam00515 TPR_1 Tetratricopeptide repeat. 
+2154	pfam01638	0.0221778664892437	1	pfam01638 HxlR HxlR-like helix-turn-helix. HxlR, a
+2155	pfam01936	0.0221778664892437	1	pfam01936 NYN NYN domain. These domains are found 
+2156	pfam14691	0.0221778664892437	1	pfam14691 Fer4_20 Dihydroprymidine dehydrogenase d
+2157	pfam14542	0.0221778664892437	1	pfam14542 Acetyltransf_CG GCN5-related N-acetyl-tr
+2158	pfam13420	0.0221778664892437	1	pfam13420 Acetyltransf_4 Acetyltransferase (GNAT) 
+2159	pfam05683	0.0221778664892437	1	pfam05683 Fumerase_C Fumarase C-terminus. This fam
+2160	pfam01315	0.0221778664892437	1	pfam01315 Ald_Xan_dh_C Aldehyde oxidase and xanthi
+2161	pfam03379	0.0221778664892437	1	pfam03379 CcmB CcmB protein. CcmB is the product o
+2162	pfam14403	0.0221778664892437	1	pfam14403 CP_ATPgrasp_2 Circularly permuted ATP-gr
+2163	pfam03462	0.0221778664892437	1	pfam03462 PCRF PCRF domain. This domain is found i
+2164	pfam01503	0.0221778664892437	1	pfam01503 PRA-PH Phosphoribosyl-ATP pyrophosphohyd
+2165	pfam07130	0.0221778664892437	1	pfam07130 YebG YebG protein. This family consists 
+2166	pfam14246	0.0221778664892437	1	pfam14246 TetR_C_7 AefR-like transcriptional repre
+2167	pfam01175	0.0221778664892437	1	pfam01175 Urocanase Urocanase. 
+2168	pfam02130	0.0221778664892437	1	pfam02130 UPF0054 Uncharacterized protein family U
+2169	pfam00301	0.0221778664892437	1	pfam00301 Rubredoxin Rubredoxin. 
+2170	pfam07793	0.0221778664892437	1	pfam07793 DUF1631 Protein of unknown function (DUF
+2171	pfam01783	0.0221778664892437	1	pfam01783 Ribosomal_L32p Ribosomal L32p protein fa
+2172	pfam13667	0.0221778664892437	1	pfam13667 ThiC-associated ThiC-associated domain. 
+2173	pfam05222	0.0221778664892437	1	pfam05222 AlaDh_PNT_N Alanine dehydrogenase/PNT, N
+2174	pfam01520	0.0221778664892437	1	pfam01520 Amidase_3 N-acetylmuramoyl-L-alanine ami
+2175	pfam13509	0.0221778664892437	1	pfam13509 S1_2 S1 domain. The S1 domain was origin
+2176	pfam09832	0.0221778664892437	1	pfam09832 DUF2059 Uncharacterized protein conserve
+2177	pfam14357	0.0221778664892437	1	pfam14357 DUF4404 Domain of unknown function (DUF4
+2178	pfam08042	0.0221778664892437	1	pfam08042 PqqA PqqA family. This family consists o
+2179	pfam07746	0.0221778664892437	1	pfam07746 LigA Aromatic-ring-opening dioxygenase L
+2180	pfam07244	0.0221778664892437	1	pfam07244 POTRA Surface antigen variable number re
+2181	pfam01713	0.0221778664892437	1	pfam01713 Smr Smr domain. This family includes the
+2182	pfam00679	0.0221778664892437	1	pfam00679 EFG_C Elongation factor G C-terminus. Th
+2183	pfam01029	0.0221778664892437	1	pfam01029 NusB NusB family. The NusB protein is in
+2184	pfam06189	0.0221778664892437	1	pfam06189 5-nucleotidase 5'-nucleotidase. This fam
+2185	pfam05940	0.0221778664892437	1	pfam05940 NnrS NnrS protein. This family consists 
+2186	pfam11974	0.0221778664892437	1	pfam11974 MG1 Alpha-2-macroglobulin MG1 domain. Th
+2187	pfam02649	0.0221778664892437	1	pfam02649 GCHY-1 Type I GTP cyclohydrolase folE2. 
+2188	pfam14489	0.0221778664892437	1	pfam14489 QueF QueF-like protein. This protein is 
+2189	pfam08239	0.0221778664892437	1	pfam08239 SH3_3 Bacterial SH3 domain. 
+2190	pfam08787	0.0221778664892437	1	pfam08787 Alginate_lyase2 Alginate lyase. Alginate
+2191	pfam00333	0.0221778664892437	1	pfam00333 Ribosomal_S5 Ribosomal protein S5, N-ter
+2192	pfam01906	0.0221778664892437	1	pfam01906 YbjQ_1 Putative heavy-metal-binding. Fro
+2193	pfam08032	0.0221778664892437	1	pfam08032 SpoU_sub_bind RNA 2'-O ribose methyltran
+2194	pfam16976	0.0221778664892437	1	pfam16976 RcpC Flp pilus assembly protein RcpC/Cpa
+2195	pfam03309	0.0221778664892437	1	pfam03309 Pan_kinase Type III pantothenate kinase.
+2196	pfam03988	0.0221778664892437	1	pfam03988 DUF347 Repeat of Unknown Function (DUF34
+2197	pfam01541	0.0221778664892437	1	pfam01541 GIY-YIG GIY-YIG catalytic domain. This d
+2198	pfam00709	0.0221778664892437	1	pfam00709 Adenylsucc_synt Adenylosuccinate synthet
+2199	pfam13264	0.0221778664892437	1	pfam13264 DUF4055 Domain of unknown function (DUF4
+2200	pfam02633	0.0221778664892437	1	pfam02633 Creatininase Creatinine amidohydrolase. 
+2201	pfam10013	0.0221778664892437	1	pfam10013 DUF2256 Uncharacterized protein conserve
+2202	pfam11293	0.0221778664892437	1	pfam11293 DUF3094 Protein of unknown function (DUF
+2203	pfam00468	0.0221778664892437	1	pfam00468 Ribosomal_L34 Ribosomal protein L34. 
+2204	pfam08883	0.0221778664892437	1	pfam08883 DOPA_dioxygen Dopa 4,5-dioxygenase famil
+2205	pfam04453	0.0221778664892437	1	pfam04453 OstA_C Organic solvent tolerance protein
+2206	pfam09828	0.0221778664892437	1	pfam09828 Chrome_Resist Chromate resistance export
+2207	pfam01192	0.0221778664892437	1	pfam01192 RNA_pol_Rpb6 RNA polymerase Rpb6. Rpb6 i
+2208	pfam02698	0.0221778664892437	1	pfam02698 DUF218 DUF218 domain. This large family 
+2209	pfam13551	0.0221778664892437	1	pfam13551 HTH_29 Winged helix-turn helix. This hel
+2210	pfam13470	0.0221778664892437	1	pfam13470 PIN_3 PIN domain. Members of this family
+2211	pfam06831	0.0221778664892437	1	pfam06831 H2TH Formamidopyrimidine-DNA glycosylase
+2212	pfam06568	0.0221778664892437	1	pfam06568 DUF1127 Domain of unknown function (DUF1
+2213	pfam00742	0.0221778664892437	1	pfam00742 Homoserine_dh Homoserine dehydrogenase. 
+2214	pfam02075	0.0221778664892437	1	pfam02075 RuvC Crossover junction endodeoxyribonuc
+2215	pfam02568	0.0221778664892437	1	pfam02568 ThiI Thiamine biosynthesis protein (ThiI
+2216	pfam06715	0.0221778664892437	1	pfam06715 Gp5_C Gp5 C-terminal repeat (3 copies). 
+2217	pfam01052	0.0221778664892437	1	pfam01052 FliMN_C Type III flagellar switch regula
+2218	pfam08361	0.0221778664892437	1	pfam08361 TetR_C_2 MAATS-type transcriptional repr
+2219	pfam08922	0.0221778664892437	1	pfam08922 DUF1905 Domain of unknown function (DUF1
+2220	pfam01048	0.0221778664892437	1	pfam01048 PNP_UDP_1 Phosphorylase superfamily. Mem
+2221	pfam04359	0.0221778664892437	1	pfam04359 DUF493 Protein of unknown function (DUF4
+2222	pfam02040	0.0221778664892437	1	pfam02040 ArsB Arsenical pump membrane protein. 
+2223	pfam16884	0.0221778664892437	1	pfam16884 ADH_N_2 N-terminal domain of oxidoreduct
+2224	pfam00215	0.0221778664892437	1	pfam00215 OMPdecase Orotidine 5'-phosphate decarbo
+2225	pfam13883	0.0221778664892437	1	pfam13883 Pyrid_oxidase_2 Pyridoxamine 5'-phosphat
+2226	pfam13472	0.0221778664892437	1	pfam13472 Lipase_GDSL_2 GDSL-like Lipase/Acylhydro
+2227	pfam13580	0.0221778664892437	1	pfam13580 SIS_2 SIS domain. SIS (Sugar ISomerase) 
+2228	pfam00188	0.0221778664892437	1	pfam00188 CAP Cysteine-rich secretory protein fami
+2229	pfam13376	0.0221778664892437	1	pfam13376 OmdA Bacteriocin-protection, YdeI or Omp
+2230	pfam00476	0.0221778664892437	1	pfam00476 DNA_pol_A DNA polymerase family A. 
+2231	pfam00576	0.0221778664892437	1	pfam00576 Transthyretin HIUase/Transthyretin famil
+2232	pfam02445	0.0221778664892437	1	pfam02445 NadA Quinolinate synthetase A protein. Q
+2233	pfam00455	0.0221778664892437	1	pfam00455 DeoRC DeoR C terminal sensor domain. The
+2234	pfam01650	0.0221778664892437	1	pfam01650 Peptidase_C13 Peptidase C13 family. Memb
+2235	pfam14534	0.0221778664892437	1	pfam14534 DUF4440 Domain of unknown function (DUF4
+2236	pfam11191	0.0221778664892437	1	pfam11191 DUF2782 Protein of unknown function (DUF
